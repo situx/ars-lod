@@ -4,7 +4,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
 PREFIX sci: <http://www.ics.forth.gr/isl/CRMsci/>
 
-SELECT ?obj ?feature ?label ?ftype ?mantype ?geom ?geom WHERE {
+SELECT ?obj ?feature ?label ?ftype ?n_ftype ?mantype ?geom WHERE {
 ?obj crm:P56_bears_feature ?feature. ?feature a crm:E25_Man-Made_Feature.
 ?feature rdfs:label ?label.
 OPTIONAL { ?feature crm:P2_has_type ?n_ftype. ?n_ftype rdfs:label ?ftype. ?n_ftype a ars:Feature_Type. }
