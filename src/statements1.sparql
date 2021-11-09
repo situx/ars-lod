@@ -1,0 +1,18 @@
+PREFIX ars3d: <http://java-dev.rgzm.de/ars#>
+PREFIX ars: <http://ars3D/documentation/ontology/arsonto#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX sci: <http://www.ics.forth.gr/isl/CRMsci/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT DISTINCT ?statement ?class ?type ?comment WHERE {
+?statement a ars:Statement.
+?statement rdfs:comment ?comment.
+?statement crm:P2_has_type ?n_statement.
+?n_statement a ?n_type.
+?n_type rdfs:label ?type.
+?n_type rdfs:subClassOf ?sco.
+FILTER(?sco=ars:Applique_Type)
+?n_statement ars:classification-number ?class.
+FILTER(?class != 'kannweg')
+} ORDER BY ASC(?class)

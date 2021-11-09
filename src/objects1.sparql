@@ -1,0 +1,18 @@
+PREFIX ars3d: <http://java-dev.rgzm.de/ars#>
+PREFIX ars: <http://ars3D/documentation/ontology/arsonto#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+
+SELECT ?obj ?label ?objtype ?id ?shape ?time_general ?time_detail ?condition ?material ?mantype ?arachneEntity ?arachneModel WHERE {
+?obj a ?objtype.
+?obj rdfs:label ?label.
+?obj crm:P1_is_identified_by ?n_id. ?n_id rdfs:label ?id.
+OPTIONAL { ?obj ars:hasShape ?n_shape. ?n_shape rdfs:label ?shape. }
+OPTIONAL { ?obj crm:P8_took_place_on_or_within ?n_time. ?n_time rdfs:label ?time_general. ?n_time crm:P86i_contains ?n_time2. ?n_time2 rdfs:label ?time_detail. }
+OPTIONAL { ?obj crm:P44_has_condition ?n_condition. ?n_condition rdfs:label ?condition. }
+OPTIONAL { ?obj crm:P2_has_type ?n_material. ?n_material rdfs:label ?material. ?n_material a crm:E57_Material.}
+OPTIONAL { ?obj crm:P2_has_type ?n_mantype. ?n_mantype rdfs:label ?mantype. ?n_mantype a ars:Manufacturing_Object_Type.}
+?obj ars:arachneMatch ?arachneEntity.
+?obj ars:arachne3DMatch ?arachneModel.
+FILTER(?objtype = ars:ARS_Object || ?objtype = ars:Manufacturing_Object)
+} ORDER BY ASC(?id)
