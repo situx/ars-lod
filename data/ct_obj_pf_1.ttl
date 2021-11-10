@@ -1,0 +1,951 @@
+# create triples from ct_obj_pf.csv 
+# on 2021-11-10 13:41
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#> 
+PREFIX dc: <http://purl.org/dc/elements/1.1/> 
+PREFIX sf: <http://www.opengis.net/ont/sf#> 
+PREFIX lado: <http://archaeology.link/ontology#> 
+PREFIX ars: <http://data.archaeology.link/data/ars/> 
+PREFIX samian: <http://data.archaeology.link/data/samian/> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+ PREFIX pelagios: <http://pelagios.github.io/vocab/terms#> 
+PREFIX oa: <http://www.w3.org/ns/oa#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX foaf: <http://xmlns.com/foaf/0.1/> 
+PREFIX relations: <http://pelagios.github.io/vocab/relations#> 
+PREFIX cnt: <http://www.w3.org/2011/content#> 
+PREFIX pleiades: <http://pleiades.stoa.org/places/> 
+PREFIX amt: <http://academic-meta-tool.xyz/vocab#> 
+
+ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 dcterms:bibliographicCitation 'Atlante (1981), p. 194'.
+ars:ic_27ce2883-5029-43b5-bc17-f51d236311f3 lado:representedBy ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8.
+ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 lado:hasImage <https://zenodo.org/record/5645180/files/27ce2883-5029-43b5-bc17-f51d236311f3.jpg>.
+
+ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 dcterms:bibliographicCitation 'Atlante (1981), p. 194'.
+ars:ic_1358c742-585b-40dc-92e4-ccd65c1aeef0 lado:representedBy ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694.
+ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 lado:hasImage <https://zenodo.org/record/5645180/files/1358c742-585b-40dc-92e4-ccd65c1aeef0.jpg>.
+
+ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 dcterms:bibliographicCitation 'Atlante (1981), p. 194'.
+ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 lado:representedBy ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694.
+ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 lado:hasImage <https://zenodo.org/record/5645180/files/2d986f4e-77e9-43a9-9cca-28564978c7d4.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_0adaf0b2-b332-48e6-bc24-4869b97cddd2 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/0adaf0b2-b332-48e6-bc24-4869b97cddd2.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_0d0bb3b4-24dd-4952-9f6d-40a45f79ad99 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/0d0bb3b4-24dd-4952-9f6d-40a45f79ad99.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_25b40190-bc1f-4848-b1dc-6117f52beb19 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/25b40190-bc1f-4848-b1dc-6117f52beb19.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_48ea1d18-6f68-4722-911c-39b91f7a4dc8 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/48ea1d18-6f68-4722-911c-39b91f7a4dc8.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_628d4a12-c65f-4a1d-b750-0721fe17d8a6 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/628d4a12-c65f-4a1d-b750-0721fe17d8a6.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_6a010361-1564-4b97-98df-249e5ab8bc26 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/6a010361-1564-4b97-98df-249e5ab8bc26.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_79ae1a7a-5fcc-4a8b-a1d7-1337e2d89783 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/79ae1a7a-5fcc-4a8b-a1d7-1337e2d89783.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_88e6c61b-637c-4d9d-91a6-8c55f08b02dd lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/88e6c61b-637c-4d9d-91a6-8c55f08b02dd.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_8eaf5eb2-dca6-4937-a1a7-d8aaf108e0a5 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/8eaf5eb2-dca6-4937-a1a7-d8aaf108e0a5.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_ae4dbf14-8923-4b78-9596-d36db460dcba lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/ae4dbf14-8923-4b78-9596-d36db460dcba.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_c078b794-e522-4d7c-8195-b9ceca44943a lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/c078b794-e522-4d7c-8195-b9ceca44943a.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_cfdc258d-f2c8-4869-adeb-7e247c0207fa lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/cfdc258d-f2c8-4869-adeb-7e247c0207fa.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_eb4c5d03-04d5-401d-b9dc-79e615dea6a4 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/eb4c5d03-04d5-401d-b9dc-79e615dea6a4.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_f36c6669-a657-4094-b89a-c6f435fad703 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/f36c6669-a657-4094-b89a-c6f435fad703.jpg>.
+
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_fa8a6032-f9a6-4b5a-bbb8-02c6427b08b5 lado:representedBy ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06.
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasImage <https://zenodo.org/record/5645180/files/fa8a6032-f9a6-4b5a-bbb8-02c6427b08b5.jpg>.
+
+ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_7e5ebdd5-77e1-444f-a6fc-75fc01f6e717 lado:representedBy ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb.
+ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb lado:hasImage <https://zenodo.org/record/5645180/files/7e5ebdd5-77e1-444f-a6fc-75fc01f6e717.jpg>.
+
+ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_a1844e9d-0868-482e-bdcb-ff19ebb10ac4 lado:representedBy ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468.
+ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 lado:hasImage <https://zenodo.org/record/5645180/files/a1844e9d-0868-482e-bdcb-ff19ebb10ac4.jpg>.
+
+ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a dcterms:bibliographicCitation 'Atlante (1981), p. 200'.
+ars:ic_0ece00eb-7af9-494a-bd22-f8d8c1d98c2c lado:representedBy ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a.
+ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a lado:hasImage <https://zenodo.org/record/5645180/files/0ece00eb-7af9-494a-bd22-f8d8c1d98c2c.jpg>.
+
+ars:pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 dcterms:bibliographicCitation 'Hayes (1972), p. 18-19'.
+ars:ic_888d0c6b-dfdc-4ee7-a0b7-51958bdbd5f9 lado:representedBy ars:pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3.
+ars:pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 lado:hasImage <https://zenodo.org/record/5645180/files/888d0c6b-dfdc-4ee7-a0b7-51958bdbd5f9.jpg>.
+
+ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c dcterms:bibliographicCitation 'Hayes (1972), p.160-166'.
+ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 lado:representedBy ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c.
+ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c lado:hasImage <https://zenodo.org/record/5645180/files/32f176e7-2baa-4801-87f6-bf62e37b1458.jpg>.
+
+ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c dcterms:bibliographicCitation 'Hayes (1972), p.160-166'.
+ars:ic_a80bcdd8-b981-4c63-9fe9-38edae04e550 lado:representedBy ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c.
+ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c lado:hasImage <https://zenodo.org/record/5645180/files/a80bcdd8-b981-4c63-9fe9-38edae04e550.jpg>.
+
+ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c dcterms:bibliographicCitation 'Hayes (1972), p.160-166'.
+ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 lado:representedBy ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c.
+ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c lado:hasImage <https://zenodo.org/record/5645180/files/c436b4e5-bd6d-4216-84c6-a114f6700b57.jpg>.
+
+ars:pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e dcterms:bibliographicCitation 'Hayes (1972), p. 195-197'.
+ars:ic_620cdbe4-f845-47d6-a24f-542923af9b5b lado:representedBy ars:pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e.
+ars:pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e lado:hasImage <https://zenodo.org/record/5645180/files/620cdbe4-f845-47d6-a24f-542923af9b5b.jpg>.
+
+ars:pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e dcterms:bibliographicCitation 'Hayes (1972), p. 197-198'.
+ars:ic_933b6a2b-c1c8-44b5-bf74-83a6c30d4483 lado:representedBy ars:pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e.
+ars:pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e lado:hasImage <https://zenodo.org/record/5645180/files/933b6a2b-c1c8-44b5-bf74-83a6c30d4483.jpg>.
+
+ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 dcterms:bibliographicCitation 'Hayes (1972), p. 65-67'.
+ars:ic_69dbb49e-6205-45bc-8035-bce4e316bbcd lado:representedBy ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000.
+ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 lado:hasImage <https://zenodo.org/record/5645180/files/69dbb49e-6205-45bc-8035-bce4e316bbcd.jpg>.
+
+ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 dcterms:bibliographicCitation 'Hayes (1972), p. 65-67'.
+ars:ic_c9d7e676-b306-4733-9548-5efc05e16337 lado:representedBy ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000.
+ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 lado:hasImage <https://zenodo.org/record/5645180/files/c9d7e676-b306-4733-9548-5efc05e16337.jpg>.
+
+ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 dcterms:bibliographicCitation 'Hayes (1972), p. 65-67'.
+ars:ic_f30fed53-deae-4b10-a69c-5eebd6f87c7c lado:representedBy ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000.
+ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 lado:hasImage <https://zenodo.org/record/5645180/files/f30fed53-deae-4b10-a69c-5eebd6f87c7c.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017 dcterms:bibliographicCitation 'Hayes (1972), p.73-75'.
+ars:ic_1fa4014c-4e32-478c-8aa1-6632253f6fff lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017 lado:hasImage <https://zenodo.org/record/5645180/files/1fa4014c-4e32-478c-8aa1-6632253f6fff.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017 dcterms:bibliographicCitation 'Hayes (1972), p.73-75'.
+ars:ic_548cfc14-0407-46ba-98f6-bbb2cc044868 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017 lado:hasImage <https://zenodo.org/record/5645180/files/548cfc14-0407-46ba-98f6-bbb2cc044868.jpg>.
+
+ars:pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a dcterms:bibliographicCitation 'Hayes (1972), p. 73-75'.
+ars:ic_181da2ee-0e13-4abd-9dc0-c0703607a7fa lado:representedBy ars:pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a.
+ars:pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a lado:hasImage <https://zenodo.org/record/5645180/files/181da2ee-0e13-4abd-9dc0-c0703607a7fa.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 dcterms:bibliographicCitation 'Hayes (1972), p.76-78'.
+ars:ic_6b5c47ad-82d9-4e20-a2f1-57b357a1df22 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 lado:hasImage <https://zenodo.org/record/5645180/files/6b5c47ad-82d9-4e20-a2f1-57b357a1df22.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 dcterms:bibliographicCitation 'Hayes (1972), p.76-78'.
+ars:ic_aebe3f9b-6896-4c03-b451-d4ca73aa8ad0 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 lado:hasImage <https://zenodo.org/record/5645180/files/aebe3f9b-6896-4c03-b451-d4ca73aa8ad0.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 dcterms:bibliographicCitation 'Hayes (1972), p.76-78'.
+ars:ic_c833a181-6d1d-49be-8cb9-7b87c3f0f0b1 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 lado:hasImage <https://zenodo.org/record/5645180/files/c833a181-6d1d-49be-8cb9-7b87c3f0f0b1.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 dcterms:bibliographicCitation 'Hayes (1972), p.76-78'.
+ars:ic_d077c359-f8f5-4034-8dc6-acabd5fbc2a1 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 lado:hasImage <https://zenodo.org/record/5645180/files/d077c359-f8f5-4034-8dc6-acabd5fbc2a1.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_005a6925-ca3d-4201-92a8-23b702bb2653 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/005a6925-ca3d-4201-92a8-23b702bb2653.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_02698c6e-89d2-4894-9313-3afc3cb6f3a4 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/02698c6e-89d2-4894-9313-3afc3cb6f3a4.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/03669313-ca27-4918-ab2d-6bd0d68d44f1.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_03f836b3-2e11-410a-8053-8e1de8f73fbd lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/03f836b3-2e11-410a-8053-8e1de8f73fbd.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_04711d52-f425-4c54-9a20-68a272ab2ba3 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/04711d52-f425-4c54-9a20-68a272ab2ba3.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_0601716d-b685-4b45-ad2b-3224fc5fc569 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/0601716d-b685-4b45-ad2b-3224fc5fc569.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_09114937-85ef-4bf5-bca0-351696030cd2 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/09114937-85ef-4bf5-bca0-351696030cd2.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_0d6418cb-0e20-4dbb-b2f1-2fd1747f7254 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/0d6418cb-0e20-4dbb-b2f1-2fd1747f7254.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/0e4e84fd-1d0b-4389-a89d-2e5403699a65.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_10e6f99f-172d-47ba-aa3b-4ff348def88c lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/10e6f99f-172d-47ba-aa3b-4ff348def88c.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_15eb9dfe-5bce-466e-83ef-7e118a0e363e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/15eb9dfe-5bce-466e-83ef-7e118a0e363e.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_19d3a1c0-e765-44e4-aba9-ec3fa665d3a1 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/19d3a1c0-e765-44e4-aba9-ec3fa665d3a1.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_1a212bd2-66f6-41f3-871f-0a33de751576 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/1a212bd2-66f6-41f3-871f-0a33de751576.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_1bbbb26b-04f5-48e9-8a14-57e3991bc711 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/1bbbb26b-04f5-48e9-8a14-57e3991bc711.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_211865dd-e890-4f53-928c-4c9176b4633f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/211865dd-e890-4f53-928c-4c9176b4633f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_22652cb5-dc43-4fe7-af35-b9c6f45930aa lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/22652cb5-dc43-4fe7-af35-b9c6f45930aa.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_234a736a-666f-4a3e-98d8-964bcf8f07f9 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/234a736a-666f-4a3e-98d8-964bcf8f07f9.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/235d893f-d8ed-41cc-a7d2-786393a09c5f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_24225437-d773-4211-90d4-ba8513d2569b lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/24225437-d773-4211-90d4-ba8513d2569b.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_29282a82-c498-4ec7-ab07-94846a9f84ac lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/29282a82-c498-4ec7-ab07-94846a9f84ac.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_2c81898a-647b-4527-a3ba-544e918460ca lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/2c81898a-647b-4527-a3ba-544e918460ca.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_2f9af441-bf78-4e2b-b932-7b8f331c305d lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/2f9af441-bf78-4e2b-b932-7b8f331c305d.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_31b839fa-c20e-4ef1-853c-21ef53a66acd lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/31b839fa-c20e-4ef1-853c-21ef53a66acd.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_32c184aa-8812-48a9-bd19-bed6a38348b0 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/32c184aa-8812-48a9-bd19-bed6a38348b0.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_336480d0-010d-4859-9423-2764f0d0f862 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/336480d0-010d-4859-9423-2764f0d0f862.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_347849cd-9e37-495e-ac91-3672f982829a lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/347849cd-9e37-495e-ac91-3672f982829a.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_350d59bb-4fab-4dad-be2f-af33c4053b8d lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/350d59bb-4fab-4dad-be2f-af33c4053b8d.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_387b9391-715e-4869-85ec-936812adfe3e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/387b9391-715e-4869-85ec-936812adfe3e.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_3971ecb2-0c7f-4dcf-a5d9-dc85d4ed8a8e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/3971ecb2-0c7f-4dcf-a5d9-dc85d4ed8a8e.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_3ed16482-392d-4516-ab12-4e55c70906c9 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/3ed16482-392d-4516-ab12-4e55c70906c9.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_400da0ee-b024-47b6-923f-b0dcddcbbc75 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/400da0ee-b024-47b6-923f-b0dcddcbbc75.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_42cbfae4-7957-421f-af01-a734227c3349 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/42cbfae4-7957-421f-af01-a734227c3349.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_433e8d5c-852b-478e-aea7-a95f113d80ce lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/433e8d5c-852b-478e-aea7-a95f113d80ce.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_456117d8-276b-4ceb-94ce-cc8c955a215f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/456117d8-276b-4ceb-94ce-cc8c955a215f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_47722385-a425-4ab9-a6e6-4929082ca0db lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/47722385-a425-4ab9-a6e6-4929082ca0db.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_47def21b-ca45-4dbd-9eac-899956149b1d lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/47def21b-ca45-4dbd-9eac-899956149b1d.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_481e3d80-cc7e-4f3b-91fc-2f7543954eca lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/481e3d80-cc7e-4f3b-91fc-2f7543954eca.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_498c23c1-bc6a-4ca6-80a5-41d56e4dd6eb lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/498c23c1-bc6a-4ca6-80a5-41d56e4dd6eb.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_4b3b8593-d091-4b32-91e6-516c9a6f8dee lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/4b3b8593-d091-4b32-91e6-516c9a6f8dee.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_4c6d23ed-691e-4a18-af2a-5c88041f3f29 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/4c6d23ed-691e-4a18-af2a-5c88041f3f29.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_4dc14582-fb7f-4d5e-a14d-79271ee733a3 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/4dc14582-fb7f-4d5e-a14d-79271ee733a3.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_4ee6e5e0-a831-4859-906f-1976ad72dbd9 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/4ee6e5e0-a831-4859-906f-1976ad72dbd9.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_50f6facb-1e55-4cd0-b157-810f4ba9b8df lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/50f6facb-1e55-4cd0-b157-810f4ba9b8df.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_53b8183d-c264-45f9-846e-345694e3ad50 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/53b8183d-c264-45f9-846e-345694e3ad50.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_554ce8ce-fa32-4cb1-8466-3150d0e9ab32 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/554ce8ce-fa32-4cb1-8466-3150d0e9ab32.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_55d1f7b3-32da-486f-8ca2-f4f9a1c958c5 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/55d1f7b3-32da-486f-8ca2-f4f9a1c958c5.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_56c36ba1-9914-4b1b-af70-ac41eef89614 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/56c36ba1-9914-4b1b-af70-ac41eef89614.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_57052b95-ca87-4d40-b59c-7c4128f78b23 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/57052b95-ca87-4d40-b59c-7c4128f78b23.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_595257bc-f279-49d0-bd69-9fbca4d63dab lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/595257bc-f279-49d0-bd69-9fbca4d63dab.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_5c807488-74f9-44ad-91c6-6a63c09f7c13 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/5c807488-74f9-44ad-91c6-6a63c09f7c13.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_605c9e73-0a35-4f22-b164-539fe1a611d7 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/605c9e73-0a35-4f22-b164-539fe1a611d7.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6174e215-2419-4b5b-8238-34a60dc9be24 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6174e215-2419-4b5b-8238-34a60dc9be24.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_621caf8c-29a5-43f7-9619-b6848a33edf1 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/621caf8c-29a5-43f7-9619-b6848a33edf1.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6436c5eb-4e56-4932-bf74-0a8f29732beb lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6436c5eb-4e56-4932-bf74-0a8f29732beb.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_64c2cb47-bbfc-44c4-9108-3dd6859150f0 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/64c2cb47-bbfc-44c4-9108-3dd6859150f0.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6532867f-138f-4007-8dbf-2e8b3bdb2415 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6532867f-138f-4007-8dbf-2e8b3bdb2415.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_657031c9-ed56-4fc9-8976-595567fdcebe lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/657031c9-ed56-4fc9-8976-595567fdcebe.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_69d9726e-b3fb-4420-9623-0e654bea07c7 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/69d9726e-b3fb-4420-9623-0e654bea07c7.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6a333d42-f63e-42a5-b569-48473ddb92d4 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6a333d42-f63e-42a5-b569-48473ddb92d4.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6a881b21-9361-4adb-aac1-5a35f3d31e50 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6a881b21-9361-4adb-aac1-5a35f3d31e50.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6b46eb63-a258-4076-963f-49b2d0a8530f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6b46eb63-a258-4076-963f-49b2d0a8530f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6ba4ab65-07fb-4ec5-bc66-dc9646afd17e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6ba4ab65-07fb-4ec5-bc66-dc9646afd17e.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6c1486fd-19ab-4b16-9c68-45f720772680.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6e7ed584-db00-4e8d-8652-54931f4ce804 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6e7ed584-db00-4e8d-8652-54931f4ce804.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6ea50e3c-bc0a-494e-ab44-5b5a0451ae37 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6ea50e3c-bc0a-494e-ab44-5b5a0451ae37.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_6f5e3fb8-226d-464b-891b-4e15411c0d24 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/6f5e3fb8-226d-464b-891b-4e15411c0d24.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/70f2a29f-91ee-408b-805b-23e02c5bf981.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_711fa231-3bf1-4be0-83a7-23ea30138424 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/711fa231-3bf1-4be0-83a7-23ea30138424.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_722bc351-bf41-4d1f-a03e-64a0c576a4a8 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/722bc351-bf41-4d1f-a03e-64a0c576a4a8.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_753cfb6d-5d45-4e35-852e-e58579a57412 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/753cfb6d-5d45-4e35-852e-e58579a57412.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_78047d0d-07f8-495c-9827-50998ca11300 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/78047d0d-07f8-495c-9827-50998ca11300.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_7f7e2b5c-de75-429e-893c-beec0bdb7ca4 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/7f7e2b5c-de75-429e-893c-beec0bdb7ca4.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_7f8153b1-3574-43b6-ad0c-7a0dff121a76 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/7f8153b1-3574-43b6-ad0c-7a0dff121a76.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_8332c162-43a7-4d3e-8376-2496e0967fe5 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/8332c162-43a7-4d3e-8376-2496e0967fe5.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_84fdef8d-8c45-40bf-93c9-7a1fd2cb6f22 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/84fdef8d-8c45-40bf-93c9-7a1fd2cb6f22.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_8676222f-2320-4167-b279-21f167c91b25 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/8676222f-2320-4167-b279-21f167c91b25.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_8703dc7e-579e-48f0-a102-bac259527763 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/8703dc7e-579e-48f0-a102-bac259527763.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_870d4d32-d276-49bb-b842-b7e13d7efa2a lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/870d4d32-d276-49bb-b842-b7e13d7efa2a.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_87aca77e-71e9-41e5-b34b-bcbf784b5a16 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/87aca77e-71e9-41e5-b34b-bcbf784b5a16.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/886b1ad7-c519-4765-b5f0-6cc51e735f93.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_8b1cbec4-7d37-4381-84d7-9f159ac68ee9 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/8b1cbec4-7d37-4381-84d7-9f159ac68ee9.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_8dd07582-bdda-4e94-b4dc-e944b160cf51 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/8dd07582-bdda-4e94-b4dc-e944b160cf51.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_8eb7e35a-5a39-4934-80e5-7d6d98643a28 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/8eb7e35a-5a39-4934-80e5-7d6d98643a28.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_90d10a7c-f73b-4e3a-b8d7-11f6047b2add lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/90d10a7c-f73b-4e3a-b8d7-11f6047b2add.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_94852fe4-96c0-4b8f-9b0b-637c51391f39 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/94852fe4-96c0-4b8f-9b0b-637c51391f39.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_95c8cc98-06a8-4bb6-a85b-fcc93c98689f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/95c8cc98-06a8-4bb6-a85b-fcc93c98689f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/96e547e8-fe6b-42b1-ab53-017d68ed0cb3.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_9851bb13-303e-452b-ae1d-afa27fc5f7a0 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/9851bb13-303e-452b-ae1d-afa27fc5f7a0.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_9bbd03c5-33a3-4682-90f1-4ddd6c7fe57d lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/9bbd03c5-33a3-4682-90f1-4ddd6c7fe57d.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_a0461f1c-604d-4095-98fb-c75e7327a146 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/a0461f1c-604d-4095-98fb-c75e7327a146.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_a19b3ee3-ecbf-430a-ada5-e373c7a8eff7 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/a19b3ee3-ecbf-430a-ada5-e373c7a8eff7.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_a49ddae3-8417-4928-a034-50763bb57d32 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/a49ddae3-8417-4928-a034-50763bb57d32.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_a5f7aedf-6f19-4ffd-87cd-5fa1dfaefd98 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/a5f7aedf-6f19-4ffd-87cd-5fa1dfaefd98.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_a64e709f-68b2-41d0-9483-4428561c91fb lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/a64e709f-68b2-41d0-9483-4428561c91fb.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_a8437964-4402-4c7e-ba58-2b80b585e8c0 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/a8437964-4402-4c7e-ba58-2b80b585e8c0.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/a9ddd6b3-4983-4578-89b3-daf62c5f4bad.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_abcf7b22-bb97-4c2c-add9-765e6899b728 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/abcf7b22-bb97-4c2c-add9-765e6899b728.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_ac5d2755-b86a-495a-83b8-e8b426b13983 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/ac5d2755-b86a-495a-83b8-e8b426b13983.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_b02794a5-c4aa-46e4-baaa-54995aca657a lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/b02794a5-c4aa-46e4-baaa-54995aca657a.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_b207dd1e-716e-45fa-90a5-e56647d9c540 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/b207dd1e-716e-45fa-90a5-e56647d9c540.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_b377bb53-4e37-4ffa-9d0b-93040f07527f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/b377bb53-4e37-4ffa-9d0b-93040f07527f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_b621d561-abca-4c40-8758-41933da6b7a1 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/b621d561-abca-4c40-8758-41933da6b7a1.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_b66e4a77-656b-4d95-8f28-f1c8520dd78f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/b66e4a77-656b-4d95-8f28-f1c8520dd78f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_b791ab03-d723-448e-ae84-06090c585cbc lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/b791ab03-d723-448e-ae84-06090c585cbc.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_b9f06093-e9fb-47d4-a597-84b2e5f5e923 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/b9f06093-e9fb-47d4-a597-84b2e5f5e923.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_ba3332a8-02d0-4771-a815-a30abcb866dc lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/ba3332a8-02d0-4771-a815-a30abcb866dc.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_bb4a12ba-f42a-4fc4-b636-a2ae1447cec5 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/bb4a12ba-f42a-4fc4-b636-a2ae1447cec5.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_c0da1b80-0fc5-49bb-a195-8d3068af7eee lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/c0da1b80-0fc5-49bb-a195-8d3068af7eee.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_c228ad80-216d-44c1-98a3-2710d7edd252 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/c228ad80-216d-44c1-98a3-2710d7edd252.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_c3ddb5e5-2c75-4ab3-9381-ebebc06ace1b lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/c3ddb5e5-2c75-4ab3-9381-ebebc06ace1b.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_c53ba5d1-dd07-44c0-8f47-1d8ec703af90 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/c53ba5d1-dd07-44c0-8f47-1d8ec703af90.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/c674bce8-09de-4bd7-9c32-acc5efccb383.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_c99c4aea-0b41-4270-8716-742c55f4d756 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/c99c4aea-0b41-4270-8716-742c55f4d756.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_cbf8f1f8-fd5b-4d96-992f-9100680e795b lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/cbf8f1f8-fd5b-4d96-992f-9100680e795b.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_cf39db75-8eca-447b-8598-37e294a5d26d lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/cf39db75-8eca-447b-8598-37e294a5d26d.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_d20cf61f-3d41-455e-a671-0511ebd9383f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/d20cf61f-3d41-455e-a671-0511ebd9383f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_d467599a-bd6e-4843-a1bf-1a835e0660df lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/d467599a-bd6e-4843-a1bf-1a835e0660df.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_d4817291-da07-4434-b883-179c1ecc9b9f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/d4817291-da07-4434-b883-179c1ecc9b9f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/d4903b69-733f-48e7-9ee1-4c9fd725fcc9.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_d6d7c1fb-0664-4873-9371-ab1b20b29212 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/d6d7c1fb-0664-4873-9371-ab1b20b29212.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/d91c86d4-150f-4ce0-a08a-8912d8582f7a.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/dc0620b5-4aef-4141-a3ca-b44b8ff222b3.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_e3816d76-1824-4cc9-95d4-eebfc6ea144c lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/e3816d76-1824-4cc9-95d4-eebfc6ea144c.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_e4becfc0-90de-4c14-b40a-34c1962c04bc lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/e4becfc0-90de-4c14-b40a-34c1962c04bc.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_e8cc4fb2-4efc-4b90-9b34-4c78cd5be14e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/e8cc4fb2-4efc-4b90-9b34-4c78cd5be14e.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_e9c47c62-45c5-41a6-bfdc-522e8813de58 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/e9c47c62-45c5-41a6-bfdc-522e8813de58.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_eab38a5a-aaa2-41a1-b17b-0b91cbab006c lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/eab38a5a-aaa2-41a1-b17b-0b91cbab006c.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_ec155409-70c4-45d9-9f73-b2e2ea040284 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/ec155409-70c4-45d9-9f73-b2e2ea040284.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_ec2128a1-ff6a-4a7a-9710-f9503a313b59 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/ec2128a1-ff6a-4a7a-9710-f9503a313b59.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_ecec571f-447c-4651-acdd-c3f8bba4991d lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/ecec571f-447c-4651-acdd-c3f8bba4991d.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_f4a56982-7750-4100-83dd-b159d63da61f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/f4a56982-7750-4100-83dd-b159d63da61f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/f59a3c87-e617-4d78-b6de-7c844ff69d43.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_f8f92071-fcb4-4cf6-96d2-fcd341490178 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/f8f92071-fcb4-4cf6-96d2-fcd341490178.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_f937e4a2-286d-4065-8c5c-0461495ec4d1 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/f937e4a2-286d-4065-8c5c-0461495ec4d1.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_fb02f50f-8aba-493f-bda5-ee706c67dbdc lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/fb02f50f-8aba-493f-bda5-ee706c67dbdc.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_fb07449f-40a7-47a0-a60c-3775daa8df72 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/fb07449f-40a7-47a0-a60c-3775daa8df72.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_fcc4a6e6-e0fc-4152-80be-6e945e8f3462 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/fcc4a6e6-e0fc-4152-80be-6e945e8f3462.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_fd30f182-a486-474f-adff-c10acde05026 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/fd30f182-a486-474f-adff-c10acde05026.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 dcterms:bibliographicCitation 'Hayes (1972), p.78-80'.
+ars:ic_fd3f06f5-f550-403e-95d3-bed59bb44f3b lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 lado:hasImage <https://zenodo.org/record/5645180/files/fd3f06f5-f550-403e-95d3-bed59bb44f3b.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 dcterms:bibliographicCitation 'Hayes (1972), p.82-83'.
+ars:ic_2392ba20-fc5a-4921-8f5d-040c50ecea03 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 lado:hasImage <https://zenodo.org/record/5645180/files/2392ba20-fc5a-4921-8f5d-040c50ecea03.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 dcterms:bibliographicCitation 'Hayes (1972), p.82-83'.
+ars:ic_a635d20a-d1a4-4e5d-a2b2-524f5a6d416e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 lado:hasImage <https://zenodo.org/record/5645180/files/a635d20a-d1a4-4e5d-a2b2-524f5a6d416e.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 dcterms:bibliographicCitation 'Hayes (1972), p.82-83'.
+ars:ic_abbbd296-018b-4094-9131-aaf25280825b lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 lado:hasImage <https://zenodo.org/record/5645180/files/abbbd296-018b-4094-9131-aaf25280825b.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 dcterms:bibliographicCitation 'Hayes (1972), p.82-83'.
+ars:ic_c2f5bec0-1bee-49a1-b68f-d805d9c4b3b5 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 lado:hasImage <https://zenodo.org/record/5645180/files/c2f5bec0-1bee-49a1-b68f-d805d9c4b3b5.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 dcterms:bibliographicCitation 'Hayes (1972), p.82-83'.
+ars:ic_d8e7a541-90ae-4161-9b9e-f944e53bb67e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 lado:hasImage <https://zenodo.org/record/5645180/files/d8e7a541-90ae-4161-9b9e-f944e53bb67e.jpg>.
+
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 dcterms:bibliographicCitation 'Hayes (1972), p.83'.
+ars:ic_126c10ea-d557-4462-96fe-100faf9f427e lado:representedBy ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7.
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 lado:hasImage <https://zenodo.org/record/5645180/files/126c10ea-d557-4462-96fe-100faf9f427e.jpg>.
+
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 dcterms:bibliographicCitation 'Hayes (1972), p.83'.
+ars:ic_28f18dab-7c13-4cac-b473-4a7c9cecbfb7 lado:representedBy ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7.
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 lado:hasImage <https://zenodo.org/record/5645180/files/28f18dab-7c13-4cac-b473-4a7c9cecbfb7.jpg>.
+
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 dcterms:bibliographicCitation 'Hayes (1972), p.83'.
+ars:ic_5531692d-df51-407f-abf5-3d206d2be3a2 lado:representedBy ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7.
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 lado:hasImage <https://zenodo.org/record/5645180/files/5531692d-df51-407f-abf5-3d206d2be3a2.jpg>.
+
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 dcterms:bibliographicCitation 'Hayes (1972), p.83'.
+ars:ic_7cdf05c9-126f-4e44-93c1-446bbd1970e9 lado:representedBy ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7.
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 lado:hasImage <https://zenodo.org/record/5645180/files/7cdf05c9-126f-4e44-93c1-446bbd1970e9.jpg>.
+
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 dcterms:bibliographicCitation 'Hayes (1972), p.83'.
+ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 lado:representedBy ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7.
+ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 lado:hasImage <https://zenodo.org/record/5645180/files/9635cd06-a54d-4fcd-8386-548279cdbae2.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_00f76004-c41b-44b0-a02c-12fc5308be28 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/00f76004-c41b-44b0-a02c-12fc5308be28.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_02a31d01-bcec-4466-91cc-d0da421590f6 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/02a31d01-bcec-4466-91cc-d0da421590f6.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_17ed6b0e-e24c-4887-839d-0d9bcdc5bf76 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/17ed6b0e-e24c-4887-839d-0d9bcdc5bf76.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_1c104125-01ab-45dd-9abf-bf564dd55b0c lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/1c104125-01ab-45dd-9abf-bf564dd55b0c.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_2790d60f-aa38-4b56-880e-a4dca4c2d2ea lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/2790d60f-aa38-4b56-880e-a4dca4c2d2ea.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/2b8cf3ce-914f-472e-a48a-b5d880bf3cec.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_2f8026db-a016-4450-aedb-565f2e985b4f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/2f8026db-a016-4450-aedb-565f2e985b4f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_3ce48b4e-ab71-421c-a6d4-398e392a86f5 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/3ce48b4e-ab71-421c-a6d4-398e392a86f5.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_4b3fa131-f27f-4583-b652-1e64297fa4dd lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/4b3fa131-f27f-4583-b652-1e64297fa4dd.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_4bd0a149-5287-47b4-801a-8ed84ee7e2c9 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/4bd0a149-5287-47b4-801a-8ed84ee7e2c9.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_4e4808b4-9a42-4572-9dd4-3d072176cc26 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/4e4808b4-9a42-4572-9dd4-3d072176cc26.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_51870859-ea16-46f9-95b3-84792f01d568 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/51870859-ea16-46f9-95b3-84792f01d568.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_57f5b441-6dc0-44e6-9e75-2c9af28a2717 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/57f5b441-6dc0-44e6-9e75-2c9af28a2717.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_5f87c160-3237-466c-8ca5-302f2b854a0d lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/5f87c160-3237-466c-8ca5-302f2b854a0d.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_63d36a81-93df-46a6-b5bd-c3e79edc87cd lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/63d36a81-93df-46a6-b5bd-c3e79edc87cd.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_660b8899-364e-4162-af3f-1b99d349d6cd lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/660b8899-364e-4162-af3f-1b99d349d6cd.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_72e49ef5-b107-4a58-bda3-7c0a06a3d213 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/72e49ef5-b107-4a58-bda3-7c0a06a3d213.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_79b9da1b-2cff-42ee-bf9e-d94d4c1812b2 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/79b9da1b-2cff-42ee-bf9e-d94d4c1812b2.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_7ed86d39-fe9d-4e8f-9266-d4ef79add94b lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/7ed86d39-fe9d-4e8f-9266-d4ef79add94b.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_868dc8f0-b30d-4c0a-bc67-870fd01344d3 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/868dc8f0-b30d-4c0a-bc67-870fd01344d3.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_8ab8e761-1668-462e-832c-55317a5721dd lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/8ab8e761-1668-462e-832c-55317a5721dd.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_8d299349-833d-4335-a91f-107e4b97e10e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/8d299349-833d-4335-a91f-107e4b97e10e.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_98a047d3-2dc8-47c9-821c-4fe5c115e231 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/98a047d3-2dc8-47c9-821c-4fe5c115e231.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_9b2be195-e95b-4419-bb2e-11e215e07e4a lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/9b2be195-e95b-4419-bb2e-11e215e07e4a.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_aa7e68dd-22f9-44f4-acc5-977c605d3b8f lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/aa7e68dd-22f9-44f4-acc5-977c605d3b8f.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_afb5bbe7-ec17-4c72-892a-30366541cf03 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/afb5bbe7-ec17-4c72-892a-30366541cf03.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_c146fdcc-1804-4435-870a-02f4f0a0ed1e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/c146fdcc-1804-4435-870a-02f4f0a0ed1e.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_c3001139-8f1b-4b32-934b-d7e08e7f651d lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/c3001139-8f1b-4b32-934b-d7e08e7f651d.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_d34a0732-4ec4-40a7-bd41-d1876891a6f5 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/d34a0732-4ec4-40a7-bd41-d1876891a6f5.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_d36aa656-be09-4655-89c0-befc64fce65e lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/d36aa656-be09-4655-89c0-befc64fce65e.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_e6843124-6884-4227-85b3-2343a9aeabbd lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/e6843124-6884-4227-85b3-2343a9aeabbd.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_e7782672-bfa6-459f-b8f5-5c32be81f8ab lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/e7782672-bfa6-459f-b8f5-5c32be81f8ab.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_ecb7e7ba-0978-450e-8c89-0b10c0f12d47 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/ecb7e7ba-0978-450e-8c89-0b10c0f12d47.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_f1471c0d-d513-411c-a7c0-66d1a0f3fb69 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/f1471c0d-d513-411c-a7c0-66d1a0f3fb69.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_f1ba6dd0-7639-47eb-bfcb-c0d15bc7211d lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/f1ba6dd0-7639-47eb-bfcb-c0d15bc7211d.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_ff32015b-4a2f-48b6-922b-d3be6662dfb2 lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/ff32015b-4a2f-48b6-922b-d3be6662dfb2.jpg>.
+
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 dcterms:bibliographicCitation 'Hayes (1972), p.83-91'.
+ars:ic_ff6d1a57-442b-4f83-b1a4-148451cfa7de lado:representedBy ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019.
+ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 lado:hasImage <https://zenodo.org/record/5645180/files/ff6d1a57-442b-4f83-b1a4-148451cfa7de.jpg>.
+
+ars:pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 dcterms:bibliographicCitation 'Hayes (1972), pp. 93-96'.
+ars:ic_2cb8f105-42b3-4260-9c6f-8e1819b8d27d lado:representedBy ars:pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14.
+ars:pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 lado:hasImage <https://zenodo.org/record/5645180/files/2cb8f105-42b3-4260-9c6f-8e1819b8d27d.jpg>.
+
+ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 dcterms:bibliographicCitation 'Hayes (1972), p.100-107'.
+ars:ic_23a100ab-d0c9-4005-93d5-f5be496b20ea lado:representedBy ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913.
+ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 lado:hasImage <https://zenodo.org/record/5645180/files/23a100ab-d0c9-4005-93d5-f5be496b20ea.jpg>.
+
+ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 dcterms:bibliographicCitation 'Hayes (1972), p.100-107'.
+ars:ic_e8c990cb-cc9f-4424-bedf-170e57a0e958 lado:representedBy ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913.
+ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 lado:hasImage <https://zenodo.org/record/5645180/files/e8c990cb-cc9f-4424-bedf-170e57a0e958.jpg>.
+
+ars:pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 dcterms:bibliographicCitation 'Hayes (1972), p.112-116'.
+ars:ic_9385f9d6-2523-4c71-a520-07544a35b8f5 lado:representedBy ars:pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4.
+ars:pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 lado:hasImage <https://zenodo.org/record/5645180/files/9385f9d6-2523-4c71-a520-07544a35b8f5.jpg>.
+
+ars:pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 dcterms:bibliographicCitation 'Hayes (1972), p.124'.
+ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 lado:representedBy ars:pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300.
+ars:pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 lado:hasImage <https://zenodo.org/record/5645180/files/5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0.jpg>.
+
+ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf dcterms:bibliographicCitation 'Hayes (1972), p.128-131'.
+ars:ic_450ea7c5-5629-487f-ae15-ff40fcf2a4dd lado:representedBy ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf.
+ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf lado:hasImage <https://zenodo.org/record/5645180/files/450ea7c5-5629-487f-ae15-ff40fcf2a4dd.jpg>.
+
+ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf dcterms:bibliographicCitation 'Hayes (1972), p.128-131'.
+ars:ic_a9e0c26f-8be9-4fd8-bbb9-1d329cd75097 lado:representedBy ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf.
+ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf lado:hasImage <https://zenodo.org/record/5645180/files/a9e0c26f-8be9-4fd8-bbb9-1d329cd75097.jpg>.
+
