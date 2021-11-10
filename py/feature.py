@@ -62,6 +62,7 @@ for index, row in data.iterrows():
     lines.append("ars:feat_" + str(row['feature']) + " " + "lado:hasType" + " " + "lado:" + str(row['n_ftype']) + "" + ".")
     lines.append("ars:feat_" + str(row['feature']) + " " + "dc:identifier" + " " + "'" + str(row['feature']) + "'" + ".")
     lines.append("ars:ic_" + str(row['obj']) + " " + "lado:carries" + " " + "ars:feat_" + str(row['feature']) + ".")
+    lines.append("ars:feat_" + str(row['feature']) + " " + "lado:hasImage" + " " + "<" + "https://zenodo.org/record/5645237/files/" + str(row['feature']) + ".png>" + ".")
     # geom
     geomstr = str(row['geom']).replace('\'', '\"')
     geomjson = json.loads(geomstr)
