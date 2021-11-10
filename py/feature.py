@@ -28,7 +28,7 @@ importlib.reload(sys)  # py3
 starttime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%fZ")
 
 # set input csv
-csv = "features1.csv"
+csv = "features.csv"
 dir_path = os.path.dirname(os.path.realpath(__file__))
 file_in = dir_path.replace("\\py", "\\src\\csv") + "\\" + csv
 
