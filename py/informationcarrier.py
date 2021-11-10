@@ -71,6 +71,7 @@ for index, row in data.iterrows():
             lines.append("ars:ic_" + str(row['obj']) + " " + "lado:timeinterval " + "'" + str(row['time_general']).replace('\'', '`') + " / " + str(row['time_detail']).replace('\'', '`') + "'" + ".")
     lines.append("ars:ic_" + str(row['obj']) + " " + "lado:arachneEntityID" + " " + "<" + str(row['arachneEntity']) + ">" + ".")
     lines.append("ars:ic_" + str(row['obj']) + " " + "lado:arachneModelID" + " " + "<" + str(row['arachneModel']) + ">" + ".")
+    lines.append("ars:ic_" + str(row['obj']) + " " + "lado:hasImage" + " " + "<" + "https://zenodo.org/record/5645180/files/" + str(row['obj']) + ".jpg>" + ".")
     # prov-o
     lines.append("ars:ic_" + str(row['obj']) + " " + "prov:wasAttributedTo" + " ars:ImportPythonScript_ARS3D .")
     lines.append("ars:ic_" + str(row['obj']) + " " + "prov:wasDerivedFrom" + " <http://www.wikidata.org/entity/Q105268778> .")
