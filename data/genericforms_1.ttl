@@ -1,0 +1,92 @@
+# create triples from genericforms.csv 
+# on 2021-11-10 10:40
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#> 
+PREFIX dc: <http://purl.org/dc/elements/1.1/> 
+PREFIX sf: <http://www.opengis.net/ont/sf#> 
+PREFIX lado: <http://archaeology.link/ontology#> 
+PREFIX ars: <http://data.archaeology.link/data/ars/> 
+PREFIX samian: <http://data.archaeology.link/data/samian/> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+ PREFIX pelagios: <http://pelagios.github.io/vocab/terms#> 
+PREFIX oa: <http://www.w3.org/ns/oa#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX foaf: <http://xmlns.com/foaf/0.1/> 
+PREFIX relations: <http://pelagios.github.io/vocab/relations#> 
+PREFIX cnt: <http://www.w3.org/2011/content#> 
+PREFIX pleiades: <http://pleiades.stoa.org/places/> 
+PREFIX amt: <http://academic-meta-tool.xyz/vocab#> 
+
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000001 rdf:type lado:GenericPotform .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000001 rdfs:label 'bowl'@en.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000001 dc:identifier 'acd64083-d3ab-4e1d-91d8-f2b043000001'.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000001 lado:exactMatch samian:gf_776552.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000001 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000001 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000001 prov:wasGeneratedBy ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000001 .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000001 rdf:type <http://www.w3.org/ns/prov#Activity> .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000001 prov:startedAtTime '2021-11-10T10:40:41.527208Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000001 prov:endedAtTime '2021-11-10T10:40:41.534181Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000001 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
+
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 rdf:type lado:GenericPotform .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 rdfs:label 'rectangular dish'@en.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 dc:identifier 'acd64083-d3ab-4e1d-91d8-f2b043000004'.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 prov:wasGeneratedBy ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000004 .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000004 rdf:type <http://www.w3.org/ns/prov#Activity> .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000004 prov:startedAtTime '2021-11-10T10:40:41.527208Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000004 prov:endedAtTime '2021-11-10T10:40:41.534181Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000004 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
+
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012 rdf:type lado:GenericPotform .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012 rdfs:label 'lamp'@en.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012 dc:identifier 'acd64083-d3ab-4e1d-91d8-f2b043000012'.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012 prov:wasGeneratedBy ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000012 .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000012 rdf:type <http://www.w3.org/ns/prov#Activity> .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000012 prov:startedAtTime '2021-11-10T10:40:41.527208Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000012 prov:endedAtTime '2021-11-10T10:40:41.534181Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000012 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
+
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000003 rdf:type lado:GenericPotform .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000003 rdfs:label 'dish'@en.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000003 dc:identifier 'acd64083-d3ab-4e1d-91d8-f2b043000003'.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000003 lado:exactMatch samian:gf_174619.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000003 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000003 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000003 prov:wasGeneratedBy ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000003 .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000003 rdf:type <http://www.w3.org/ns/prov#Activity> .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000003 prov:startedAtTime '2021-11-10T10:40:41.527208Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000003 prov:endedAtTime '2021-11-10T10:40:41.534181Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000003 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
+
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000000 rdf:type lado:GenericPotform .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000000 rdfs:label 'plate'@en.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000000 dc:identifier 'acd64083-d3ab-4e1d-91d8-f2b043000000'.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000000 lado:exactMatch samian:gf_113072.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000000 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000000 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000000 prov:wasGeneratedBy ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000000 .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000000 rdf:type <http://www.w3.org/ns/prov#Activity> .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000000 prov:startedAtTime '2021-11-10T10:40:41.527208Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000000 prov:endedAtTime '2021-11-10T10:40:41.534181Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000000 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
+
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000002 rdf:type lado:GenericPotform .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000002 rdfs:label 'jug'@en.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000002 dc:identifier 'acd64083-d3ab-4e1d-91d8-f2b043000002'.
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000002 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000002 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
+ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000002 prov:wasGeneratedBy ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000002 .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000002 rdf:type <http://www.w3.org/ns/prov#Activity> .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000002 prov:startedAtTime '2021-11-10T10:40:41.527208Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000002 prov:endedAtTime '2021-11-10T10:40:41.534181Z'^^xsd:dateTime .
+ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000002 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
+
