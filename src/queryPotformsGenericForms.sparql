@@ -1,0 +1,19 @@
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ars: <http://ars3D/documentation/ontology/arsonto#>
+
+SELECT DISTINCT (count(distinct ?obj) as ?count) ?potform ?potformLabel ?genericform ?genericformLabel WHERE { 
+
+?potform rdf:type ars:Statement. 
+?potform crm:P2_has_type ?sttype. 
+?sttype rdf:type ?ost. 
+?ost rdfs:subClassOf ars:ARS_Type. 
+?potform rdfs:label ?potformLabel.
+
+?genericform rdf:type ars:Shape. 
+?genericform rdfs:label ?genericformLabel. 
+
+?obj ars:hasShape ?genericform.
+?obj ars:is_stated_by ?potform.
+
+} GROUP BY ?potform ?potformLabel ?genericform ?genericformLabel HAVING (count(distinct ?obj) > 0) ORDER BY DESC(?count)
