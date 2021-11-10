@@ -51,7 +51,6 @@ for index, row in data.iterrows():
     # print(lineNo)
     tmpno = lineNo - 2
     if tmpno % 10000 == 0:
-        '
         print(tmpno)
     lineNo += 1
     lines.append("ars:gf_" + str(row['id']) + " " + "rdf:type" + " lado:GenericPotform .")
