@@ -1,0 +1,83 @@
+CREATE
+LAST	Len	"Atlante X A1c"
+LAST	Den	ceramic form in Atlante (1981), p.200"
+LAST	P31	Q109532996
+LAST	P31	Q838948
+LAST	P361	Q109525400
+LAST	P361	Q105268778
+LAST	P170	Q3803714
+LAST	P195	Q109525400
+LAST	P304	"200"
+LAST	P2888	"http://data.archaeology.link/data/ars/pf_aa88339c-da85-47aa-af08-fe6dd093e468"	S248	Q105268778
+CREATE
+LAST	Len	"Atlante X A1a"
+LAST	Den	ceramic form in Atlante (1981), p.200"
+LAST	P31	Q109532996
+LAST	P31	Q838948
+LAST	P361	Q109525400
+LAST	P361	Q105268778
+LAST	P170	Q3803714
+LAST	P195	Q109525400
+LAST	P304	"200"
+LAST	P6500	"https://zenodo.org/record/5645180/files/0d0bb3b4-24dd-4952-9f6d-40a45f79ad99.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/25b40190-bc1f-4848-b1dc-6117f52beb19.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/48ea1d18-6f68-4722-911c-39b91f7a4dc8.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/628d4a12-c65f-4a1d-b750-0721fe17d8a6.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/6a010361-1564-4b97-98df-249e5ab8bc26.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/79ae1a7a-5fcc-4a8b-a1d7-1337e2d89783.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/ae4dbf14-8923-4b78-9596-d36db460dcba.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/c078b794-e522-4d7c-8195-b9ceca44943a.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/cfdc258d-f2c8-4869-adeb-7e247c0207fa.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/eb4c5d03-04d5-401d-b9dc-79e615dea6a4.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/f36c6669-a657-4094-b89a-c6f435fad703.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/fa8a6032-f9a6-4b5a-bbb8-02c6427b08b5.jpg"	S248	Q105268778
+LAST	P2888	"http://data.archaeology.link/data/ars/pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06"	S248	Q105268778
+CREATE
+LAST	Len	"Atlante X A1b"
+LAST	Den	ceramic form in Atlante (1981), p.200"
+LAST	P31	Q109532996
+LAST	P31	Q838948
+LAST	P361	Q109525400
+LAST	P361	Q105268778
+LAST	P170	Q3803714
+LAST	P195	Q109525400
+LAST	P304	"200"
+LAST	P6500	"https://zenodo.org/record/5645180/files/7e5ebdd5-77e1-444f-a6fc-75fc01f6e717.jpg"	S248	Q105268778
+LAST	P2888	"http://data.archaeology.link/data/ars/pf_ea77afcb-b013-4b9d-8dab-14d30b511adb"	S248	Q105268778
+CREATE
+LAST	Len	"Atlante VIII A2a"
+LAST	Den	ceramic form in Atlante (1981), p.194"
+LAST	P31	Q109532996
+LAST	P31	Q838948
+LAST	P361	Q109525400
+LAST	P361	Q105268778
+LAST	P170	Q3803714
+LAST	P195	Q109525400
+LAST	P304	"194"
+LAST	P6500	"https://zenodo.org/record/5645180/files/1358c742-585b-40dc-92e4-ccd65c1aeef0.jpg"	S248	Q105268778
+LAST	P6500	"https://zenodo.org/record/5645180/files/2d986f4e-77e9-43a9-9cca-28564978c7d4.jpg"	S248	Q105268778
+LAST	P2888	"http://data.archaeology.link/data/ars/pf_d1f8494d-cc34-428e-a303-7b750b9b7694"	S248	Q105268778
+CREATE
+LAST	Len	"Atlante X B1a"
+LAST	Den	ceramic form in Atlante (1981), p.200"
+LAST	P31	Q109532996
+LAST	P31	Q838948
+LAST	P361	Q109525400
+LAST	P361	Q105268778
+LAST	P170	Q3803714
+LAST	P195	Q109525400
+LAST	P304	"200"
+LAST	P6500	"https://zenodo.org/record/5645180/files/0ece00eb-7af9-494a-bd22-f8d8c1d98c2c.jpg"	S248	Q105268778
+LAST	P2888	"http://data.archaeology.link/data/ars/pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a"	S248	Q105268778
+CREATE
+LAST	Len	"Atlante VIII A1b"
+LAST	Den	ceramic form in Atlante (1981), p.194"
+LAST	P31	Q109532996
+LAST	P31	Q838948
+LAST	P361	Q109525400
+LAST	P361	Q105268778
+LAST	P170	Q3803714
+LAST	P195	Q109525400
+LAST	P304	"194"
+LAST	P6500	"https://zenodo.org/record/5645180/files/27ce2883-5029-43b5-bc17-f51d236311f3.jpg"	S248	Q105268778
+LAST	P2888	"http://data.archaeology.link/data/ars/pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8"	S248	Q105268778
