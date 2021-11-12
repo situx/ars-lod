@@ -38,7 +38,7 @@ data = pd.read_csv(
     file_in,
     encoding='utf-8',
     sep='|',
-    usecols=['potform', 'potformLabel', 'genericform']
+    usecols=['potform', 'potformLabel', 'genericform', 'wikidata']
 
 )
 print(data.info())
@@ -65,6 +65,7 @@ for index, row in data.iterrows():
         lines.append("ars:pf_" + str(row['potform']) + " " + "lado:derivedFrom" + " wd:Q109525400 .")
         lines.append("ars:pf_" + str(row['potform']) + " " + "lado:createdBy" + " wd:Q3803714 .")
     lines.append("ars:pf_" + str(row['potform']) + " lado:generalisedAs " + "ars:gf_" + str(row['genericform']) + ".")
+    lines.append("ars:pf_" + str(row['potform']) + " " + "lado:exactMatch" + " wd:" + str(row['wikidata']) + " .")
     # prov-o
     lines.append("ars:pf_" + str(row['potform']) + " " + "prov:wasAttributedTo" + " ars:ImportPythonScript_ARS3D .")
     lines.append("ars:pf_" + str(row['potform']) + " " + "prov:wasDerivedFrom" + " <http://www.wikidata.org/entity/Q105268778> .")
