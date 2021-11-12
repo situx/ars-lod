@@ -51,8 +51,6 @@ sparql.setQuery("""
 
 lines = []
 for result in sparql.query().bindings:
-
-    print("*****************************************")
     # QS
     lines.append("CREATE")
     lines.append("LAST" + "\t" + "Len" + "\t" + "\"" + result["label"].value + "\"")
