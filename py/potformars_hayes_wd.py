@@ -83,7 +83,7 @@ print("start writing QS files...")
 
 f = 0
 step = 100000
-fileprefix = "create_pf"
+fileprefix = "create_pf_hayes"
 filename = dir_path.replace("py", "wikidata") + "\\quickstatements\\" + fileprefix + ".qs"
 print(filename)
 file = codecs.open(filename, "w", "utf-8")
