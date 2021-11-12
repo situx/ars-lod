@@ -49,84 +49,51 @@ sparql.setQuery("""
     } GROUP BY ?pf ?creator ?label ?bc
 """)
 
+lines = []
 for result in sparql.query().bindings:
-    print("Len", "\"" + result["label"].value + "\"")
+
+    print("*****************************************")
+    # QS
+    lines.append("CREATE")
+    lines.append("LAST" + "\t" + "Len" + "\t" + "\"" + result["label"].value + "\"")
     pages = result["bc"].value.split(".")[1]
     pages = pages.strip()
     if "-" in pages:
-        print("Den", "\"" + "ceramic form in Hayes (1972), pp." + pages + "\"")
+        lines.append("LAST" + "\t" + "Den" + "\t" + "ceramic form in Hayes (1972), pp." + pages + "\"")
     else:
-        print("Den", "\"" + "ceramic form in Hayes (1972), p." + pages + "\"")
-    print("P304", pages)
-    print("P170", result["creator"].value.replace("http://www.wikidata.org/entity/", ""))
-    print("P2888", result["pf"].value, "S248", "Q105268778")
+        lines.append("LAST" + "\t" + "Den" + "\t" + "ceramic form in Hayes (1972), p." + pages + "\"")
+    lines.append("LAST" + "\t" + "P31" + "\t" + "Q109532996")
+    lines.append("LAST" + "\t" + "P31" + "\t" + "Q838948")
+    lines.append("LAST" + "\t" + "P361" + "\t" + "Q50262763")  # Hayes Book
+    lines.append("LAST" + "\t" + "P361" + "\t" + "Q105268778")
+    lines.append("LAST" + "\t" + "P170" + "\t" + result["creator"].value.replace("http://www.wikidata.org/entity/", ""))  # Hayes Person
+    lines.append("LAST" + "\t" + "P195" + "\t" + "Q50262763")  # Hayes Book
+    lines.append("LAST" + "\t" + "P304" + "\t" + "\"" + pages + "\"")
     images = result["images"].value.split(",")
     for img in images:
         if "zenodo" in img:
             print("P6500", img, "S248", "Q105268778")
-    print("*****************************************")
-
-# create triples from dataframe
-'''lineNo = 2
-outStr = ""
-lines = []
-for index, row in data.iterrows():
-    # print(lineNo)
-    tmpno = lineNo - 2
-    if tmpno % 10000 == 0:
-        print(tmpno)
-    lineNo += 1
-    lines.append("ars:pf_" + str(row['potform']) + " " + "rdf:type" + " lado:Potform .")
-    lines.append("ars:pf_" + str(row['potform']) + " " + "amt:instanceOf" + " lado:Potform .")
-    lines.append("ars:pf_" + str(row['potform']) + " " + "rdfs:label" + " " + "'" + str(row['potformLabel']).replace('\'', '`') + "'@en" + ".")
-    lines.append("ars:pf_" + str(row['potform']) + " " + "dc:identifier" + " " + "'" + str(row['potform']) + "'" + ".")
-    lines.append("ars:pf_" + str(row['potform']) + " " + "lado:hasType" + " lado:AfricanRedSlipWare .")
-    if "Hayes" in str(row['potformLabel']):
-        lines.append("ars:pf_" + str(row['potform']) + " " + "lado:derivedFrom" + " wd:Q50262763 .")
-        lines.append("ars:pf_" + str(row['potform']) + " " + "lado:createdBy" + " wd:Q1702051 .")
-    elif "Atlante" in str(row['potformLabel']):
-        lines.append("ars:pf_" + str(row['potform']) + " " + "lado:derivedFrom" + " wd:Q109525400 .")
-    lines.append("ars:pf_" + str(row['potform']) + " lado:generalisedAs " + "ars:gf_" + str(row['genericform']) + ".")
-    # prov-o
-    lines.append("ars:pf_" + str(row['potform']) + " " + "prov:wasAttributedTo" + " ars:ImportPythonScript_ARS3D .")
-    lines.append("ars:pf_" + str(row['potform']) + " " + "prov:wasDerivedFrom" + " <http://www.wikidata.org/entity/Q105268778> .")
-    lines.append("ars:pf_" + str(row['potform']) + " " + "prov:wasGeneratedBy" + " ars:activity_pf_" + str(row['potform']) + " .")
-    lines.append("ars:activity_pf_" + str(row['potform']) + " " + "rdf:type" + " <http://www.w3.org/ns/prov#Activity> .")
-    lines.append("ars:activity_pf_" + str(row['potform']) + " " + "prov:startedAtTime '" + starttime + "'^^xsd:dateTime .")
-    lines.append("ars:activity_pf_" + str(row['potform']) + " " + "prov:endedAtTime '" + datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%fZ") + "'^^xsd:dateTime .")
-    lines.append("ars:activity_pf_" + str(row['potform']) + " " + "prov:wasAssociatedWith" + " ars:ImportPythonScript_ARS3D .")
-    lines.append("")'''
-
-'''files = (len(lines) / 100000) + 1
-print("lines", len(lines), "files", int(files))
-
+            lines.append("LAST" + "\t" + "P6500" + "\t" + "\"" + img + "\"" + "\t" + "S248" + "\t" + "Q105268778")
+    lines.append("LAST" + "\t" + "P2888" + "\t" + "\"" + result["pf"].value + "\"" + "\t" + "S248" + "\t" + "Q105268778")
 # set output path
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 # write output files
-print("start writing turtle files...")
+print("start writing QS files...")
 
 f = 0
 step = 100000
-fileprefix = "potformars_"
-prefixes = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \r\nPREFIX owl: <http://www.w3.org/2002/07/owl#> \r\nPREFIX xsd: <http://www.w3.org/2001/XMLSchema#> \r\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> \r\nPREFIX geosparql: <http://www.opengis.net/ont/geosparql#> \r\nPREFIX dc: <http://purl.org/dc/elements/1.1/> \r\nPREFIX sf: <http://www.opengis.net/ont/sf#> \r\n"
-prefixes += "PREFIX lado: <http://archaeology.link/ontology#> \r\nPREFIX ars: <http://data.archaeology.link/data/ars/> \r\nPREFIX samian: <http://data.archaeology.link/data/samian/> \r\nPREFIX wd: <http://www.wikidata.org/entity/> \r\n PREFIX pelagios: <http://pelagios.github.io/vocab/terms#> \r\nPREFIX oa: <http://www.w3.org/ns/oa#> \r\nPREFIX dcterms: <http://purl.org/dc/terms/> \r\nPREFIX foaf: <http://xmlns.com/foaf/0.1/> \r\nPREFIX relations: <http://pelagios.github.io/vocab/relations#> \r\nPREFIX cnt: <http://www.w3.org/2011/content#> \r\nPREFIX pleiades: <http://pleiades.stoa.org/places/> \r\nPREFIX amt: <http://academic-meta-tool.xyz/vocab#> \r\n"
-prefixes += "\r\n"
-for x in range(1, int(files) + 1):
-    strX = str(x)
-    filename = dir_path.replace("\\py", "\\data") + "\\" + fileprefix + strX + ".ttl"
-    file = codecs.open(filename, "w", "utf-8")
-    file.write("# create triples from " + csv + " \r\n")
-    file.write("# on " + datetime.datetime.now().strftime("%Y-%m-%d %H:%M") + "\r\n\r\n")
-    file.write(prefixes)
-    i = f
-    for i, line in enumerate(lines):
-        if (i > f - 1 and i < f + step):
-            file.write(line)
-            file.write("\r\n")
-    f = f + step
-    print("Yuhu! > " + fileprefix + strX + ".ttl")
-    file.close()'''
+fileprefix = "create_pf"
+filename = dir_path.replace("py", "wikidata") + "\\quickstatements\\" + fileprefix + ".qs"
+print(filename)
+file = codecs.open(filename, "w", "utf-8")
+for i, line in enumerate(lines):
+    if (i > f - 1 and i < f + step):
+        file.write(line)
+        file.write("\r\n")
+f = f + step
+print("Yuhu! > " + fileprefix + ".qs")
+file.close()
 
 print("*****************************************")
 print("SUCCESS")
