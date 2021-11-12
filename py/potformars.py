@@ -63,6 +63,7 @@ for index, row in data.iterrows():
         lines.append("ars:pf_" + str(row['potform']) + " " + "lado:createdBy" + " wd:Q1702051 .")
     elif "Atlante" in str(row['potformLabel']):
         lines.append("ars:pf_" + str(row['potform']) + " " + "lado:derivedFrom" + " wd:Q109525400 .")
+        lines.append("ars:pf_" + str(row['potform']) + " " + "lado:createdBy" + " wd:Q3803714 .")
     lines.append("ars:pf_" + str(row['potform']) + " lado:generalisedAs " + "ars:gf_" + str(row['genericform']) + ".")
     # prov-o
     lines.append("ars:pf_" + str(row['potform']) + " " + "prov:wasAttributedTo" + " ars:ImportPythonScript_ARS3D .")

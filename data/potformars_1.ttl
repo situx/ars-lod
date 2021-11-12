@@ -1,5 +1,5 @@
 # create triples from ct_gf_pf.csv 
-# on 2021-11-12 11:55
+# on 2021-11-12 12:36
 
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
 PREFIX owl: <http://www.w3.org/2002/07/owl#> 
@@ -33,8 +33,8 @@ ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 prov:wasAttributedTo ars:ImportPytho
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000016 prov:wasGeneratedBy ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000016 .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000016 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000016 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000016 prov:endedAtTime '2021-11-12T11:55:48.501708Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000016 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000016 prov:endedAtTime '2021-11-12T12:36:02.132043Z'^^xsd:dateTime .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000016 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 rdf:type lado:Potform .
@@ -49,8 +49,8 @@ ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 prov:wasAttributedTo ars:ImportPytho
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000019 prov:wasGeneratedBy ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000019 .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000019 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000019 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000019 prov:endedAtTime '2021-11-12T11:55:48.501708Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000019 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000019 prov:endedAtTime '2021-11-12T12:36:02.132043Z'^^xsd:dateTime .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000019 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 rdf:type lado:Potform .
@@ -59,13 +59,14 @@ ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 rdfs:label 'Atlante X A1a'@en.
 ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 dc:identifier '2d8907ac-2ce5-4090-afbb-09b4b3986c06'.
 ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:hasType lado:AfricanRedSlipWare .
 ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:derivedFrom wd:Q109525400 .
+ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:createdBy wd:Q3803714 .
 ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 lado:generalisedAs ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012.
 ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 prov:wasGeneratedBy ars:activity_pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 .
 ars:activity_pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 prov:endedAtTime '2021-11-12T11:55:48.501708Z'^^xsd:dateTime .
+ars:activity_pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 prov:endedAtTime '2021-11-12T12:36:02.132043Z'^^xsd:dateTime .
 ars:activity_pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 rdf:type lado:Potform .
@@ -80,8 +81,8 @@ ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 prov:wasAttributedTo ars:ImportPytho
 ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 prov:wasGeneratedBy ars:activity_pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 .
 ars:activity_pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 prov:endedAtTime '2021-11-12T11:55:48.501708Z'^^xsd:dateTime .
+ars:activity_pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 prov:endedAtTime '2021-11-12T12:36:02.132043Z'^^xsd:dateTime .
 ars:activity_pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 rdf:type lado:Potform .
@@ -96,8 +97,8 @@ ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 prov:wasAttributedTo ars:ImportPytho
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000018 prov:wasGeneratedBy ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000018 .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000018 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000018 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000018 prov:endedAtTime '2021-11-12T11:55:48.501708Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000018 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000018 prov:endedAtTime '2021-11-12T12:36:02.132043Z'^^xsd:dateTime .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000018 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 rdf:type lado:Potform .
@@ -112,8 +113,8 @@ ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 prov:wasAttributedTo ars:ImportPytho
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000015 prov:wasGeneratedBy ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000015 .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000015 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000015 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000015 prov:endedAtTime '2021-11-12T11:55:48.501708Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000015 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000015 prov:endedAtTime '2021-11-12T12:36:02.132043Z'^^xsd:dateTime .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000015 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 rdf:type lado:Potform .
@@ -128,8 +129,8 @@ ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 prov:wasAttributedTo ars:ImportPytho
 ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 prov:wasGeneratedBy ars:activity_pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 .
 ars:activity_pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 prov:endedAtTime '2021-11-12T11:55:48.501708Z'^^xsd:dateTime .
+ars:activity_pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 prov:endedAtTime '2021-11-12T12:36:02.133028Z'^^xsd:dateTime .
 ars:activity_pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c rdf:type lado:Potform .
@@ -144,8 +145,8 @@ ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c prov:wasAttributedTo ars:ImportPytho
 ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_debeac24-ebc3-430d-9317-0b508e83f15c prov:wasGeneratedBy ars:activity_pf_debeac24-ebc3-430d-9317-0b508e83f15c .
 ars:activity_pf_debeac24-ebc3-430d-9317-0b508e83f15c rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_debeac24-ebc3-430d-9317-0b508e83f15c prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_debeac24-ebc3-430d-9317-0b508e83f15c prov:endedAtTime '2021-11-12T11:55:48.501708Z'^^xsd:dateTime .
+ars:activity_pf_debeac24-ebc3-430d-9317-0b508e83f15c prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_debeac24-ebc3-430d-9317-0b508e83f15c prov:endedAtTime '2021-11-12T12:36:02.133028Z'^^xsd:dateTime .
 ars:activity_pf_debeac24-ebc3-430d-9317-0b508e83f15c prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf rdf:type lado:Potform .
@@ -160,8 +161,8 @@ ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf prov:wasAttributedTo ars:ImportPytho
 ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf prov:wasGeneratedBy ars:activity_pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf .
 ars:activity_pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf prov:endedAtTime '2021-11-12T11:55:48.502716Z'^^xsd:dateTime .
+ars:activity_pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf prov:endedAtTime '2021-11-12T12:36:02.133028Z'^^xsd:dateTime .
 ars:activity_pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017 rdf:type lado:Potform .
@@ -176,8 +177,8 @@ ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017 prov:wasAttributedTo ars:ImportPytho
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_c30c01b2-9c7e-45ec-833b-f734e1000017 prov:wasGeneratedBy ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000017 .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000017 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000017 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000017 prov:endedAtTime '2021-11-12T11:55:48.502716Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000017 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000017 prov:endedAtTime '2021-11-12T12:36:02.133028Z'^^xsd:dateTime .
 ars:activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000017 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 rdf:type lado:Potform .
@@ -192,8 +193,8 @@ ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 prov:wasAttributedTo ars:ImportPytho
 ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 prov:wasGeneratedBy ars:activity_pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 .
 ars:activity_pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 prov:endedAtTime '2021-11-12T11:55:48.502716Z'^^xsd:dateTime .
+ars:activity_pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 prov:endedAtTime '2021-11-12T12:36:02.133028Z'^^xsd:dateTime .
 ars:activity_pf_f7b36c24-9a27-4b27-8b1f-5f82df341913 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 rdf:type lado:Potform .
@@ -202,13 +203,14 @@ ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 rdfs:label 'Atlante VIII A2a'@en.
 ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 dc:identifier 'd1f8494d-cc34-428e-a303-7b750b9b7694'.
 ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 lado:hasType lado:AfricanRedSlipWare .
 ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 lado:derivedFrom wd:Q109525400 .
+ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 lado:createdBy wd:Q3803714 .
 ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 lado:generalisedAs ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012.
 ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_d1f8494d-cc34-428e-a303-7b750b9b7694 prov:wasGeneratedBy ars:activity_pf_d1f8494d-cc34-428e-a303-7b750b9b7694 .
 ars:activity_pf_d1f8494d-cc34-428e-a303-7b750b9b7694 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_d1f8494d-cc34-428e-a303-7b750b9b7694 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_d1f8494d-cc34-428e-a303-7b750b9b7694 prov:endedAtTime '2021-11-12T11:55:48.502716Z'^^xsd:dateTime .
+ars:activity_pf_d1f8494d-cc34-428e-a303-7b750b9b7694 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_d1f8494d-cc34-428e-a303-7b750b9b7694 prov:endedAtTime '2021-11-12T12:36:02.134062Z'^^xsd:dateTime .
 ars:activity_pf_d1f8494d-cc34-428e-a303-7b750b9b7694 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 rdf:type lado:Potform .
@@ -223,8 +225,8 @@ ars:pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 prov:wasAttributedTo ars:ImportPytho
 ars:pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 prov:wasGeneratedBy ars:activity_pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 .
 ars:activity_pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 prov:endedAtTime '2021-11-12T11:55:48.502716Z'^^xsd:dateTime .
+ars:activity_pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 prov:endedAtTime '2021-11-12T12:36:02.134062Z'^^xsd:dateTime .
 ars:activity_pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e rdf:type lado:Potform .
@@ -239,8 +241,8 @@ ars:pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e prov:wasAttributedTo ars:ImportPytho
 ars:pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e prov:wasGeneratedBy ars:activity_pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e .
 ars:activity_pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e prov:endedAtTime '2021-11-12T11:55:48.502716Z'^^xsd:dateTime .
+ars:activity_pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e prov:endedAtTime '2021-11-12T12:36:02.134062Z'^^xsd:dateTime .
 ars:activity_pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e rdf:type lado:Potform .
@@ -255,8 +257,8 @@ ars:pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e prov:wasAttributedTo ars:ImportPytho
 ars:pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e prov:wasGeneratedBy ars:activity_pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e .
 ars:activity_pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e prov:endedAtTime '2021-11-12T11:55:48.502716Z'^^xsd:dateTime .
+ars:activity_pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e prov:endedAtTime '2021-11-12T12:36:02.134062Z'^^xsd:dateTime .
 ars:activity_pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 rdf:type lado:Potform .
@@ -271,8 +273,8 @@ ars:pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 prov:wasAttributedTo ars:ImportPytho
 ars:pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 prov:wasGeneratedBy ars:activity_pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 .
 ars:activity_pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 prov:endedAtTime '2021-11-12T11:55:48.502716Z'^^xsd:dateTime .
+ars:activity_pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 prov:endedAtTime '2021-11-12T12:36:02.135023Z'^^xsd:dateTime .
 ars:activity_pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 rdf:type lado:Potform .
@@ -287,8 +289,8 @@ ars:pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 prov:wasAttributedTo ars:ImportPytho
 ars:pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 prov:wasGeneratedBy ars:activity_pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 .
 ars:activity_pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 prov:endedAtTime '2021-11-12T11:55:48.503704Z'^^xsd:dateTime .
+ars:activity_pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 prov:endedAtTime '2021-11-12T12:36:02.135023Z'^^xsd:dateTime .
 ars:activity_pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 rdf:type lado:Potform .
@@ -303,8 +305,8 @@ ars:pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 prov:wasAttributedTo ars:ImportPytho
 ars:pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 prov:wasGeneratedBy ars:activity_pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 .
 ars:activity_pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 prov:endedAtTime '2021-11-12T11:55:48.503704Z'^^xsd:dateTime .
+ars:activity_pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 prov:endedAtTime '2021-11-12T12:36:02.135023Z'^^xsd:dateTime .
 ars:activity_pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a rdf:type lado:Potform .
@@ -319,8 +321,8 @@ ars:pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a prov:wasAttributedTo ars:ImportPytho
 ars:pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a prov:wasGeneratedBy ars:activity_pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a .
 ars:activity_pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a prov:endedAtTime '2021-11-12T11:55:48.503704Z'^^xsd:dateTime .
+ars:activity_pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a prov:endedAtTime '2021-11-12T12:36:02.135023Z'^^xsd:dateTime .
 ars:activity_pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 rdf:type lado:Potform .
@@ -329,13 +331,14 @@ ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 rdfs:label 'Atlante X A1c'@en.
 ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 dc:identifier 'aa88339c-da85-47aa-af08-fe6dd093e468'.
 ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 lado:hasType lado:AfricanRedSlipWare .
 ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 lado:derivedFrom wd:Q109525400 .
+ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 lado:createdBy wd:Q3803714 .
 ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 lado:generalisedAs ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012.
 ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_aa88339c-da85-47aa-af08-fe6dd093e468 prov:wasGeneratedBy ars:activity_pf_aa88339c-da85-47aa-af08-fe6dd093e468 .
 ars:activity_pf_aa88339c-da85-47aa-af08-fe6dd093e468 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_aa88339c-da85-47aa-af08-fe6dd093e468 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_aa88339c-da85-47aa-af08-fe6dd093e468 prov:endedAtTime '2021-11-12T11:55:48.503704Z'^^xsd:dateTime .
+ars:activity_pf_aa88339c-da85-47aa-af08-fe6dd093e468 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_aa88339c-da85-47aa-af08-fe6dd093e468 prov:endedAtTime '2021-11-12T12:36:02.135023Z'^^xsd:dateTime .
 ars:activity_pf_aa88339c-da85-47aa-af08-fe6dd093e468 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 rdf:type lado:Potform .
@@ -344,13 +347,14 @@ ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 rdfs:label 'Atlante VIII A1b'@en.
 ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 dc:identifier 'e1f70788-a3b9-40ec-9039-c5091d18f6f8'.
 ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 lado:hasType lado:AfricanRedSlipWare .
 ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 lado:derivedFrom wd:Q109525400 .
+ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 lado:createdBy wd:Q3803714 .
 ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 lado:generalisedAs ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012.
 ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 prov:wasGeneratedBy ars:activity_pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 .
 ars:activity_pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 prov:endedAtTime '2021-11-12T11:55:48.503704Z'^^xsd:dateTime .
+ars:activity_pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 prov:endedAtTime '2021-11-12T12:36:02.135023Z'^^xsd:dateTime .
 ars:activity_pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb rdf:type lado:Potform .
@@ -359,13 +363,14 @@ ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb rdfs:label 'Atlante X A1b'@en.
 ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb dc:identifier 'ea77afcb-b013-4b9d-8dab-14d30b511adb'.
 ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb lado:hasType lado:AfricanRedSlipWare .
 ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb lado:derivedFrom wd:Q109525400 .
+ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb lado:createdBy wd:Q3803714 .
 ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb lado:generalisedAs ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012.
 ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_ea77afcb-b013-4b9d-8dab-14d30b511adb prov:wasGeneratedBy ars:activity_pf_ea77afcb-b013-4b9d-8dab-14d30b511adb .
 ars:activity_pf_ea77afcb-b013-4b9d-8dab-14d30b511adb rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_ea77afcb-b013-4b9d-8dab-14d30b511adb prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_ea77afcb-b013-4b9d-8dab-14d30b511adb prov:endedAtTime '2021-11-12T11:55:48.503704Z'^^xsd:dateTime .
+ars:activity_pf_ea77afcb-b013-4b9d-8dab-14d30b511adb prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_ea77afcb-b013-4b9d-8dab-14d30b511adb prov:endedAtTime '2021-11-12T12:36:02.136021Z'^^xsd:dateTime .
 ars:activity_pf_ea77afcb-b013-4b9d-8dab-14d30b511adb prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
 ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a rdf:type lado:Potform .
@@ -374,12 +379,13 @@ ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a rdfs:label 'Atlante X B1a'@en.
 ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a dc:identifier 'fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a'.
 ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a lado:hasType lado:AfricanRedSlipWare .
 ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a lado:derivedFrom wd:Q109525400 .
+ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a lado:createdBy wd:Q3803714 .
 ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a lado:generalisedAs ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000012.
 ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
 ars:pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a prov:wasGeneratedBy ars:activity_pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a .
 ars:activity_pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a rdf:type <http://www.w3.org/ns/prov#Activity> .
-ars:activity_pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a prov:startedAtTime '2021-11-12T11:55:48.492732Z'^^xsd:dateTime .
-ars:activity_pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a prov:endedAtTime '2021-11-12T11:55:48.503704Z'^^xsd:dateTime .
+ars:activity_pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a prov:startedAtTime '2021-11-12T12:36:02.125047Z'^^xsd:dateTime .
+ars:activity_pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a prov:endedAtTime '2021-11-12T12:36:02.136021Z'^^xsd:dateTime .
 ars:activity_pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
