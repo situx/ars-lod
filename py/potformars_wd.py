@@ -50,7 +50,21 @@ sparql.setQuery("""
 """)
 
 for result in sparql.query().bindings:
-    print(result["pf"].value, result["creator"].value, result["label"].value, result["bc"].value, result["images"].value)
+    print("Len", "\"" + result["label"].value + "\"")
+    pages = result["bc"].value.split(".")[1]
+    pages = pages.strip()
+    if "-" in pages:
+        print("Den", "\"" + "ceramic form in Hayes (1972), pp." + pages + "\"")
+    else:
+        print("Den", "\"" + "ceramic form in Hayes (1972), p." + pages + "\"")
+    print("P304", pages)
+    print("P170", result["creator"].value.replace("http://www.wikidata.org/entity/", ""))
+    print("P2888", result["pf"].value, "S248", "Q105268778")
+    images = result["images"].value.split(",")
+    for img in images:
+        if "zenodo" in img:
+            print("P6500", img, "S248", "Q105268778")
+    print("*****************************************")
 
 # create triples from dataframe
 '''lineNo = 2
