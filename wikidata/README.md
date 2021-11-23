@@ -1,3 +1,7 @@
+# Wikidata Project
+
+* https://www.wikidata.org/wiki/Wikidata:WikiProject_African_Red_Slip_Ware_Digital
+
 # Wikidata Entities
 
 ## Books
