@@ -1,0 +1,42 @@
+name: Java CI
+
+on: [push]
+
+jobs:
+    
+  ontdocI:
+    uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
+    name: Ontdoc I      
+    with: 
+          rdffilepath: data/ct_obj_pf_1.ttl data/ct_feature_observation_1.ttl data/genericforms_1.ttl data/informationcarrier_1.ttl data/potformars_1.ttl data/statement_applique_1.ttl feature_1.ttl
+          docpath: docs/atos62/
+          prefixns: http://data.archaeology.link/data/ars/
+          prefixnsshort: ars
+          indexpages: true
+          metadatatable: true
+          createcollections: false
+          createnonNSPages: true
+          createVOWL: true
+          preferredlang: en
+          ghpages: true
+          ghpagesfolder: data/
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Initial checkout
+      uses: actions/checkout@v1
+    - name: Create Doxygen Documentation 🔧
+      run: |
+         sudo apt-get install python3 python3-pip -y   
+         pip install pylode
+         mkdir docs
+         cd docs
+         pylode -i ontology/ontology.owl -o ontology.html -p vocpub
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4.3.3
+      with:
+         BRANCH: gh-pages
+         FOLDER: docs/
