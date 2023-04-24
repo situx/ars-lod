@@ -34,7 +34,7 @@ jobs:
          pip3 install pylode
          mkdir docs
          cd docs
-         python3 -m pylode -i ontology/ontology.owl -o ontology.html -p vocpub
+         python3 -m pylode -o ontology.html ../ontology/ontology.owl
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
