@@ -31,10 +31,10 @@ jobs:
     - name: Create Doxygen Documentation 🔧
       run: |
          sudo apt-get install python3 python3-pip -y   
-         pip install pylode
+         pip3 install pylode
          mkdir docs
          cd docs
-         pylode -i ontology/ontology.owl -o ontology.html -p vocpub
+         python3 -m pylode -i ontology/ontology.owl -o ontology.html -p vocpub
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
