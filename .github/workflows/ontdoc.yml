@@ -19,7 +19,6 @@ jobs:
           createVOWL: true
           preferredlang: en
           ghpages: true
-          ghpagesfolder: data/
 
   build:
 
