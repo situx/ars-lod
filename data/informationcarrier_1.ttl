@@ -11,6 +11,7 @@ PREFIX sf: <http://www.opengis.net/ont/sf#>
 PREFIX lado: <http://archaeology.link/ontology#> 
 PREFIX ars: <http://data.archaeology.link/data/ars/> 
 PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX prov: <http://www.w3.org/ns/prov-o/>
  PREFIX pelagios: <http://pelagios.github.io/vocab/terms#> 
 PREFIX oa: <http://www.w3.org/ns/oa#> 
 PREFIX dcterms: <http://purl.org/dc/terms/> 
