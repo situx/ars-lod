@@ -19,7 +19,6 @@ jobs:
           createVOWL: true
           preferredlang: en
           ghpages: true
-          ghpagesfolder: data/
 
   build:
 
@@ -34,7 +33,7 @@ jobs:
          pip3 install pylode
          mkdir docs
          cd docs
-         python3 -m pylode -o ontology.html ../ontology/ontology.owl
+         python3 -m pylode -o ontology.html ../ontology/ontology.ttl
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
