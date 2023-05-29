@@ -1,4 +1,4 @@
-# Linked Open African Red Slip Ware
+# Linked Open African Red Slip Ware 
       
 This repository contains the `ontology` (ontology folder), the transformation `python scripts` (py folder) and the resulting `RDF files` (data folder).
                
