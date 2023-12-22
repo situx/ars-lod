@@ -18,5 +18,5 @@ There is also a documentation website which can be accessed by <https://rgzm.git
 This dataset can be accessed in the following ways:
 * As HTML using the [Github page](https://RGZM.github.io/ars-lod/) of this repository
 * Using the static IIIF Presentation API provided by this repository, e.g., in the provided [IIIF Viewer in JavaScript](https://RGZM.github.io/ars-lod/iiif/)
-* As RDF in JavaScript [SPARQL Interface in JavaScript](https://RGZM.github.io/ars-lod/sparql.html)
+* As RDF in JavaScript [SPARQL Interface in JavaScript](https://RGZM.github.io/ars-lod/sparql.html?endpoint=https://RGZM.github.io/ars-lod/index.ttl)
 * As individual class-based RDF dumps on every URL hierarchy, e.g., all RDF [RDF Dump on Github Page](https://RGZM.github.io/ars-lod/index.ttl)
