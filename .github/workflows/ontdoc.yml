@@ -9,7 +9,7 @@ jobs:
     name: Ontdoc I      
     with: 
           rdffilepath: data/ct_obj_pf_1.ttl data/ct_feature_observation_1.ttl data/genericforms_1.ttl data/informationcarrier_1.ttl data/potformars_1.ttl data/statement_applique_1.ttl data/feature_1.ttl
-          version: v016
+          version: v017dev
           docpath: docs/
           prefixns: http://data.archaeology.link/data/ars/
           prefixnsshort: ars
