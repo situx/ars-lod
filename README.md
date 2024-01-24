@@ -10,7 +10,7 @@ There is also a documentation website which can be accessed by <https://rgzm.git
  
 ## credits
 
--   Florian Thiery (RGZM)
+-   Florian Thiery (RGZM) 
 -   Louise Rokohl (RGZM)
 
 ## Accessibility 
