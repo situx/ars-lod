@@ -57,7 +57,11 @@ ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 dc:identifier '2d986f4e-77e9-43a9-9c
 ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 lado:inventoryNumber 'O.06014 (RGZM)'.
 ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 lado:timeinterval 'Late Antiquity / early 5. century AD'.
 ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 lado:arachneEntityID <http://arachne.dainst.org/entity/7031179>.
-ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 lado:arachneModelID <http://arachne.dainst.org/entity/7031180>.
+ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 lado:3dmodel ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4_3dmodel .
+ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4_3dmodel rdf:type lado:3DModel .
+ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4_3dmodel rdfs:label "3D Model of lamp with men and palm"@en .
+ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031180> .
+ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4_3dmodel foaf:image "https://arachne.dainst.org/data/model/152.nxz" .
 ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 lado:hasImage <https://zenodo.org/record/5645180/files/2d986f4e-77e9-43a9-9cca-28564978c7d4.jpg>.
 ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_2d986f4e-77e9-43a9-9cca-28564978c7d4 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
