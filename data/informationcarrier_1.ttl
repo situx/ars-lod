@@ -84,7 +84,11 @@ ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 dc:identifier '5a9b4b32-0015-46d2-9a
 ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 lado:inventoryNumber 'O.07046 (RGZM)'.
 ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 lado:timeinterval 'Late Antiquity / 420-450 AD'.
 ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 lado:arachneEntityID <http://arachne.dainst.org/entity/7031143>.
-ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 lado:arachneModelID <http://arachne.dainst.org/entity/7031144>.
+ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 lado:3dmodel ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0_3dmodel .
+ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0_3dmodel rdf:type lado:3DModel .
+ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0_3dmodel rdfs:label "3D Model of dish with grapes"@en .
+ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031144> .
+ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0_3dmodel foaf:image "https://arachne.dainst.org/data/model/134.nxz" .
 ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 lado:hasImage <https://zenodo.org/record/5645180/files/5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0.jpg>.
 ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_5a9b4b32-0015-46d2-9ad9-ab16bb0e94a0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -107,7 +111,11 @@ ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 dc:identifier '32f176e7-2baa-4801-87
 ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 lado:inventoryNumber 'O.09086 (RGZM)'.
 ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 lado:timeinterval 'Late Antiquity / early 6. century AD'.
 ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 lado:arachneEntityID <http://arachne.dainst.org/entity/7031427>.
-ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 lado:arachneModelID <http://arachne.dainst.org/entity/7031428>.
+ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 lado:3dmodel ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458_3dmodel .
+ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458_3dmodel rdf:type lado:3DModel .
+ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458_3dmodel rdfs:label "3D Model of dish with soldier"@en .
+ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031428> .
+ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458_3dmodel foaf:image "https://arachne.dainst.org/data/model/276.nxz" .
 ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 lado:hasImage <https://zenodo.org/record/5645180/files/32f176e7-2baa-4801-87f6-bf62e37b1458.jpg>.
 ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_32f176e7-2baa-4801-87f6-bf62e37b1458 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -129,7 +137,11 @@ ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 lado:madeByString 'potter wheel'@en.
 ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 dc:identifier 'c436b4e5-bd6d-4216-84c6-a114f6700b57'.
 ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 lado:inventoryNumber 'O.09087 (RGZM)'.
 ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 lado:arachneEntityID <http://arachne.dainst.org/entity/7031617>.
-ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 lado:arachneModelID <http://arachne.dainst.org/entity/7031618>.
+ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 lado:3dmodel ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57_3dmodel .
+ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57_3dmodel rdf:type lado:3DModel .
+ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57_3dmodel rdfs:label "3D Model of dish with man holding cross"@en .
+ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031618> .
+ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57_3dmodel foaf:image "https://arachne.dainst.org/data/model/371.nxz" .
 ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 lado:hasImage <https://zenodo.org/record/5645180/files/c436b4e5-bd6d-4216-84c6-a114f6700b57.jpg>.
 ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_c436b4e5-bd6d-4216-84c6-a114f6700b57 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
