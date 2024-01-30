@@ -13,7 +13,7 @@ There is also a documentation website which can be accessed by <https://rgzm.git
 -   Florian Thiery (RGZM) 
 -   Louise Rokohl (RGZM)
  
-## Accessibility 
+## Accessibility  
 
 This dataset can be accessed in the following ways:
 * As HTML using the [Github page](https://RGZM.github.io/ars-lod/) of this repository
