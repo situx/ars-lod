@@ -9,7 +9,7 @@ There is also a documentation website which can be accessed by <https://rgzm.git
 -   v1.0: 24/11/2021: first release after project ending   
    
 ## credits   
-    
+     
 -   Florian Thiery (RGZM)  
 -   Louise Rokohl (RGZM) 
   
