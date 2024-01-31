@@ -1,19 +1,19 @@
 # Linked Open African Red Slip Ware 
-                           
+                            
 This repository contains the `ontology` (ontology folder), the transformation `python scripts` (py folder) and the resulting `RDF files` (data folder).
                                                                    
 There is also a documentation website which can be accessed by <https://rgzm.github.io/ars-lod> .
-                    
-## releases / changelog   
- 
--   v1.0: 24/11/2021: first release after project ending 
+                     
+## releases / changelog     
    
-## credits
-  
+-   v1.0: 24/11/2021: first release after project ending  
+   
+## credits  
+   
 -   Florian Thiery (RGZM) 
 -   Louise Rokohl (RGZM)
  
-## Accessibility 
+## Accessibility  
 
 This dataset can be accessed in the following ways:
 * As HTML using the [Github page](https://RGZM.github.io/ars-lod/) of this repository
