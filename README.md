@@ -12,7 +12,7 @@ There is also a documentation website which can be accessed by <https://rgzm.git
     
 -   Florian Thiery (RGZM)  
 -   Louise Rokohl (RGZM) 
- 
+  
 ## Accessibility  
 
 This dataset can be accessed in the following ways:
