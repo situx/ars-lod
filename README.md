@@ -6,13 +6,13 @@ There is also a documentation website which can be accessed by <https://rgzm.git
                      
 ## releases / changelog     
    
--   v1.0: 24/11/2021: first release after project ending  
-   
-## credits  
-   
--   Florian Thiery (RGZM) 
--   Louise Rokohl (RGZM)
- 
+-   v1.0: 24/11/2021: first release after project ending   
+    
+## credits    
+      
+-   Florian Thiery (RGZM)  
+-   Louise Rokohl (RGZM) 
+  
 ## Accessibility  
 
 This dataset can be accessed in the following ways:
