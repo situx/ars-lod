@@ -48,6 +48,12 @@ ars:reconstructedCondition rdfs:label 'reconstructed'@en.
 ars:unknownCondition rdf:type <http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State>.
 ars:unknownCondition rdfs:label 'unknown condition'@en.
 
+<http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> rdfs:label "consists of"@en .
+<http://www.cidoc-crm.org/cidoc-crm/P44_has_condition> rdfs:label "has condition"@en .
+
+<http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State> rdfs:label "Condition State"@en .
+#<http://www.cidoc-crm.org/cidoc-crm/E57_Material> rdfs:label "Material"@en .
+
 
 ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 rdf:type lado:GenericPotform .
 ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 rdfs:label 'rectangular dish'@en.
