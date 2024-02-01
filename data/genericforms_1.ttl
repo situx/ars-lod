@@ -41,6 +41,28 @@ ars:clay rdfs:label 'clay'@en.
 ars:unknown rdf:type <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
 ars:unknown rdfs:label 'unknown'@en.
 
+ars:stamp rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:stamp rdfs:label 'stamp'@en.
+ars:plate rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:plate rdfs:label 'plate'@en.
+ars:dish rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:dish rdfs:label 'dish'@en.
+ars:rectangulardish rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:rectangulardish rdfs:label 'rectangular dish'@en.
+ars:mould rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:mould rdfs:label 'mould'@en.
+ars:jug rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:jug rdfs:label 'jug'@en.
+ars:lamp rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:lamp rdfs:label 'lamp'@en.
+ars:bowl rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:bowl rdfs:label 'bowl'@en.
+ars:unclassifiedRepresentation rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:unclassifiedRepresentation rdfs:label 'unclassified'@en.
+ars:unknownRepresentation rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
+ars:unknownRepresentation rdfs:label 'unknown'@en.
+
+
 ars:fragmentedCondition rdf:type <http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State>.
 ars:fragmentedCondition rdfs:label 'fragmented'@en.
 ars:reconstructedCondition rdf:type <http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State>.
@@ -50,6 +72,7 @@ ars:unknownCondition rdfs:label 'unknown condition'@en.
 
 <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> rdfs:label "consists of"@en .
 <http://www.cidoc-crm.org/cidoc-crm/P44_has_condition> rdfs:label "has condition"@en .
+<http://www.cidoc-crm.org/cidoc-crm/P41_classified> rdfs:label "classified"@en .
 
 <http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State> rdfs:label "Condition State"@en .
 #<http://www.cidoc-crm.org/cidoc-crm/E57_Material> rdfs:label "Material"@en .
