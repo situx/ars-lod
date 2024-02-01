@@ -34,6 +34,13 @@ ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000001 prov:startedAtTime '2021-11
 ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000001 prov:endedAtTime '2021-11-10T10:40:41.534181Z'^^xsd:dateTime .
 ars:activity_gf_acd64083-d3ab-4e1d-91d8-f2b043000001 prov:wasAssociatedWith ars:ImportPythonScript_ARS3D .
 
+ars:plaster rdf:type <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+ars:plaster rdfs:label 'plaster'@en.
+ars:clay rdf:type <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+ars:clay rdfs:label 'plaster'@en.
+ars:unknown rdf:type <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+ars:unknown rdfs:label 'unknown'@en.
+
 ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 rdf:type lado:GenericPotform .
 ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 rdfs:label 'rectangular dish'@en.
 ars:gf_acd64083-d3ab-4e1d-91d8-f2b043000004 dc:identifier 'acd64083-d3ab-4e1d-91d8-f2b043000004'.
