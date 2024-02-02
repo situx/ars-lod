@@ -3176,7 +3176,11 @@ ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 dc:identifier '6c1486fd-19ab-4b16-9c
 ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 lado:inventoryNumber 'O.40779 (RGZM)'.
 ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 lado:arachneEntityID <http://arachne.dainst.org/entity/7031237>.
-ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 lado:arachneModelID <http://arachne.dainst.org/entity/7031238>.
+ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 lado:3dmodel ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680_3dmodel .
+ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680_3dmodel rdf:type lado:3DModel .
+ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680_3dmodel rdfs:label "3D Model of bowl with woman"@en .
+ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031238> .
+ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680_3dmodel foaf:image "https://arachne.dainst.org/data/model/181.nxz" .
 ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 lado:hasImage <https://zenodo.org/record/5645180/files/6c1486fd-19ab-4b16-9c68-45f720772680.jpg>.
 ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_6c1486fd-19ab-4b16-9c68-45f720772680 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3200,6 +3204,11 @@ ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383 lado:inventoryNumber 'O.40780 (RGZM)
 ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383 lado:arachneEntityID <http://arachne.dainst.org/entity/7031353>.
 ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383 lado:arachneModelID <http://arachne.dainst.org/entity/7031354>.
+ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383 lado:3dmodel ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383_3dmodel .
+ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383_3dmodel rdf:type lado:3DModel .
+ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383_3dmodel rdfs:label "3D Model of bowl with woman"@en .
+ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031354> .
+ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383_3dmodel foaf:image "https://arachne.dainst.org/data/model/239.nxz" .
 ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383 lado:hasImage <https://zenodo.org/record/5645180/files/c674bce8-09de-4bd7-9c32-acc5efccb383.jpg>.
 ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_c674bce8-09de-4bd7-9c32-acc5efccb383 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3222,7 +3231,11 @@ ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 dc:identifier '03669313-ca27-4918-ab
 ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 lado:inventoryNumber 'O.40781 (RGZM)'.
 ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 lado:arachneEntityID <http://arachne.dainst.org/entity/7031355>.
-ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 lado:arachneModelID <http://arachne.dainst.org/entity/7031356>.
+ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 lado:3dmodel ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1_3dmodel .
+ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1_3dmodel rdf:type lado:3DModel .
+ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1_3dmodel rdfs:label "3D Model of bowl with man"@en .
+ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031356> .
+ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1_3dmodel foaf:image "https://arachne.dainst.org/data/model/240.nxz" .
 ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 lado:hasImage <https://zenodo.org/record/5645180/files/03669313-ca27-4918-ab2d-6bd0d68d44f1.jpg>.
 ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_03669313-ca27-4918-ab2d-6bd0d68d44f1 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3245,7 +3258,11 @@ ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 dc:identifier 'f59a3c87-e617-4d78-b6
 ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 lado:inventoryNumber 'O.40782 (RGZM)'.
 ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 lado:arachneEntityID <http://arachne.dainst.org/entity/7031327>.
-ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 lado:arachneModelID <http://arachne.dainst.org/entity/7031328>.
+ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 lado:3dmodel ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43_3dmodel .
+ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43_3dmodel rdf:type lado:3DModel .
+ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43_3dmodel rdfs:label "3D Model of bowl with Orpheus and bear"@en .
+ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031328> .
+ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43_3dmodel foaf:image "https://arachne.dainst.org/data/model/226.nxz" .
 ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 lado:hasImage <https://zenodo.org/record/5645180/files/f59a3c87-e617-4d78-b6de-7c844ff69d43.jpg>.
 ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_f59a3c87-e617-4d78-b6de-7c844ff69d43 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3268,7 +3285,11 @@ ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec dc:identifier '2b8cf3ce-914f-472e-a4
 ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec lado:inventoryNumber 'O.40783 (RGZM)'.
 ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec lado:timeinterval 'Late Antiquity / 350/355 - 450/475 AD'.
 ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec lado:arachneEntityID <http://arachne.dainst.org/entity/7031523>.
-ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec lado:arachneModelID <http://arachne.dainst.org/entity/7031524>.
+ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec lado:3dmodel ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec_3dmodel .
+ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec_3dmodel rdf:type lado:3DModel .
+ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec_3dmodel rdfs:label "3D Model of bowl with Orpheus and bear"@en .
+ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031524> .
+ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec_3dmodel foaf:image "https://arachne.dainst.org/data/model/324.nxz" .
 ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec lado:hasImage <https://zenodo.org/record/5645180/files/2b8cf3ce-914f-472e-a48a-b5d880bf3cec.jpg>.
 ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_2b8cf3ce-914f-472e-a48a-b5d880bf3cec prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3291,7 +3312,11 @@ ars:ic_336480d0-010d-4859-9423-2764f0d0f862 dc:identifier '336480d0-010d-4859-94
 ars:ic_336480d0-010d-4859-9423-2764f0d0f862 lado:inventoryNumber 'O.40784 (RGZM)'.
 ars:ic_336480d0-010d-4859-9423-2764f0d0f862 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_336480d0-010d-4859-9423-2764f0d0f862 lado:arachneEntityID <http://arachne.dainst.org/entity/7031329>.
-ars:ic_336480d0-010d-4859-9423-2764f0d0f862 lado:arachneModelID <http://arachne.dainst.org/entity/7031330>.
+ars:ic_336480d0-010d-4859-9423-2764f0d0f862 lado:3dmodel ars:ic_336480d0-010d-4859-9423-2764f0d0f862_3dmodel .
+ars:ic_336480d0-010d-4859-9423-2764f0d0f862_3dmodel rdf:type lado:3DModel .
+ars:ic_336480d0-010d-4859-9423-2764f0d0f862_3dmodel rdfs:label "3D Model of bowl with Orpheus and bear"@en .
+ars:ic_336480d0-010d-4859-9423-2764f0d0f862_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031330> .
+ars:ic_336480d0-010d-4859-9423-2764f0d0f862_3dmodel foaf:image "https://arachne.dainst.org/data/model/227.nxz" .
 ars:ic_336480d0-010d-4859-9423-2764f0d0f862 lado:hasImage <https://zenodo.org/record/5645180/files/336480d0-010d-4859-9423-2764f0d0f862.jpg>.
 ars:ic_336480d0-010d-4859-9423-2764f0d0f862 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_336480d0-010d-4859-9423-2764f0d0f862 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3314,7 +3339,11 @@ ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 dc:identifier '0e4e84fd-1d0b-4389-a8
 ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 lado:inventoryNumber 'O.40785 (RGZM)'.
 ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 lado:arachneEntityID <http://arachne.dainst.org/entity/7031271>.
-ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 lado:arachneModelID <http://arachne.dainst.org/entity/7031272>.
+ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 lado:3dmodel ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65_3dmodel .
+ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65_3dmodel rdf:type lado:3DModel .
+ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65_3dmodel rdfs:label "3D Model of bowl with Orpheus and bear"@en .
+ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031272> .
+ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65_3dmodel foaf:image "https://arachne.dainst.org/data/model/198.nxz" .
 ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 lado:hasImage <https://zenodo.org/record/5645180/files/0e4e84fd-1d0b-4389-a89d-2e5403699a65.jpg>.
 ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_0e4e84fd-1d0b-4389-a89d-2e5403699a65 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3336,7 +3365,11 @@ ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 lado:madeByString 'potter wheel'@en.
 ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 dc:identifier '92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7'.
 ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 lado:inventoryNumber 'O.40786 (RGZM)'.
 ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 lado:arachneEntityID <http://arachne.dainst.org/entity/7031607>.
-ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 lado:arachneModelID <http://arachne.dainst.org/entity/7031608>.
+ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 lado:3dmodel ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7_3dmodel .
+ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7_3dmodel rdf:type lado:3DModel .
+ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7_3dmodel rdfs:label "3D Model of bowl with Bacchus"@en .
+ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031608> .
+ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7_3dmodel foaf:image "https://arachne.dainst.org/data/model/366.nxz" .
 ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 lado:hasImage <https://zenodo.org/record/5645180/files/92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7.jpg>.
 ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_92e51a4c-2f27-4bf9-a9f3-9ca0f5b2eff7 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3358,7 +3391,11 @@ ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa lado:madeByString 'potter wheel'@en.
 ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa dc:identifier '5c8400db-f9c9-4d7a-bf6c-938ee9f977aa'.
 ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa lado:inventoryNumber 'O.40787 (RGZM)'.
 ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa lado:arachneEntityID <http://arachne.dainst.org/entity/7031603>.
-ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa lado:arachneModelID <http://arachne.dainst.org/entity/7031604>.
+ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa lado:3dmodel ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa_3dmodel .
+ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa_3dmodel rdf:type lado:3DModel .
+ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa_3dmodel rdfs:label "3D Model of bowl with Bacchus"@en .
+ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031604> .
+ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa_3dmodel foaf:image "https://arachne.dainst.org/data/model/364.nxz" .
 ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa lado:hasImage <https://zenodo.org/record/5645180/files/5c8400db-f9c9-4d7a-bf6c-938ee9f977aa.jpg>.
 ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_5c8400db-f9c9-4d7a-bf6c-938ee9f977aa prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3381,7 +3418,11 @@ ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 dc:identifier '886b1ad7-c519-4765-b5
 ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 lado:inventoryNumber 'O.40788 (RGZM)'.
 ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 lado:arachneEntityID <http://arachne.dainst.org/entity/7031331>.
-ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 lado:arachneModelID <http://arachne.dainst.org/entity/7031332>.
+ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 lado:3dmodel ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93_3dmodel .
+ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93_3dmodel rdf:type lado:3DModel .
+ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93_3dmodel rdfs:label "3D Model of bowl with Bacchus"@en .
+ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031332> .
+ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93_3dmodel foaf:image "https://arachne.dainst.org/data/model/228.nxz" .
 ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 lado:hasImage <https://zenodo.org/record/5645180/files/886b1ad7-c519-4765-b5f0-6cc51e735f93.jpg>.
 ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_886b1ad7-c519-4765-b5f0-6cc51e735f93 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3404,7 +3445,11 @@ ars:ic_347849cd-9e37-495e-ac91-3672f982829a dc:identifier '347849cd-9e37-495e-ac
 ars:ic_347849cd-9e37-495e-ac91-3672f982829a lado:inventoryNumber 'O.40789 (RGZM)'.
 ars:ic_347849cd-9e37-495e-ac91-3672f982829a lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_347849cd-9e37-495e-ac91-3672f982829a lado:arachneEntityID <http://arachne.dainst.org/entity/7031301>.
-ars:ic_347849cd-9e37-495e-ac91-3672f982829a lado:arachneModelID <http://arachne.dainst.org/entity/7031302>.
+ars:ic_347849cd-9e37-495e-ac91-3672f982829a lado:3dmodel ars:ic_347849cd-9e37-495e-ac91-3672f982829a_3dmodel .
+ars:ic_347849cd-9e37-495e-ac91-3672f982829a_3dmodel rdf:type lado:3DModel .
+ars:ic_347849cd-9e37-495e-ac91-3672f982829a_3dmodel rdfs:label "3D Model of bowl with Bacchus"@en .
+ars:ic_347849cd-9e37-495e-ac91-3672f982829a_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031302> .
+ars:ic_347849cd-9e37-495e-ac91-3672f982829a_3dmodel foaf:image "https://arachne.dainst.org/data/model/213.nxz" .
 ars:ic_347849cd-9e37-495e-ac91-3672f982829a lado:hasImage <https://zenodo.org/record/5645180/files/347849cd-9e37-495e-ac91-3672f982829a.jpg>.
 ars:ic_347849cd-9e37-495e-ac91-3672f982829a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_347849cd-9e37-495e-ac91-3672f982829a prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3427,7 +3472,11 @@ ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 dc:identifier '96e547e8-fe6b-42b1-ab
 ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 lado:inventoryNumber 'O.40790 (RGZM)'.
 ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 lado:arachneEntityID <http://arachne.dainst.org/entity/7031273>.
-ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 lado:arachneModelID <http://arachne.dainst.org/entity/7031274>.
+ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 lado:3dmodel ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3_3dmodel .
+ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3_3dmodel rdf:type lado:3DModel .
+ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3_3dmodel rdfs:label "3D Model of bowl with Hercules and Kerynitis doe"@en .
+ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031274> .
+ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3_3dmodel foaf:image "https://arachne.dainst.org/data/model/199.nxz" .
 ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 lado:hasImage <https://zenodo.org/record/5645180/files/96e547e8-fe6b-42b1-ab53-017d68ed0cb3.jpg>.
 ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_96e547e8-fe6b-42b1-ab53-017d68ed0cb3 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3450,7 +3499,11 @@ ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad dc:identifier 'a9ddd6b3-4983-4578-89
 ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad lado:inventoryNumber 'O.40791 (RGZM)'.
 ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad lado:arachneEntityID <http://arachne.dainst.org/entity/7031275>.
-ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad lado:arachneModelID <http://arachne.dainst.org/entity/7031276>.
+ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad lado:3dmodel ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad_3dmodel .
+ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad_3dmodel rdf:type lado:3DModel .
+ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad_3dmodel rdfs:label "3D Model of bowl with woman and erot"@en .
+ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031276> .
+ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad_3dmodel foaf:image "https://arachne.dainst.org/data/model/200.nxz" .
 ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad lado:hasImage <https://zenodo.org/record/5645180/files/a9ddd6b3-4983-4578-89b3-daf62c5f4bad.jpg>.
 ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3473,7 +3526,11 @@ ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 dc:identifier '85ecb9a4-0aeb-4b88-9b
 ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 lado:inventoryNumber 'O.40792 (RGZM)'.
 ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 lado:arachneEntityID <http://arachne.dainst.org/entity/7031333>.
-ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 lado:arachneModelID <http://arachne.dainst.org/entity/7031334>.
+ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 lado:3dmodel ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3_3dmodel .
+ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3_3dmodel rdf:type lado:3DModel .
+ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3_3dmodel rdfs:label "3D Model of bowl with satyr and maenad"@en .
+ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031276> .
+ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3_3dmodel foaf:image "https://arachne.dainst.org/data/model/229.nxz" .
 ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 lado:hasImage <https://zenodo.org/record/5645180/files/85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3.jpg>.
 ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3495,7 +3552,11 @@ ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 lado:madeByString 'nan'@en.
 ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 dc:identifier '9635cd06-a54d-4fcd-8386-548279cdbae2'.
 ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 lado:inventoryNumber 'O.40793 (RGZM)'.
 ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 lado:arachneEntityID <http://arachne.dainst.org/entity/7031645>.
-ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 lado:arachneModelID <http://arachne.dainst.org/entity/7031646>.
+ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 lado:3dmodel ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2_3dmodel .
+ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2_3dmodel rdf:type lado:3DModel .
+ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2_3dmodel rdfs:label "3D Model of bowl with satyr and maenad"@en .
+ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031646> .
+ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2_3dmodel foaf:image "https://arachne.dainst.org/data/model/385.nxz" .
 ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 lado:hasImage <https://zenodo.org/record/5645180/files/9635cd06-a54d-4fcd-8386-548279cdbae2.jpg>.
 ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_9635cd06-a54d-4fcd-8386-548279cdbae2 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3518,7 +3579,11 @@ ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a dc:identifier 'd91c86d4-150f-4ce0-a0
 ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a lado:inventoryNumber 'O.40794 (RGZM)'.
 ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a lado:arachneEntityID <http://arachne.dainst.org/entity/7031335>.
-ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a lado:arachneModelID <http://arachne.dainst.org/entity/7031336>.
+ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a lado:3dmodel ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a_3dmodel .
+ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a_3dmodel rdf:type lado:3DModel .
+ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a_3dmodel rdfs:label "3D Model of bowl with satyr and maenad"@en .
+ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031336> .
+ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a_3dmodel foaf:image "https://arachne.dainst.org/data/model/230.nxz" .
 ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a lado:hasImage <https://zenodo.org/record/5645180/files/d91c86d4-150f-4ce0-a08a-8912d8582f7a.jpg>.
 ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_d91c86d4-150f-4ce0-a08a-8912d8582f7a prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3541,7 +3606,11 @@ ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 dc:identifier '70f2a29f-91ee-408b-80
 ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 lado:inventoryNumber 'O.40795 (RGZM)'.
 ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 lado:arachneEntityID <http://arachne.dainst.org/entity/7031205>.
-ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 lado:arachneModelID <http://arachne.dainst.org/entity/7031206>.
+ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 lado:3dmodel ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981_3dmodel .
+ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981_3dmodel rdf:type lado:3DModel .
+ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981_3dmodel rdfs:label "3D Model of bowl with satyr and maenad"@en .
+ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031206> .
+ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981_3dmodel foaf:image "https://arachne.dainst.org/data/model/165.nxz" .
 ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 lado:hasImage <https://zenodo.org/record/5645180/files/70f2a29f-91ee-408b-805b-23e02c5bf981.jpg>.
 ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_70f2a29f-91ee-408b-805b-23e02c5bf981 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3564,7 +3633,11 @@ ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 dc:identifier 'dc0620b5-4aef-4141-a3
 ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 lado:inventoryNumber 'O.40796 (RGZM)'.
 ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 lado:arachneEntityID <http://arachne.dainst.org/entity/7031277>.
-ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 lado:arachneModelID <http://arachne.dainst.org/entity/7031278>.
+ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 lado:3dmodel ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3_3dmodel .
+ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3_3dmodel rdf:type lado:3DModel .
+ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3_3dmodel rdfs:label "3D Model of bowl with paralytic"@en .
+ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031278> .
+ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3_3dmodel foaf:image "https://arachne.dainst.org/data/model/201.nxz" .
 ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 lado:hasImage <https://zenodo.org/record/5645180/files/dc0620b5-4aef-4141-a3ca-b44b8ff222b3.jpg>.
 ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_dc0620b5-4aef-4141-a3ca-b44b8ff222b3 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3587,7 +3660,11 @@ ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f dc:identifier '235d893f-d8ed-41cc-a7
 ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f lado:inventoryNumber 'O.40797 (RGZM)'.
 ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f lado:arachneEntityID <http://arachne.dainst.org/entity/7031337>.
-ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f lado:arachneModelID <http://arachne.dainst.org/entity/7031338>.
+ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f lado:3dmodel ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f_3dmodel .
+ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f_3dmodel rdf:type lado:3DModel .
+ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f_3dmodel rdfs:label "3D Model of bowl with enthroned person"@en .
+ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031278> .
+ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f_3dmodel foaf:image "https://arachne.dainst.org/data/model/231.nxz" .
 ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f lado:hasImage <https://zenodo.org/record/5645180/files/235d893f-d8ed-41cc-a7d2-786393a09c5f.jpg>.
 ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_235d893f-d8ed-41cc-a7d2-786393a09c5f prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -3610,7 +3687,11 @@ ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 dc:identifier 'd4903b69-733f-48e7-9e
 ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 lado:inventoryNumber 'O.40798 (RGZM)'.
 ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 lado:timeinterval 'Late Antiquity / 310/320-430/450 AD'.
 ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 lado:arachneEntityID <http://arachne.dainst.org/entity/7031279>.
-ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 lado:arachneModelID <http://arachne.dainst.org/entity/7031280>.
+ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 lado:3dmodel ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9_3dmodel .
+ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9_3dmodel rdf:type lado:3DModel .
+ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9_3dmodel rdfs:label "3D Model of bowl with hand and tree"@en .
+ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9_3dmodel lado:arachneModelID <http://arachne.dainst.org/entity/7031280> .
+ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9_3dmodel foaf:image "https://arachne.dainst.org/data/model/202.nxz" .
 ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 lado:hasImage <https://zenodo.org/record/5645180/files/d4903b69-733f-48e7-9ee1-4c9fd725fcc9.jpg>.
 ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ic_d4903b69-733f-48e7-9ee1-4c9fd725fcc9 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
