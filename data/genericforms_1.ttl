@@ -8,7 +8,10 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX geosparql: <http://www.opengis.net/ont/geosparql#> 
 PREFIX dc: <http://purl.org/dc/elements/1.1/> 
 PREFIX sf: <http://www.opengis.net/ont/sf#> 
+PREFIX om: <http://www.ontology-of-units-of-measure.org/resource/om-2/>
 PREFIX lado: <http://archaeology.link/ontology#> 
+PREFIX geopesg: <http://situx.github.io/proj4rdf/ont/crs/> 
+PREFIX geocrs: <http://www.opengis.net/ont/crs/> 
 PREFIX ars: <http://data.archaeology.link/data/ars/> 
 PREFIX samian: <http://data.archaeology.link/data/samian/> 
 PREFIX wd: <http://www.wikidata.org/entity/> 
@@ -61,6 +64,49 @@ ars:unclassifiedRepresentation rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_
 ars:unclassifiedRepresentation rdfs:label 'unclassified'@en.
 ars:unknownRepresentation rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
 ars:unknownRepresentation rdfs:label 'unknown'@en.
+
+
+ars:cartesian_ax3_mm a geopesg:CartesianCS,
+        geocrs:CartesianCS ;
+    rdfs:label "Cartesian coordinate system with 3 axis in millimetre units"@en ;
+    geopesg:asSVG "<svg width='400' height='250' viewbox='0 0 375 220'><defs><marker id='arrowhead' markerWidth='10' markerHeight='7' refX='0' refY='2' orient='auto'><polygon points='0 0, 4 2, 0 4' /></marker></defs><line x1='20' y1='200' x2='200' y2='200' stroke='red' stroke-width='5' marker-end='url(#arrowhead)'></line><text x='110' y='220' class='small'>X: Cartesian X Axis (om:millimetre)</text><line x1='20' y1='200' x2='20' y2='20' stroke='green' stroke-width='5' marker-end='url(#arrowhead)'></line><text x='35' y='20' class='small'>Y: Cartesian Y Axis (om:millimetre)</text><line x1='20' y1='200' x2='190' y2='30' stroke='blue' stroke-width='5' marker-end='url(#arrowhead)'></line><text x='210' y='25' class='small'>Z: Cartesian Z Axis (om:millimetre)</text></svg>"^^geopesg:svgLiteral ;
+    geopesg:asWKT "CS[\"cartesian\",3],AXIS[\"X\", \"geocentricX\", ORDER[1],            LENGTHUNIT[\"millimetre\",1]        ],        AXIS[\"Y\", \"geocentricY\", ORDER[2],            LENGTHUNIT[\"millimetre\",1]        ],        AXIS[\"Z\", \"geocentricZ\", ORDER[3],            LENGTHUNIT[\"millimetre\",1]        ]]"^^<http://www.opengis.net/ont/geosparql/crs#wktLiteral> ;
+    geopesg:axis ars:cartesian_ax3_mm_axis1,
+       ars:cartesian_ax3_mm_axis2,
+       ars:cartesian_ax3_mm_axis3 .
+
+ars:cartesian_ax3_mm_axis1 a geopesg:CoordinateSystemAxis,
+        geocrs:CoordinateSystemAxis ;
+    rdfs:label "Cartesian coordinate system with 3 axis in millimetre units: Axis 1"@en ;
+    geopesg:abbreviation "X" ;
+    geopesg:axisDirection geopesg:geocentricX ;
+    geopesg:axisOrder "1"^^xsd:int ;
+    om:hasUnit om:millimetre ;
+    geocrs:abbreviation "X" ;
+    geocrs:axisDirection geocrs:geocentricX ;
+    geocrs:axisOrder "1"^^xsd:int .
+
+ars:cartesian_ax3_mm_axis2 a geopesg:CoordinateSystemAxis,
+        geocrs:CoordinateSystemAxis ;
+    rdfs:label "Cartesian coordinate system with 3 axis in millimetre units: Axis 2"@en ;
+    geopesg:abbreviation "Y" ;
+    geopesg:axisDirection geopesg:geocentricY ;
+    geopesg:axisOrder "2"^^xsd:int ;
+    om:hasUnit om:millimetre ;
+    geocrs:abbreviation "Y" ;
+    geocrs:axisDirection geocrs:geocentricY ;
+    geocrs:axisOrder "2"^^xsd:int .
+
+ars:cartesian_ax3_mm_axis3 a geopesg:CoordinateSystemAxis,
+        geocrs:CoordinateSystemAxis ;
+    rdfs:label "Cartesian coordinate system with 3 axis in millimetre units: Axis 3"@en ;
+    geopesg:abbreviation "Z" ;
+    geopesg:axisDirection geopesg:geocentricZ ;
+    geopesg:axisOrder "3"^^xsd:int ;
+    om:hasUnit om:millimetre ;
+    geocrs:abbreviation "Z" ;
+    geocrs:axisDirection geocrs:geocentricZ ;
+    geocrs:axisOrder "3"^^xsd:int .
 
 
 ars:fragmentedCondition rdf:type <http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State>.
