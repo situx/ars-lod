@@ -15,7 +15,7 @@ jobs:
           prefixnsshort: ars
           indexpages: true
           metadatatable: true
-          createcollections: false
+          createcollections: true
           iiif: true
           createnonNSPages: true
           createVOWL: true
