@@ -8,6 +8,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX geosparql: <http://www.opengis.net/ont/geosparql#> 
 PREFIX dc: <http://purl.org/dc/elements/1.1/> 
 PREFIX sf: <http://www.opengis.net/ont/sf#> 
+PREFIX bibo: <http://purl.org/ontology/bibo/> 
 PREFIX om: <http://www.ontology-of-units-of-measure.org/resource/om-2/>
 PREFIX lado: <http://archaeology.link/ontology#> 
 PREFIX geopesg: <http://situx.github.io/proj4rdf/ont/crs/> 
@@ -43,6 +44,19 @@ ars:clay rdf:type <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
 ars:clay rdfs:label 'clay'@en.
 ars:unknown rdf:type <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
 ars:unknown rdfs:label 'unknown'@en.
+
+ars:armstrong1993thesaurus rdf:type bibo:Book .
+ars:armstrong1993thesaurus <http://purl.org/dc/elements/1.1/title> "A thesaurus of applied motives on African red slip ware"@en .
+ars:armstrong1993thesaurus <http://purl.org/dc/elements/1.1/creator> ars:armstrong_meg_anne .
+ars:armstrong1993thesaurus <http://purl.org/dc/elements/1.1/created> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+
+ars:armstrong_meg_anne rdf:type foaf:Person .
+ars:armstrong_meg_anne foaf:familyName "Armstrong"@en .
+ars:armstrong_meg_anne foaf:givenName "Meg Anne"@en .
+ars:armstrong_meg_anne rdfs:label "Meg Anne Armstrong"@en .
+
+
 
 ars:stamp rdf:type <http://www.cidoc-crm.org/cidoc-crm/E17_TypeAssignment>.
 ars:stamp rdfs:label 'stamp'@en.
