@@ -4717,7 +4717,7 @@ ars:activity_ir_dbe9ac3c-a66c-4d2c-88bd-5ea18edb0cbf prov:wasAssociatedWith ars:
 
 
 ars:ir_7102599c-8f61-4bfc-a7b0-612b95e112df rdfs:label 'Löwenstein Bacchischer Thiasos'.
-ars:ir_7102599c-8f61-4bfc-a7b0-612b95e112df rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_7102599c-8f61-4bfc-a7b0-612b95e112df rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_7102599c-8f61-4bfc-a7b0-612b95e112df <http://purl.org/dc/terms/isReferencedBy> ars:ir_7102599c-8f61-4bfc-a7b0-612b95e112df_ref . ars:ir_7102599c-8f61-4bfc-a7b0-612b95e112df_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7102599c-8f61-4bfc-a7b0-612b95e112df_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 571" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 571_ref" . 
 ars:ir_7102599c-8f61-4bfc-a7b0-612b95e112df dc:identifier '7102599c-8f61-4bfc-a7b0-612b95e112df'.
 ars:ir_7102599c-8f61-4bfc-a7b0-612b95e112df prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4730,7 +4730,7 @@ ars:activity_ir_7102599c-8f61-4bfc-a7b0-612b95e112df prov:wasAssociatedWith ars:
 
 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000012 rdfs:label 'Löwenstein Bacchus I'.
-ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000012 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000012 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000012 <http://purl.org/dc/terms/isReferencedBy> ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000012_ref . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000012_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000012_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 593-594" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 593-594_ref" . 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000012 dc:identifier 'c30c01b2-9c7e-45ec-833b-f734e1000012'.
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000012 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4743,7 +4743,7 @@ ars:activity_ir_c30c01b2-9c7e-45ec-833b-f734e1000012 prov:wasAssociatedWith ars:
 
 
 ars:ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b rdfs:label 'Löwenstein Bacchus II'.
-ars:ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b <http://purl.org/dc/terms/isReferencedBy> ars:ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b_ref . ars:ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 772" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 772_ref" . 
 ars:ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b dc:identifier '1a447dd5-db3e-4c2b-8405-a842b9d9e57b'.
 ars:ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4756,7 +4756,7 @@ ars:activity_ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b prov:wasAssociatedWith ars:
 
 
 ars:ir_c0fda02c-ec42-486c-9c9b-17b6b755389a rdfs:label 'Löwenstein Bacchus III'.
-ars:ir_c0fda02c-ec42-486c-9c9b-17b6b755389a rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_c0fda02c-ec42-486c-9c9b-17b6b755389a rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_c0fda02c-ec42-486c-9c9b-17b6b755389a <http://purl.org/dc/terms/isReferencedBy> ars:ir_c0fda02c-ec42-486c-9c9b-17b6b755389a_ref . ars:ir_c0fda02c-ec42-486c-9c9b-17b6b755389a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c0fda02c-ec42-486c-9c9b-17b6b755389a_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 595-596" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 595-596_ref" . 
 ars:ir_c0fda02c-ec42-486c-9c9b-17b6b755389a dc:identifier 'c0fda02c-ec42-486c-9c9b-17b6b755389a'.
 ars:ir_c0fda02c-ec42-486c-9c9b-17b6b755389a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4769,7 +4769,7 @@ ars:activity_ir_c0fda02c-ec42-486c-9c9b-17b6b755389a prov:wasAssociatedWith ars:
 
 
 ars:ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505 rdfs:label 'Löwenstein Bacchus im Kampf mit einem Inder (?)'.
-ars:ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505 <http://purl.org/dc/terms/isReferencedBy> ars:ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505_ref . ars:ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 521-523, 742-743" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 521-523, 742-743_ref" . 
 ars:ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505 dc:identifier '31803c57-9e7a-4bd8-b600-8ae3c43c3505'.
 ars:ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4782,7 +4782,7 @@ ars:activity_ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505 prov:wasAssociatedWith ars:
 
 
 ars:ir_126575f3-d00b-4945-b38a-9c6bb9c157e4 rdfs:label 'Löwenstein Baum mit Ladon'.
-ars:ir_126575f3-d00b-4945-b38a-9c6bb9c157e4 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_126575f3-d00b-4945-b38a-9c6bb9c157e4 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_126575f3-d00b-4945-b38a-9c6bb9c157e4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_126575f3-d00b-4945-b38a-9c6bb9c157e4_ref . ars:ir_126575f3-d00b-4945-b38a-9c6bb9c157e4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_126575f3-d00b-4945-b38a-9c6bb9c157e4_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 472" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 472_ref" . 
 ars:ir_126575f3-d00b-4945-b38a-9c6bb9c157e4 dc:identifier '126575f3-d00b-4945-b38a-9c6bb9c157e4'.
 ars:ir_126575f3-d00b-4945-b38a-9c6bb9c157e4 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4795,7 +4795,7 @@ ars:activity_ir_126575f3-d00b-4945-b38a-9c6bb9c157e4 prov:wasAssociatedWith ars:
 
 
 ars:ir_6a66fe54-ca79-43a0-b130-0412e050666e rdfs:label 'Löwenstein Der physische Unterricht Achills, Diskuswurf'.
-ars:ir_6a66fe54-ca79-43a0-b130-0412e050666e rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_6a66fe54-ca79-43a0-b130-0412e050666e rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_6a66fe54-ca79-43a0-b130-0412e050666e <http://purl.org/dc/terms/isReferencedBy> ars:ir_6a66fe54-ca79-43a0-b130-0412e050666e_ref . ars:ir_6a66fe54-ca79-43a0-b130-0412e050666e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6a66fe54-ca79-43a0-b130-0412e050666e_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 437-439" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 437-439_ref" . 
 ars:ir_6a66fe54-ca79-43a0-b130-0412e050666e dc:identifier '6a66fe54-ca79-43a0-b130-0412e050666e'.
 ars:ir_6a66fe54-ca79-43a0-b130-0412e050666e prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4808,7 +4808,7 @@ ars:activity_ir_6a66fe54-ca79-43a0-b130-0412e050666e prov:wasAssociatedWith ars:
 
 
 ars:ir_079664cc-61d1-4579-874a-cd342bac333c rdfs:label 'Löwenstein Die Ernährung Achills'.
-ars:ir_079664cc-61d1-4579-874a-cd342bac333c rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_079664cc-61d1-4579-874a-cd342bac333c rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_079664cc-61d1-4579-874a-cd342bac333c <http://purl.org/dc/terms/isReferencedBy> ars:ir_079664cc-61d1-4579-874a-cd342bac333c_ref . ars:ir_079664cc-61d1-4579-874a-cd342bac333c_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_079664cc-61d1-4579-874a-cd342bac333c_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 436-437" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 436-437_ref" . 
 ars:ir_079664cc-61d1-4579-874a-cd342bac333c dc:identifier '079664cc-61d1-4579-874a-cd342bac333c'.
 ars:ir_079664cc-61d1-4579-874a-cd342bac333c prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4821,7 +4821,7 @@ ars:activity_ir_079664cc-61d1-4579-874a-cd342bac333c prov:wasAssociatedWith ars:
 
 
 ars:ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5 rdfs:label 'Löwenstein Entdeckung Achills auf Skyros'.
-ars:ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5 <http://purl.org/dc/terms/isReferencedBy> ars:ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5_ref . ars:ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 441-443" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 441-443_ref" . 
 ars:ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5 dc:identifier 'd2d88ce6-86c6-4c4b-9cc6-c866bbc82de5'.
 ars:ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4834,7 +4834,7 @@ ars:activity_ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5 prov:wasAssociatedWith ars:
 
 
 ars:ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf rdfs:label 'Löwenstein Eros I'.
-ars:ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf <http://purl.org/dc/terms/isReferencedBy> ars:ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf_ref . ars:ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 577" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 577_ref" . 
 ars:ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf dc:identifier '1a44e487-e12d-4f8e-9db8-a29a6b2494bf'.
 ars:ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4847,7 +4847,7 @@ ars:activity_ir_1a44e487-e12d-4f8e-9db8-a29a6b2494bf prov:wasAssociatedWith ars:
 
 
 ars:ir_f90706e3-2a16-4060-8d61-95c61e393922 rdfs:label 'Löwenstein Eros VII'.
-ars:ir_f90706e3-2a16-4060-8d61-95c61e393922 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_f90706e3-2a16-4060-8d61-95c61e393922 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_f90706e3-2a16-4060-8d61-95c61e393922 <http://purl.org/dc/terms/isReferencedBy> ars:ir_f90706e3-2a16-4060-8d61-95c61e393922_ref . ars:ir_f90706e3-2a16-4060-8d61-95c61e393922_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f90706e3-2a16-4060-8d61-95c61e393922_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 581" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 581_ref" . 
 ars:ir_f90706e3-2a16-4060-8d61-95c61e393922 dc:identifier 'f90706e3-2a16-4060-8d61-95c61e393922'.
 ars:ir_f90706e3-2a16-4060-8d61-95c61e393922 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4860,7 +4860,7 @@ ars:activity_ir_f90706e3-2a16-4060-8d61-95c61e393922 prov:wasAssociatedWith ars:
 
 
 ars:ir_1063a938-5f8f-43e1-880d-7b3e0dce217b rdfs:label 'Löwenstein Eros mit Vogel IX'.
-ars:ir_1063a938-5f8f-43e1-880d-7b3e0dce217b rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_1063a938-5f8f-43e1-880d-7b3e0dce217b rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_1063a938-5f8f-43e1-880d-7b3e0dce217b <http://purl.org/dc/terms/isReferencedBy> ars:ir_1063a938-5f8f-43e1-880d-7b3e0dce217b_ref . ars:ir_1063a938-5f8f-43e1-880d-7b3e0dce217b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1063a938-5f8f-43e1-880d-7b3e0dce217b_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 582" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 582_ref" . 
 ars:ir_1063a938-5f8f-43e1-880d-7b3e0dce217b dc:identifier '1063a938-5f8f-43e1-880d-7b3e0dce217b'.
 ars:ir_1063a938-5f8f-43e1-880d-7b3e0dce217b prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4873,7 +4873,7 @@ ars:activity_ir_1063a938-5f8f-43e1-880d-7b3e0dce217b prov:wasAssociatedWith ars:
 
 
 ars:ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde rdfs:label 'Löwenstein Eros mit Vogel VIII'.
-ars:ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde <http://purl.org/dc/terms/isReferencedBy> ars:ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde_ref . ars:ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 581-582" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 581-582_ref" . 
 ars:ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde dc:identifier '9c9581d6-93eb-48e7-bc7e-7ac2e620ccde'.
 ars:ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4886,7 +4886,7 @@ ars:activity_ir_9c9581d6-93eb-48e7-bc7e-7ac2e620ccde prov:wasAssociatedWith ars:
 
 
 ars:ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab rdfs:label 'Löwenstein Eros und Venus (?)'.
-ars:ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab <http://purl.org/dc/terms/isReferencedBy> ars:ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab_ref . ars:ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 584-585" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 584-585_ref" . 
 ars:ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab dc:identifier 'ba32592a-0c00-4c44-9f8e-ffd44619ebab'.
 ars:ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4899,7 +4899,7 @@ ars:activity_ir_ba32592a-0c00-4c44-9f8e-ffd44619ebab prov:wasAssociatedWith ars:
 
 
 ars:ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434 rdfs:label 'Löwenstein Eroten bei der Weinernte I'.
-ars:ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434_ref . ars:ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 586-588" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 586-588_ref" . 
 ars:ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434 dc:identifier '7ae27bc4-5c4b-4d29-a898-d2a0a07f2434'.
 ars:ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4912,7 +4912,7 @@ ars:activity_ir_7ae27bc4-5c4b-4d29-a898-d2a0a07f2434 prov:wasAssociatedWith ars:
 
 
 ars:ir_ac08ade1-ecad-4599-a94f-8642cc5a76de rdfs:label 'Löwenstein Eroten bei der Weinernte II'.
-ars:ir_ac08ade1-ecad-4599-a94f-8642cc5a76de rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_ac08ade1-ecad-4599-a94f-8642cc5a76de rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_ac08ade1-ecad-4599-a94f-8642cc5a76de <http://purl.org/dc/terms/isReferencedBy> ars:ir_ac08ade1-ecad-4599-a94f-8642cc5a76de_ref . ars:ir_ac08ade1-ecad-4599-a94f-8642cc5a76de_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ac08ade1-ecad-4599-a94f-8642cc5a76de_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 588" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 588_ref" . 
 ars:ir_ac08ade1-ecad-4599-a94f-8642cc5a76de dc:identifier 'ac08ade1-ecad-4599-a94f-8642cc5a76de'.
 ars:ir_ac08ade1-ecad-4599-a94f-8642cc5a76de prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4925,7 +4925,7 @@ ars:activity_ir_ac08ade1-ecad-4599-a94f-8642cc5a76de prov:wasAssociatedWith ars:
 
 
 ars:ir_d66996e7-42b8-46b1-b69e-7968bf81c96d rdfs:label 'Löwenstein Erotengelage I'.
-ars:ir_d66996e7-42b8-46b1-b69e-7968bf81c96d rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_d66996e7-42b8-46b1-b69e-7968bf81c96d rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_d66996e7-42b8-46b1-b69e-7968bf81c96d <http://purl.org/dc/terms/isReferencedBy> ars:ir_d66996e7-42b8-46b1-b69e-7968bf81c96d_ref . ars:ir_d66996e7-42b8-46b1-b69e-7968bf81c96d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_d66996e7-42b8-46b1-b69e-7968bf81c96d_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 546" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 546_ref" . 
 ars:ir_d66996e7-42b8-46b1-b69e-7968bf81c96d dc:identifier 'd66996e7-42b8-46b1-b69e-7968bf81c96d'.
 ars:ir_d66996e7-42b8-46b1-b69e-7968bf81c96d prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4938,7 +4938,7 @@ ars:activity_ir_d66996e7-42b8-46b1-b69e-7968bf81c96d prov:wasAssociatedWith ars:
 
 
 ars:ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b rdfs:label 'Löwenstein Erotengelage II'.
-ars:ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b <http://purl.org/dc/terms/isReferencedBy> ars:ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b_ref . ars:ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 547" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 547_ref" . 
 ars:ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b dc:identifier 'eaf4184b-d6c4-4e47-a423-84fdd3cfc74b'.
 ars:ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4951,7 +4951,7 @@ ars:activity_ir_eaf4184b-d6c4-4e47-a423-84fdd3cfc74b prov:wasAssociatedWith ars:
 
 
 ars:ir_cbba9a33-caef-4360-860c-31d06c226134 rdfs:label 'Löwenstein Erotengelage IV'.
-ars:ir_cbba9a33-caef-4360-860c-31d06c226134 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_cbba9a33-caef-4360-860c-31d06c226134 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_cbba9a33-caef-4360-860c-31d06c226134 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cbba9a33-caef-4360-860c-31d06c226134_ref . ars:ir_cbba9a33-caef-4360-860c-31d06c226134_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cbba9a33-caef-4360-860c-31d06c226134_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 549" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 549_ref" . 
 ars:ir_cbba9a33-caef-4360-860c-31d06c226134 dc:identifier 'cbba9a33-caef-4360-860c-31d06c226134'.
 ars:ir_cbba9a33-caef-4360-860c-31d06c226134 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4964,7 +4964,7 @@ ars:activity_ir_cbba9a33-caef-4360-860c-31d06c226134 prov:wasAssociatedWith ars:
 
 
 ars:ir_701e089f-cf16-41df-8879-283e30dcb010 rdfs:label 'Löwenstein Erotengelage?'.
-ars:ir_701e089f-cf16-41df-8879-283e30dcb010 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_701e089f-cf16-41df-8879-283e30dcb010 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_701e089f-cf16-41df-8879-283e30dcb010 <http://purl.org/dc/terms/isReferencedBy> ars:ir_701e089f-cf16-41df-8879-283e30dcb010_ref . ars:ir_701e089f-cf16-41df-8879-283e30dcb010_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_701e089f-cf16-41df-8879-283e30dcb010_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 756, 545" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 756, 545_ref" . 
 ars:ir_701e089f-cf16-41df-8879-283e30dcb010 dc:identifier '701e089f-cf16-41df-8879-283e30dcb010'.
 ars:ir_701e089f-cf16-41df-8879-283e30dcb010 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4977,7 +4977,7 @@ ars:activity_ir_701e089f-cf16-41df-8879-283e30dcb010 prov:wasAssociatedWith ars:
 
 
 ars:ir_2a6ad11a-65ae-4954-9788-d21b98f6e185 rdfs:label 'Löwenstein Feiung Achills'.
-ars:ir_2a6ad11a-65ae-4954-9788-d21b98f6e185 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_2a6ad11a-65ae-4954-9788-d21b98f6e185 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_2a6ad11a-65ae-4954-9788-d21b98f6e185 <http://purl.org/dc/terms/isReferencedBy> ars:ir_2a6ad11a-65ae-4954-9788-d21b98f6e185_ref . ars:ir_2a6ad11a-65ae-4954-9788-d21b98f6e185_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_2a6ad11a-65ae-4954-9788-d21b98f6e185_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 432-433" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 432-433_ref" . 
 ars:ir_2a6ad11a-65ae-4954-9788-d21b98f6e185 dc:identifier '2a6ad11a-65ae-4954-9788-d21b98f6e185'.
 ars:ir_2a6ad11a-65ae-4954-9788-d21b98f6e185 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -4990,7 +4990,7 @@ ars:activity_ir_2a6ad11a-65ae-4954-9788-d21b98f6e185 prov:wasAssociatedWith ars:
 
 
 ars:ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d rdfs:label 'Löwenstein Flötenspieler im Baumhaus'.
-ars:ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d <http://purl.org/dc/terms/isReferencedBy> ars:ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d_ref . ars:ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 518" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 518_ref" . 
 ars:ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d dc:identifier 'bc26b20f-514a-41a5-9f0f-dea0fcb8f41d'.
 ars:ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5003,7 +5003,7 @@ ars:activity_ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d prov:wasAssociatedWith ars:
 
 
 ars:ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296 rdfs:label 'Löwenstein Ganymed-Entführung'.
-ars:ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296 <http://purl.org/dc/terms/isReferencedBy> ars:ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296_ref . ars:ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 517-518" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 517-518_ref" . 
 ars:ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296 dc:identifier '8fc39aaf-9844-4caf-8bb0-10f3d11b1296'.
 ars:ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5016,7 +5016,7 @@ ars:activity_ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296 prov:wasAssociatedWith ars:
 
 
 ars:ir_8b3333bc-8131-4e67-98b4-82c5d11365e5 rdfs:label 'Löwenstein Geburt des Achilles'.
-ars:ir_8b3333bc-8131-4e67-98b4-82c5d11365e5 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_8b3333bc-8131-4e67-98b4-82c5d11365e5 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_8b3333bc-8131-4e67-98b4-82c5d11365e5 <http://purl.org/dc/terms/isReferencedBy> ars:ir_8b3333bc-8131-4e67-98b4-82c5d11365e5_ref . ars:ir_8b3333bc-8131-4e67-98b4-82c5d11365e5_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8b3333bc-8131-4e67-98b4-82c5d11365e5_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 431-432" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 431-432_ref" . 
 ars:ir_8b3333bc-8131-4e67-98b4-82c5d11365e5 dc:identifier '8b3333bc-8131-4e67-98b4-82c5d11365e5'.
 ars:ir_8b3333bc-8131-4e67-98b4-82c5d11365e5 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5029,7 +5029,7 @@ ars:activity_ir_8b3333bc-8131-4e67-98b4-82c5d11365e5 prov:wasAssociatedWith ars:
 
 
 ars:ir_fdf39293-717a-4552-93e3-ddfc0c46e90a rdfs:label 'Löwenstein Heilung der Blutflüssigen A'.
-ars:ir_fdf39293-717a-4552-93e3-ddfc0c46e90a rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_fdf39293-717a-4552-93e3-ddfc0c46e90a rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_fdf39293-717a-4552-93e3-ddfc0c46e90a <http://purl.org/dc/terms/isReferencedBy> ars:ir_fdf39293-717a-4552-93e3-ddfc0c46e90a_ref . ars:ir_fdf39293-717a-4552-93e3-ddfc0c46e90a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fdf39293-717a-4552-93e3-ddfc0c46e90a_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 801" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 801_ref" . 
 ars:ir_fdf39293-717a-4552-93e3-ddfc0c46e90a dc:identifier 'fdf39293-717a-4552-93e3-ddfc0c46e90a'.
 ars:ir_fdf39293-717a-4552-93e3-ddfc0c46e90a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5042,7 +5042,7 @@ ars:activity_ir_fdf39293-717a-4552-93e3-ddfc0c46e90a prov:wasAssociatedWith ars:
 
 
 ars:ir_f5d7071e-00ff-4674-9dae-b8f93b15d371 rdfs:label 'Löwenstein Heilung der Blutflüssigen B'.
-ars:ir_f5d7071e-00ff-4674-9dae-b8f93b15d371 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_f5d7071e-00ff-4674-9dae-b8f93b15d371 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_f5d7071e-00ff-4674-9dae-b8f93b15d371 <http://purl.org/dc/terms/isReferencedBy> ars:ir_f5d7071e-00ff-4674-9dae-b8f93b15d371_ref . ars:ir_f5d7071e-00ff-4674-9dae-b8f93b15d371_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f5d7071e-00ff-4674-9dae-b8f93b15d371_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 801" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 801_ref" . 
 ars:ir_f5d7071e-00ff-4674-9dae-b8f93b15d371 dc:identifier 'f5d7071e-00ff-4674-9dae-b8f93b15d371'.
 ars:ir_f5d7071e-00ff-4674-9dae-b8f93b15d371 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5055,7 +5055,7 @@ ars:activity_ir_f5d7071e-00ff-4674-9dae-b8f93b15d371 prov:wasAssociatedWith ars:
 
 
 ars:ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a rdfs:label 'Löwenstein Herbsthore'.
-ars:ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a <http://purl.org/dc/terms/isReferencedBy> ars:ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a_ref . ars:ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 627-628" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 627-628_ref" . 
 ars:ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a dc:identifier 'd59ffc06-ac0b-4a54-a417-fe81a23a167a'.
 ars:ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5068,7 +5068,7 @@ ars:activity_ir_d59ffc06-ac0b-4a54-a417-fe81a23a167a prov:wasAssociatedWith ars:
 
 
 ars:ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886 rdfs:label 'Löwenstein Hercules I'.
-ars:ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886 <http://purl.org/dc/terms/isReferencedBy> ars:ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886_ref . ars:ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 458" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 458_ref" . 
 ars:ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886 dc:identifier '86d93d6c-e50d-4a96-ad23-b4931fe7d886'.
 ars:ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5081,7 +5081,7 @@ ars:activity_ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886 prov:wasAssociatedWith ars:
 
 
 ars:ir_ae778786-4fca-443d-951c-a4c001754d7d rdfs:label 'Löwenstein Hercules II'.
-ars:ir_ae778786-4fca-443d-951c-a4c001754d7d rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_ae778786-4fca-443d-951c-a4c001754d7d rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_ae778786-4fca-443d-951c-a4c001754d7d <http://purl.org/dc/terms/isReferencedBy> ars:ir_ae778786-4fca-443d-951c-a4c001754d7d_ref . ars:ir_ae778786-4fca-443d-951c-a4c001754d7d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ae778786-4fca-443d-951c-a4c001754d7d_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 458" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 458_ref" . 
 ars:ir_ae778786-4fca-443d-951c-a4c001754d7d dc:identifier 'ae778786-4fca-443d-951c-a4c001754d7d'.
 ars:ir_ae778786-4fca-443d-951c-a4c001754d7d prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5094,7 +5094,7 @@ ars:activity_ir_ae778786-4fca-443d-951c-a4c001754d7d prov:wasAssociatedWith ars:
 
 
 ars:ir_c01b1b93-c617-4dcf-b727-dd193c293463 rdfs:label 'Löwenstein Hercules III'.
-ars:ir_c01b1b93-c617-4dcf-b727-dd193c293463 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_c01b1b93-c617-4dcf-b727-dd193c293463 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_c01b1b93-c617-4dcf-b727-dd193c293463 <http://purl.org/dc/terms/isReferencedBy> ars:ir_c01b1b93-c617-4dcf-b727-dd193c293463_ref . ars:ir_c01b1b93-c617-4dcf-b727-dd193c293463_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c01b1b93-c617-4dcf-b727-dd193c293463_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 459" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 459_ref" . 
 ars:ir_c01b1b93-c617-4dcf-b727-dd193c293463 dc:identifier 'c01b1b93-c617-4dcf-b727-dd193c293463'.
 ars:ir_c01b1b93-c617-4dcf-b727-dd193c293463 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5107,7 +5107,7 @@ ars:activity_ir_c01b1b93-c617-4dcf-b727-dd193c293463 prov:wasAssociatedWith ars:
 
 
 ars:ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735 rdfs:label 'Löwenstein Hercules IV'.
-ars:ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735 <http://purl.org/dc/terms/isReferencedBy> ars:ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735_ref . ars:ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 459" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 459_ref" . 
 ars:ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735 dc:identifier '1bc48404-ff02-44ea-a4eb-e6ab39bd3735'.
 ars:ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5120,7 +5120,7 @@ ars:activity_ir_1bc48404-ff02-44ea-a4eb-e6ab39bd3735 prov:wasAssociatedWith ars:
 
 
 ars:ir_a742bf14-dcfe-42eb-9480-190c5731d1ce rdfs:label 'Löwenstein Hercules IX'.
-ars:ir_a742bf14-dcfe-42eb-9480-190c5731d1ce rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_a742bf14-dcfe-42eb-9480-190c5731d1ce rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_a742bf14-dcfe-42eb-9480-190c5731d1ce <http://purl.org/dc/terms/isReferencedBy> ars:ir_a742bf14-dcfe-42eb-9480-190c5731d1ce_ref . ars:ir_a742bf14-dcfe-42eb-9480-190c5731d1ce_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a742bf14-dcfe-42eb-9480-190c5731d1ce_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 461" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 461_ref" . 
 ars:ir_a742bf14-dcfe-42eb-9480-190c5731d1ce dc:identifier 'a742bf14-dcfe-42eb-9480-190c5731d1ce'.
 ars:ir_a742bf14-dcfe-42eb-9480-190c5731d1ce prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5133,7 +5133,7 @@ ars:activity_ir_a742bf14-dcfe-42eb-9480-190c5731d1ce prov:wasAssociatedWith ars:
 
 
 ars:ir_76ba2261-75b7-4557-981e-3c79af640158 rdfs:label 'Löwenstein Hercules V'.
-ars:ir_76ba2261-75b7-4557-981e-3c79af640158 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_76ba2261-75b7-4557-981e-3c79af640158 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_76ba2261-75b7-4557-981e-3c79af640158 <http://purl.org/dc/terms/isReferencedBy> ars:ir_76ba2261-75b7-4557-981e-3c79af640158_ref . ars:ir_76ba2261-75b7-4557-981e-3c79af640158_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_76ba2261-75b7-4557-981e-3c79af640158_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 459" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 459_ref" . 
 ars:ir_76ba2261-75b7-4557-981e-3c79af640158 dc:identifier '76ba2261-75b7-4557-981e-3c79af640158'.
 ars:ir_76ba2261-75b7-4557-981e-3c79af640158 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5146,7 +5146,7 @@ ars:activity_ir_76ba2261-75b7-4557-981e-3c79af640158 prov:wasAssociatedWith ars:
 
 
 ars:ir_3e69f788-29a0-4edb-8f05-0ade7d455a65 rdfs:label 'Löwenstein Hercules VII'.
-ars:ir_3e69f788-29a0-4edb-8f05-0ade7d455a65 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_3e69f788-29a0-4edb-8f05-0ade7d455a65 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_3e69f788-29a0-4edb-8f05-0ade7d455a65 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3e69f788-29a0-4edb-8f05-0ade7d455a65_ref . ars:ir_3e69f788-29a0-4edb-8f05-0ade7d455a65_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3e69f788-29a0-4edb-8f05-0ade7d455a65_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 460" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 460_ref" . 
 ars:ir_3e69f788-29a0-4edb-8f05-0ade7d455a65 dc:identifier '3e69f788-29a0-4edb-8f05-0ade7d455a65'.
 ars:ir_3e69f788-29a0-4edb-8f05-0ade7d455a65 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5159,7 +5159,7 @@ ars:activity_ir_3e69f788-29a0-4edb-8f05-0ade7d455a65 prov:wasAssociatedWith ars:
 
 
 ars:ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1 rdfs:label 'Löwenstein Hercules VIII'.
-ars:ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1 <http://purl.org/dc/terms/isReferencedBy> ars:ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1_ref . ars:ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 460" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 460_ref" . 
 ars:ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1 dc:identifier 'aa6f2b61-535f-4495-afeb-1ec19adbfdd1'.
 ars:ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5172,7 +5172,7 @@ ars:activity_ir_aa6f2b61-535f-4495-afeb-1ec19adbfdd1 prov:wasAssociatedWith ars:
 
 
 ars:ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd rdfs:label 'Löwenstein Hercules Victor I'.
-ars:ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd <http://purl.org/dc/terms/isReferencedBy> ars:ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd_ref . ars:ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 478-480" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 478-480_ref" . 
 ars:ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd dc:identifier 'e1a61b5c-0d19-4abd-8962-9e55657b08fd'.
 ars:ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5185,7 +5185,7 @@ ars:activity_ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd prov:wasAssociatedWith ars:
 
 
 ars:ir_3bb256a3-5649-4d52-9aca-e52f1d33c697 rdfs:label 'Löwenstein Hercules Victor I Var.'.
-ars:ir_3bb256a3-5649-4d52-9aca-e52f1d33c697 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_3bb256a3-5649-4d52-9aca-e52f1d33c697 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_3bb256a3-5649-4d52-9aca-e52f1d33c697 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3bb256a3-5649-4d52-9aca-e52f1d33c697_ref . ars:ir_3bb256a3-5649-4d52-9aca-e52f1d33c697_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3bb256a3-5649-4d52-9aca-e52f1d33c697_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 478-480" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 478-480_ref" . 
 ars:ir_3bb256a3-5649-4d52-9aca-e52f1d33c697 dc:identifier '3bb256a3-5649-4d52-9aca-e52f1d33c697'.
 ars:ir_3bb256a3-5649-4d52-9aca-e52f1d33c697 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5198,7 +5198,7 @@ ars:activity_ir_3bb256a3-5649-4d52-9aca-e52f1d33c697 prov:wasAssociatedWith ars:
 
 
 ars:ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89 rdfs:label 'Löwenstein Hercules Victor II'.
-ars:ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89_ref . ars:ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 481" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 481_ref" . 
 ars:ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89 dc:identifier 'a8557a4c-f2bb-4be6-9be3-0ac53a4caf89'.
 ars:ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5211,7 +5211,7 @@ ars:activity_ir_a8557a4c-f2bb-4be6-9be3-0ac53a4caf89 prov:wasAssociatedWith ars:
 
 
 ars:ir_357eb660-e2ec-4226-8278-4e236c1ec44e rdfs:label 'Löwenstein Hercules Victor III'.
-ars:ir_357eb660-e2ec-4226-8278-4e236c1ec44e rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_357eb660-e2ec-4226-8278-4e236c1ec44e rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_357eb660-e2ec-4226-8278-4e236c1ec44e <http://purl.org/dc/terms/isReferencedBy> ars:ir_357eb660-e2ec-4226-8278-4e236c1ec44e_ref . ars:ir_357eb660-e2ec-4226-8278-4e236c1ec44e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_357eb660-e2ec-4226-8278-4e236c1ec44e_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 481-483" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 481-483_ref" . 
 ars:ir_357eb660-e2ec-4226-8278-4e236c1ec44e dc:identifier '357eb660-e2ec-4226-8278-4e236c1ec44e'.
 ars:ir_357eb660-e2ec-4226-8278-4e236c1ec44e prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5224,7 +5224,7 @@ ars:activity_ir_357eb660-e2ec-4226-8278-4e236c1ec44e prov:wasAssociatedWith ars:
 
 
 ars:ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424 rdfs:label 'Löwenstein Hercules X'.
-ars:ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424 <http://purl.org/dc/terms/isReferencedBy> ars:ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424_ref . ars:ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 461-462" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 461-462_ref" . 
 ars:ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424 dc:identifier '6af4f9e1-5758-4e7f-ade3-cf91d19dd424'.
 ars:ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5237,7 +5237,7 @@ ars:activity_ir_6af4f9e1-5758-4e7f-ade3-cf91d19dd424 prov:wasAssociatedWith ars:
 
 
 ars:ir_5c55d038-adc5-4514-af9a-5943f1eb3142 rdfs:label 'Löwenstein Hercules XI'.
-ars:ir_5c55d038-adc5-4514-af9a-5943f1eb3142 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_5c55d038-adc5-4514-af9a-5943f1eb3142 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_5c55d038-adc5-4514-af9a-5943f1eb3142 <http://purl.org/dc/terms/isReferencedBy> ars:ir_5c55d038-adc5-4514-af9a-5943f1eb3142_ref . ars:ir_5c55d038-adc5-4514-af9a-5943f1eb3142_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5c55d038-adc5-4514-af9a-5943f1eb3142_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 462" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 462_ref" . 
 ars:ir_5c55d038-adc5-4514-af9a-5943f1eb3142 dc:identifier '5c55d038-adc5-4514-af9a-5943f1eb3142'.
 ars:ir_5c55d038-adc5-4514-af9a-5943f1eb3142 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5250,7 +5250,7 @@ ars:activity_ir_5c55d038-adc5-4514-af9a-5943f1eb3142 prov:wasAssociatedWith ars:
 
 
 ars:ir_6c2297fc-3b16-412f-b58c-d83f4d703711 rdfs:label 'Löwenstein Hercules XV'.
-ars:ir_6c2297fc-3b16-412f-b58c-d83f4d703711 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_6c2297fc-3b16-412f-b58c-d83f4d703711 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_6c2297fc-3b16-412f-b58c-d83f4d703711 <http://purl.org/dc/terms/isReferencedBy> ars:ir_6c2297fc-3b16-412f-b58c-d83f4d703711_ref . ars:ir_6c2297fc-3b16-412f-b58c-d83f4d703711_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6c2297fc-3b16-412f-b58c-d83f4d703711_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 464" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 464_ref" . 
 ars:ir_6c2297fc-3b16-412f-b58c-d83f4d703711 dc:identifier '6c2297fc-3b16-412f-b58c-d83f4d703711'.
 ars:ir_6c2297fc-3b16-412f-b58c-d83f4d703711 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5263,7 +5263,7 @@ ars:activity_ir_6c2297fc-3b16-412f-b58c-d83f4d703711 prov:wasAssociatedWith ars:
 
 
 ars:ir_5f6562bc-3ad5-4c46-9da4-38f7294da993 rdfs:label 'Löwenstein Hercules im Kampf gegen den Löwen'.
-ars:ir_5f6562bc-3ad5-4c46-9da4-38f7294da993 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_5f6562bc-3ad5-4c46-9da4-38f7294da993 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_5f6562bc-3ad5-4c46-9da4-38f7294da993 <http://purl.org/dc/terms/isReferencedBy> ars:ir_5f6562bc-3ad5-4c46-9da4-38f7294da993_ref . ars:ir_5f6562bc-3ad5-4c46-9da4-38f7294da993_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5f6562bc-3ad5-4c46-9da4-38f7294da993_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 465" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 465_ref" . 
 ars:ir_5f6562bc-3ad5-4c46-9da4-38f7294da993 dc:identifier '5f6562bc-3ad5-4c46-9da4-38f7294da993'.
 ars:ir_5f6562bc-3ad5-4c46-9da4-38f7294da993 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5276,7 +5276,7 @@ ars:activity_ir_5f6562bc-3ad5-4c46-9da4-38f7294da993 prov:wasAssociatedWith ars:
 
 
 ars:ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5 rdfs:label 'Löwenstein Hercules im Kampf mit Mars um die Leiche des Kyknos I'.
-ars:ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5_ref . ars:ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 473-477" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 473-477_ref" . 
 ars:ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5 dc:identifier 'ebc066c3-bedc-458f-bdcc-c1ef81f005a5'.
 ars:ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5289,7 +5289,7 @@ ars:activity_ir_ebc066c3-bedc-458f-bdcc-c1ef81f005a5 prov:wasAssociatedWith ars:
 
 
 ars:ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af rdfs:label 'Löwenstein Hercules im Kampf mit der Amazone Hippolyte'.
-ars:ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af <http://purl.org/dc/terms/isReferencedBy> ars:ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af_ref . ars:ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 469" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 469_ref" . 
 ars:ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af dc:identifier '8d07860d-3a50-4f7a-94f4-0dd1f65780af'.
 ars:ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5302,7 +5302,7 @@ ars:activity_ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af prov:wasAssociatedWith ars:
 
 
 ars:ir_8b73f007-c4ed-491c-900d-50bc398ceb04 rdfs:label 'Löwenstein Hercules reinigt den Augiasstall'.
-ars:ir_8b73f007-c4ed-491c-900d-50bc398ceb04 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_8b73f007-c4ed-491c-900d-50bc398ceb04 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_8b73f007-c4ed-491c-900d-50bc398ceb04 <http://purl.org/dc/terms/isReferencedBy> ars:ir_8b73f007-c4ed-491c-900d-50bc398ceb04_ref . ars:ir_8b73f007-c4ed-491c-900d-50bc398ceb04_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8b73f007-c4ed-491c-900d-50bc398ceb04_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 466-467" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 466-467_ref" . 
 ars:ir_8b73f007-c4ed-491c-900d-50bc398ceb04 dc:identifier '8b73f007-c4ed-491c-900d-50bc398ceb04'.
 ars:ir_8b73f007-c4ed-491c-900d-50bc398ceb04 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5315,7 +5315,7 @@ ars:activity_ir_8b73f007-c4ed-491c-900d-50bc398ceb04 prov:wasAssociatedWith ars:
 
 
 ars:ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed rdfs:label 'Löwenstein Hercules und Minerva'.
-ars:ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed <http://purl.org/dc/terms/isReferencedBy> ars:ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed_ref . ars:ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 484-486" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 484-486_ref" . 
 ars:ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed dc:identifier 'a63dd5e0-4e84-4969-8f80-884f2ea870ed'.
 ars:ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5328,7 +5328,7 @@ ars:activity_ir_a63dd5e0-4e84-4969-8f80-884f2ea870ed prov:wasAssociatedWith ars:
 
 
 ars:ir_09f86272-beba-4bb1-adc0-a56ebad61645 rdfs:label 'Löwenstein Hercules und die stymphalischen Vögel'.
-ars:ir_09f86272-beba-4bb1-adc0-a56ebad61645 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_09f86272-beba-4bb1-adc0-a56ebad61645 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_09f86272-beba-4bb1-adc0-a56ebad61645 <http://purl.org/dc/terms/isReferencedBy> ars:ir_09f86272-beba-4bb1-adc0-a56ebad61645_ref . ars:ir_09f86272-beba-4bb1-adc0-a56ebad61645_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_09f86272-beba-4bb1-adc0-a56ebad61645_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 467-468" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 467-468_ref" . 
 ars:ir_09f86272-beba-4bb1-adc0-a56ebad61645 dc:identifier '09f86272-beba-4bb1-adc0-a56ebad61645'.
 ars:ir_09f86272-beba-4bb1-adc0-a56ebad61645 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5341,7 +5341,7 @@ ars:activity_ir_09f86272-beba-4bb1-adc0-a56ebad61645 prov:wasAssociatedWith ars:
 
 
 ars:ir_74a3e848-7552-498c-bf65-8cf230598054 rdfs:label 'Löwenstein Hochzeit der Thetis'.
-ars:ir_74a3e848-7552-498c-bf65-8cf230598054 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_74a3e848-7552-498c-bf65-8cf230598054 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_74a3e848-7552-498c-bf65-8cf230598054 <http://purl.org/dc/terms/isReferencedBy> ars:ir_74a3e848-7552-498c-bf65-8cf230598054_ref . ars:ir_74a3e848-7552-498c-bf65-8cf230598054_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_74a3e848-7552-498c-bf65-8cf230598054_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 428-431" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 428-431_ref" . 
 ars:ir_74a3e848-7552-498c-bf65-8cf230598054 dc:identifier '74a3e848-7552-498c-bf65-8cf230598054'.
 ars:ir_74a3e848-7552-498c-bf65-8cf230598054 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5354,7 +5354,7 @@ ars:activity_ir_74a3e848-7552-498c-bf65-8cf230598054 prov:wasAssociatedWith ars:
 
 
 ars:ir_d943e61e-f410-4b29-9d85-f7814832d74d rdfs:label 'Löwenstein Jahreszeiteneros I'.
-ars:ir_d943e61e-f410-4b29-9d85-f7814832d74d rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_d943e61e-f410-4b29-9d85-f7814832d74d rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_d943e61e-f410-4b29-9d85-f7814832d74d <http://purl.org/dc/terms/isReferencedBy> ars:ir_d943e61e-f410-4b29-9d85-f7814832d74d_ref . ars:ir_d943e61e-f410-4b29-9d85-f7814832d74d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_d943e61e-f410-4b29-9d85-f7814832d74d_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 629" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 629_ref" . 
 ars:ir_d943e61e-f410-4b29-9d85-f7814832d74d dc:identifier 'd943e61e-f410-4b29-9d85-f7814832d74d'.
 ars:ir_d943e61e-f410-4b29-9d85-f7814832d74d prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5367,7 +5367,7 @@ ars:activity_ir_d943e61e-f410-4b29-9d85-f7814832d74d prov:wasAssociatedWith ars:
 
 
 ars:ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7 rdfs:label 'Löwenstein Jünglinge im Feuerofen A'.
-ars:ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7_ref . ars:ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 802" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 802_ref" . 
 ars:ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7 dc:identifier '7ac55536-3b8e-4d33-95f2-8bbb68353fb7'.
 ars:ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5380,7 +5380,7 @@ ars:activity_ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7 prov:wasAssociatedWith ars:
 
 
 ars:ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb rdfs:label 'Löwenstein Kirke-Abenteuer'.
-ars:ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb <http://purl.org/dc/terms/isReferencedBy> ars:ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb_ref . ars:ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 492-495" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 492-495_ref" . 
 ars:ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb dc:identifier 'ed6e269f-6476-4a5f-a11f-28a83b17c8fb'.
 ars:ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5393,7 +5393,7 @@ ars:activity_ir_ed6e269f-6476-4a5f-a11f-28a83b17c8fb prov:wasAssociatedWith ars:
 
 
 ars:ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c rdfs:label 'Löwenstein Leda I'.
-ars:ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c <http://purl.org/dc/terms/isReferencedBy> ars:ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c_ref . ars:ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 506-507" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 506-507_ref" . 
 ars:ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c dc:identifier 'efbbf245-7287-4b5d-8561-4f3a9cddf50c'.
 ars:ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5406,7 +5406,7 @@ ars:activity_ir_efbbf245-7287-4b5d-8561-4f3a9cddf50c prov:wasAssociatedWith ars:
 
 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000013 rdfs:label 'Löwenstein Mars'.
-ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000013 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000013 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000013 <http://purl.org/dc/terms/isReferencedBy> ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000013_ref . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000013_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000013_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 596-597" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 596-597_ref" . 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000013 dc:identifier 'c30c01b2-9c7e-45ec-833b-f734e1000013'.
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000013 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5419,7 +5419,7 @@ ars:activity_ir_c30c01b2-9c7e-45ec-833b-f734e1000013 prov:wasAssociatedWith ars:
 
 
 ars:ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44 rdfs:label 'Löwenstein Mercur I'.
-ars:ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44 <http://purl.org/dc/terms/isReferencedBy> ars:ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44_ref . ars:ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 597" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 597_ref" . 
 ars:ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44 dc:identifier '0ffca93e-dcf3-4648-b79e-b0f9fdf84b44'.
 ars:ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5432,7 +5432,7 @@ ars:activity_ir_0ffca93e-dcf3-4648-b79e-b0f9fdf84b44 prov:wasAssociatedWith ars:
 
 
 ars:ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9 rdfs:label 'Löwenstein Minerva II'.
-ars:ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9_ref . ars:ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 599" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 599_ref" . 
 ars:ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9 dc:identifier 'd8cfa2e1-0a51-461d-adfa-a2ab0c3134c9'.
 ars:ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5445,7 +5445,7 @@ ars:activity_ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9 prov:wasAssociatedWith ars:
 
 
 ars:ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e rdfs:label 'Löwenstein Minerva V'.
-ars:ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e <http://purl.org/dc/terms/isReferencedBy> ars:ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e_ref . ars:ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 600-601" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 600-601_ref" . 
 ars:ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e dc:identifier '7d2761d5-d801-48d6-871a-c1ff2e8c1f3e'.
 ars:ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5458,7 +5458,7 @@ ars:activity_ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e prov:wasAssociatedWith ars:
 
 
 ars:ir_c5957502-6661-4ac2-be60-9deac9145a3e rdfs:label 'Löwenstein Mithras Tauroktonos'.
-ars:ir_c5957502-6661-4ac2-be60-9deac9145a3e rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_c5957502-6661-4ac2-be60-9deac9145a3e rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_c5957502-6661-4ac2-be60-9deac9145a3e <http://purl.org/dc/terms/isReferencedBy> ars:ir_c5957502-6661-4ac2-be60-9deac9145a3e_ref . ars:ir_c5957502-6661-4ac2-be60-9deac9145a3e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c5957502-6661-4ac2-be60-9deac9145a3e_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 606-607" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 606-607_ref" . 
 ars:ir_c5957502-6661-4ac2-be60-9deac9145a3e dc:identifier 'c5957502-6661-4ac2-be60-9deac9145a3e'.
 ars:ir_c5957502-6661-4ac2-be60-9deac9145a3e prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5471,7 +5471,7 @@ ars:activity_ir_c5957502-6661-4ac2-be60-9deac9145a3e prov:wasAssociatedWith ars:
 
 
 ars:ir_4686da6a-9a43-4816-8e93-91cb2fb2c239 rdfs:label 'Löwenstein Mithras Tauroktonos Var.'.
-ars:ir_4686da6a-9a43-4816-8e93-91cb2fb2c239 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_4686da6a-9a43-4816-8e93-91cb2fb2c239 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_4686da6a-9a43-4816-8e93-91cb2fb2c239 <http://purl.org/dc/terms/isReferencedBy> ars:ir_4686da6a-9a43-4816-8e93-91cb2fb2c239_ref . ars:ir_4686da6a-9a43-4816-8e93-91cb2fb2c239_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_4686da6a-9a43-4816-8e93-91cb2fb2c239_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 607" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 607_ref" . 
 ars:ir_4686da6a-9a43-4816-8e93-91cb2fb2c239 dc:identifier '4686da6a-9a43-4816-8e93-91cb2fb2c239'.
 ars:ir_4686da6a-9a43-4816-8e93-91cb2fb2c239 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5484,7 +5484,7 @@ ars:activity_ir_4686da6a-9a43-4816-8e93-91cb2fb2c239 prov:wasAssociatedWith ars:
 
 
 ars:ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed rdfs:label 'Löwenstein Mithras Taurophoros'.
-ars:ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed <http://purl.org/dc/terms/isReferencedBy> ars:ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed_ref . ars:ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 607" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 607_ref" . 
 ars:ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed dc:identifier '6f4fae04-93ae-4b9d-891e-2bce99d1f3ed'.
 ars:ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5497,7 +5497,7 @@ ars:activity_ir_6f4fae04-93ae-4b9d-891e-2bce99d1f3ed prov:wasAssociatedWith ars:
 
 
 ars:ir_b000e038-eefc-4284-8ca1-8896d561791f rdfs:label 'Löwenstein Nereide III'.
-ars:ir_b000e038-eefc-4284-8ca1-8896d561791f rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_b000e038-eefc-4284-8ca1-8896d561791f rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_b000e038-eefc-4284-8ca1-8896d561791f <http://purl.org/dc/terms/isReferencedBy> ars:ir_b000e038-eefc-4284-8ca1-8896d561791f_ref . ars:ir_b000e038-eefc-4284-8ca1-8896d561791f_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b000e038-eefc-4284-8ca1-8896d561791f_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 533-534" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 533-534_ref" . 
 ars:ir_b000e038-eefc-4284-8ca1-8896d561791f dc:identifier 'b000e038-eefc-4284-8ca1-8896d561791f'.
 ars:ir_b000e038-eefc-4284-8ca1-8896d561791f prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5510,7 +5510,7 @@ ars:activity_ir_b000e038-eefc-4284-8ca1-8896d561791f prov:wasAssociatedWith ars:
 
 
 ars:ir_fa848618-21b9-407a-a6da-dde73d9762c2 rdfs:label 'Löwenstein Nereide V'.
-ars:ir_fa848618-21b9-407a-a6da-dde73d9762c2 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_fa848618-21b9-407a-a6da-dde73d9762c2 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_fa848618-21b9-407a-a6da-dde73d9762c2 <http://purl.org/dc/terms/isReferencedBy> ars:ir_fa848618-21b9-407a-a6da-dde73d9762c2_ref . ars:ir_fa848618-21b9-407a-a6da-dde73d9762c2_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fa848618-21b9-407a-a6da-dde73d9762c2_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 535" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 535_ref" . 
 ars:ir_fa848618-21b9-407a-a6da-dde73d9762c2 dc:identifier 'fa848618-21b9-407a-a6da-dde73d9762c2'.
 ars:ir_fa848618-21b9-407a-a6da-dde73d9762c2 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5523,7 +5523,7 @@ ars:activity_ir_fa848618-21b9-407a-a6da-dde73d9762c2 prov:wasAssociatedWith ars:
 
 
 ars:ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3 rdfs:label 'Löwenstein Nereide VI'.
-ars:ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3 <http://purl.org/dc/terms/isReferencedBy> ars:ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3_ref . ars:ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 535" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 535_ref" . 
 ars:ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3 dc:identifier '672ae438-e746-4e2a-9cd3-e7adbf07eed3'.
 ars:ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5536,7 +5536,7 @@ ars:activity_ir_672ae438-e746-4e2a-9cd3-e7adbf07eed3 prov:wasAssociatedWith ars:
 
 
 ars:ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a rdfs:label 'Löwenstein Oceanusmaske I'.
-ars:ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a <http://purl.org/dc/terms/isReferencedBy> ars:ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a_ref . ars:ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 553-554" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 553-554_ref" . 
 ars:ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a dc:identifier '178b7f59-5cf8-42b2-8fc5-3fb979653f1a'.
 ars:ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5549,7 +5549,7 @@ ars:activity_ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a prov:wasAssociatedWith ars:
 
 
 ars:ir_be69dd9b-c290-4eb8-810e-4c0433d125bb rdfs:label 'Löwenstein Oceanusmaske II'.
-ars:ir_be69dd9b-c290-4eb8-810e-4c0433d125bb rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_be69dd9b-c290-4eb8-810e-4c0433d125bb rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_be69dd9b-c290-4eb8-810e-4c0433d125bb <http://purl.org/dc/terms/isReferencedBy> ars:ir_be69dd9b-c290-4eb8-810e-4c0433d125bb_ref . ars:ir_be69dd9b-c290-4eb8-810e-4c0433d125bb_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_be69dd9b-c290-4eb8-810e-4c0433d125bb_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 554" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 554_ref" . 
 ars:ir_be69dd9b-c290-4eb8-810e-4c0433d125bb dc:identifier 'be69dd9b-c290-4eb8-810e-4c0433d125bb'.
 ars:ir_be69dd9b-c290-4eb8-810e-4c0433d125bb prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5562,7 +5562,7 @@ ars:activity_ir_be69dd9b-c290-4eb8-810e-4c0433d125bb prov:wasAssociatedWith ars:
 
 
 ars:ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee rdfs:label 'Löwenstein Oceanusmaske III'.
-ars:ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee <http://purl.org/dc/terms/isReferencedBy> ars:ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee_ref . ars:ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 554" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 554_ref" . 
 ars:ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee dc:identifier 'a5f1833c-284d-4c5f-a9ff-c26445cdb2ee'.
 ars:ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5575,7 +5575,7 @@ ars:activity_ir_a5f1833c-284d-4c5f-a9ff-c26445cdb2ee prov:wasAssociatedWith ars:
 
 
 ars:ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86 rdfs:label 'Löwenstein Orpheus I'.
-ars:ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86 <http://purl.org/dc/terms/isReferencedBy> ars:ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86_ref . ars:ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 498-499" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 498-499_ref" . 
 ars:ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86 dc:identifier 'f35e711e-a68d-44ac-a2f5-3db52fde1a86'.
 ars:ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5588,7 +5588,7 @@ ars:activity_ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86 prov:wasAssociatedWith ars:
 
 
 ars:ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d rdfs:label 'Löwenstein Orpheus I Var.'.
-ars:ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d <http://purl.org/dc/terms/isReferencedBy> ars:ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d_ref . ars:ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 499" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 499_ref" . 
 ars:ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d dc:identifier 'db12ed46-9e7b-4c6f-b91b-5f5facef5d7d'.
 ars:ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5601,7 +5601,7 @@ ars:activity_ir_db12ed46-9e7b-4c6f-b91b-5f5facef5d7d prov:wasAssociatedWith ars:
 
 
 ars:ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe rdfs:label 'Löwenstein Orpheus III'.
-ars:ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe <http://purl.org/dc/terms/isReferencedBy> ars:ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe_ref . ars:ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 500-501" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 500-501_ref" . 
 ars:ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe dc:identifier 'cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe'.
 ars:ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5614,7 +5614,7 @@ ars:activity_ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe prov:wasAssociatedWith ars:
 
 
 ars:ir_700db206-04be-4a24-bd7e-97c4179f853a rdfs:label 'Löwenstein Orpheus und die Sirenen'.
-ars:ir_700db206-04be-4a24-bd7e-97c4179f853a rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_700db206-04be-4a24-bd7e-97c4179f853a rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_700db206-04be-4a24-bd7e-97c4179f853a <http://purl.org/dc/terms/isReferencedBy> ars:ir_700db206-04be-4a24-bd7e-97c4179f853a_ref . ars:ir_700db206-04be-4a24-bd7e-97c4179f853a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_700db206-04be-4a24-bd7e-97c4179f853a_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 489-490" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 489-490_ref" . 
 ars:ir_700db206-04be-4a24-bd7e-97c4179f853a dc:identifier '700db206-04be-4a24-bd7e-97c4179f853a'.
 ars:ir_700db206-04be-4a24-bd7e-97c4179f853a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5627,7 +5627,7 @@ ars:activity_ir_700db206-04be-4a24-bd7e-97c4179f853a prov:wasAssociatedWith ars:
 
 
 ars:ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe rdfs:label 'Löwenstein Pan I'.
-ars:ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe <http://purl.org/dc/terms/isReferencedBy> ars:ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe_ref . ars:ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 568" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 568_ref" . 
 ars:ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe dc:identifier '5e0e38d8-caba-4646-a5c5-56a35928e5fe'.
 ars:ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5640,7 +5640,7 @@ ars:activity_ir_5e0e38d8-caba-4646-a5c5-56a35928e5fe prov:wasAssociatedWith ars:
 
 
 ars:ir_31a713d8-db33-4860-b253-5d7abc907e73 rdfs:label 'Löwenstein Pan II'.
-ars:ir_31a713d8-db33-4860-b253-5d7abc907e73 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_31a713d8-db33-4860-b253-5d7abc907e73 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_31a713d8-db33-4860-b253-5d7abc907e73 <http://purl.org/dc/terms/isReferencedBy> ars:ir_31a713d8-db33-4860-b253-5d7abc907e73_ref . ars:ir_31a713d8-db33-4860-b253-5d7abc907e73_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_31a713d8-db33-4860-b253-5d7abc907e73_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 568-569" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 568-569_ref" . 
 ars:ir_31a713d8-db33-4860-b253-5d7abc907e73 dc:identifier '31a713d8-db33-4860-b253-5d7abc907e73'.
 ars:ir_31a713d8-db33-4860-b253-5d7abc907e73 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5653,7 +5653,7 @@ ars:activity_ir_31a713d8-db33-4860-b253-5d7abc907e73 prov:wasAssociatedWith ars:
 
 
 ars:ir_5d017266-be52-459a-b188-692c96c08e6f rdfs:label 'Löwenstein Parisurteil'.
-ars:ir_5d017266-be52-459a-b188-692c96c08e6f rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_5d017266-be52-459a-b188-692c96c08e6f rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_5d017266-be52-459a-b188-692c96c08e6f <http://purl.org/dc/terms/isReferencedBy> ars:ir_5d017266-be52-459a-b188-692c96c08e6f_ref . ars:ir_5d017266-be52-459a-b188-692c96c08e6f_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5d017266-be52-459a-b188-692c96c08e6f_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 514-517" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 514-517_ref" . 
 ars:ir_5d017266-be52-459a-b188-692c96c08e6f dc:identifier '5d017266-be52-459a-b188-692c96c08e6f'.
 ars:ir_5d017266-be52-459a-b188-692c96c08e6f prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5666,7 +5666,7 @@ ars:activity_ir_5d017266-be52-459a-b188-692c96c08e6f prov:wasAssociatedWith ars:
 
 
 ars:ir_c5b820d9-d375-4532-a54e-c05385124e3d rdfs:label 'Löwenstein Personifikation der Africa I'.
-ars:ir_c5b820d9-d375-4532-a54e-c05385124e3d rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_c5b820d9-d375-4532-a54e-c05385124e3d rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_c5b820d9-d375-4532-a54e-c05385124e3d <http://purl.org/dc/terms/isReferencedBy> ars:ir_c5b820d9-d375-4532-a54e-c05385124e3d_ref . ars:ir_c5b820d9-d375-4532-a54e-c05385124e3d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c5b820d9-d375-4532-a54e-c05385124e3d_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 624" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 624_ref" . 
 ars:ir_c5b820d9-d375-4532-a54e-c05385124e3d dc:identifier 'c5b820d9-d375-4532-a54e-c05385124e3d'.
 ars:ir_c5b820d9-d375-4532-a54e-c05385124e3d prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5679,7 +5679,7 @@ ars:activity_ir_c5b820d9-d375-4532-a54e-c05385124e3d prov:wasAssociatedWith ars:
 
 
 ars:ir_cf4951d0-c618-4354-bc87-8b4ec104091c rdfs:label 'Löwenstein Personifikation der Africa II'.
-ars:ir_cf4951d0-c618-4354-bc87-8b4ec104091c rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_cf4951d0-c618-4354-bc87-8b4ec104091c rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_cf4951d0-c618-4354-bc87-8b4ec104091c <http://purl.org/dc/terms/isReferencedBy> ars:ir_cf4951d0-c618-4354-bc87-8b4ec104091c_ref . ars:ir_cf4951d0-c618-4354-bc87-8b4ec104091c_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cf4951d0-c618-4354-bc87-8b4ec104091c_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 626-627" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 626-627_ref" . 
 ars:ir_cf4951d0-c618-4354-bc87-8b4ec104091c dc:identifier 'cf4951d0-c618-4354-bc87-8b4ec104091c'.
 ars:ir_cf4951d0-c618-4354-bc87-8b4ec104091c prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5692,7 +5692,7 @@ ars:activity_ir_cf4951d0-c618-4354-bc87-8b4ec104091c prov:wasAssociatedWith ars:
 
 
 ars:ir_c6d605eb-2ac0-4df8-acca-c176efff9afa rdfs:label 'Löwenstein Plattenboden: Die Lösung Hectors'.
-ars:ir_c6d605eb-2ac0-4df8-acca-c176efff9afa rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_c6d605eb-2ac0-4df8-acca-c176efff9afa rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_c6d605eb-2ac0-4df8-acca-c176efff9afa <http://purl.org/dc/terms/isReferencedBy> ars:ir_c6d605eb-2ac0-4df8-acca-c176efff9afa_ref . ars:ir_c6d605eb-2ac0-4df8-acca-c176efff9afa_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c6d605eb-2ac0-4df8-acca-c176efff9afa_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 443-448" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 443-448_ref" . 
 ars:ir_c6d605eb-2ac0-4df8-acca-c176efff9afa dc:identifier 'c6d605eb-2ac0-4df8-acca-c176efff9afa'.
 ars:ir_c6d605eb-2ac0-4df8-acca-c176efff9afa prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5705,7 +5705,7 @@ ars:activity_ir_c6d605eb-2ac0-4df8-acca-c176efff9afa prov:wasAssociatedWith ars:
 
 
 ars:ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a rdfs:label 'Löwenstein Satyr I'.
-ars:ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a <http://purl.org/dc/terms/isReferencedBy> ars:ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a_ref . ars:ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 565-566" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 565-566_ref" . 
 ars:ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a dc:identifier '1be6fb4f-1012-4b7c-bd24-fd6eb04a624a'.
 ars:ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5718,7 +5718,7 @@ ars:activity_ir_1be6fb4f-1012-4b7c-bd24-fd6eb04a624a prov:wasAssociatedWith ars:
 
 
 ars:ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87 rdfs:label 'Löwenstein Satyr II'.
-ars:ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87 <http://purl.org/dc/terms/isReferencedBy> ars:ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87_ref . ars:ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 566-567" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 566-567_ref" . 
 ars:ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87 dc:identifier 'fa1b5075-c17f-4349-87c7-1f4d5f5cda87'.
 ars:ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5731,7 +5731,7 @@ ars:activity_ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87 prov:wasAssociatedWith ars:
 
 
 ars:ir_625651c0-75d6-4b04-a4ef-4b747bba413d rdfs:label 'Löwenstein Satyr III'.
-ars:ir_625651c0-75d6-4b04-a4ef-4b747bba413d rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_625651c0-75d6-4b04-a4ef-4b747bba413d rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_625651c0-75d6-4b04-a4ef-4b747bba413d <http://purl.org/dc/terms/isReferencedBy> ars:ir_625651c0-75d6-4b04-a4ef-4b747bba413d_ref . ars:ir_625651c0-75d6-4b04-a4ef-4b747bba413d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_625651c0-75d6-4b04-a4ef-4b747bba413d_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 567" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 567_ref" . 
 ars:ir_625651c0-75d6-4b04-a4ef-4b747bba413d dc:identifier '625651c0-75d6-4b04-a4ef-4b747bba413d'.
 ars:ir_625651c0-75d6-4b04-a4ef-4b747bba413d prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5744,7 +5744,7 @@ ars:activity_ir_625651c0-75d6-4b04-a4ef-4b747bba413d prov:wasAssociatedWith ars:
 
 
 ars:ir_01a35170-687c-4e8d-a664-1928720f74ee rdfs:label 'Löwenstein Schleifung der Leiche Hectors'.
-ars:ir_01a35170-687c-4e8d-a664-1928720f74ee rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_01a35170-687c-4e8d-a664-1928720f74ee rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_01a35170-687c-4e8d-a664-1928720f74ee <http://purl.org/dc/terms/isReferencedBy> ars:ir_01a35170-687c-4e8d-a664-1928720f74ee_ref . ars:ir_01a35170-687c-4e8d-a664-1928720f74ee_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_01a35170-687c-4e8d-a664-1928720f74ee_ref dcterms:bibliographicCitation "Löwenstein (2015), p.p 455-457" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p.p 455-457_ref" . 
 ars:ir_01a35170-687c-4e8d-a664-1928720f74ee dc:identifier '01a35170-687c-4e8d-a664-1928720f74ee'.
 ars:ir_01a35170-687c-4e8d-a664-1928720f74ee prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5757,7 +5757,7 @@ ars:activity_ir_01a35170-687c-4e8d-a664-1928720f74ee prov:wasAssociatedWith ars:
 
 
 ars:ir_753a4403-735b-408c-ab27-7fc8a5d6d55c rdfs:label 'Löwenstein Seewidder'.
-ars:ir_753a4403-735b-408c-ab27-7fc8a5d6d55c rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_753a4403-735b-408c-ab27-7fc8a5d6d55c rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_753a4403-735b-408c-ab27-7fc8a5d6d55c <http://purl.org/dc/terms/isReferencedBy> ars:ir_753a4403-735b-408c-ab27-7fc8a5d6d55c_ref . ars:ir_753a4403-735b-408c-ab27-7fc8a5d6d55c_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_753a4403-735b-408c-ab27-7fc8a5d6d55c_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 560-561" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 560-561_ref" . 
 ars:ir_753a4403-735b-408c-ab27-7fc8a5d6d55c dc:identifier '753a4403-735b-408c-ab27-7fc8a5d6d55c'.
 ars:ir_753a4403-735b-408c-ab27-7fc8a5d6d55c prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5770,7 +5770,7 @@ ars:activity_ir_753a4403-735b-408c-ab27-7fc8a5d6d55c prov:wasAssociatedWith ars:
 
 
 ars:ir_576c9db2-4395-4377-9921-dc363831d8f5 rdfs:label 'Löwenstein Toilette des Pegasus'.
-ars:ir_576c9db2-4395-4377-9921-dc363831d8f5 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_576c9db2-4395-4377-9921-dc363831d8f5 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_576c9db2-4395-4377-9921-dc363831d8f5 <http://purl.org/dc/terms/isReferencedBy> ars:ir_576c9db2-4395-4377-9921-dc363831d8f5_ref . ars:ir_576c9db2-4395-4377-9921-dc363831d8f5_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_576c9db2-4395-4377-9921-dc363831d8f5_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 523-530" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 523-530_ref" . 
 ars:ir_576c9db2-4395-4377-9921-dc363831d8f5 dc:identifier '576c9db2-4395-4377-9921-dc363831d8f5'.
 ars:ir_576c9db2-4395-4377-9921-dc363831d8f5 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5783,7 +5783,7 @@ ars:activity_ir_576c9db2-4395-4377-9921-dc363831d8f5 prov:wasAssociatedWith ars:
 
 
 ars:ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7 rdfs:label 'Löwenstein Triton II'.
-ars:ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7 <http://purl.org/dc/terms/isReferencedBy> ars:ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7_ref . ars:ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 557" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 557_ref" . 
 ars:ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7 dc:identifier '0d8d35fe-e810-427e-a45e-6c0773e1cdc7'.
 ars:ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5796,7 +5796,7 @@ ars:activity_ir_0d8d35fe-e810-427e-a45e-6c0773e1cdc7 prov:wasAssociatedWith ars:
 
 
 ars:ir_f3cf2268-85e2-42ba-8811-115b1d290fd8 rdfs:label 'Löwenstein Triton III'.
-ars:ir_f3cf2268-85e2-42ba-8811-115b1d290fd8 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_f3cf2268-85e2-42ba-8811-115b1d290fd8 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_f3cf2268-85e2-42ba-8811-115b1d290fd8 <http://purl.org/dc/terms/isReferencedBy> ars:ir_f3cf2268-85e2-42ba-8811-115b1d290fd8_ref . ars:ir_f3cf2268-85e2-42ba-8811-115b1d290fd8_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f3cf2268-85e2-42ba-8811-115b1d290fd8_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 557-558" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 557-558_ref" . 
 ars:ir_f3cf2268-85e2-42ba-8811-115b1d290fd8 dc:identifier 'f3cf2268-85e2-42ba-8811-115b1d290fd8'.
 ars:ir_f3cf2268-85e2-42ba-8811-115b1d290fd8 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5809,7 +5809,7 @@ ars:activity_ir_f3cf2268-85e2-42ba-8811-115b1d290fd8 prov:wasAssociatedWith ars:
 
 
 ars:ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1 rdfs:label 'Löwenstein Triton V'.
-ars:ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1 <http://purl.org/dc/terms/isReferencedBy> ars:ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1_ref . ars:ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 559" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 559_ref" . 
 ars:ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1 dc:identifier 'e39641bc-debb-4bdc-aff8-86fe77a57bc1'.
 ars:ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5822,7 +5822,7 @@ ars:activity_ir_e39641bc-debb-4bdc-aff8-86fe77a57bc1 prov:wasAssociatedWith ars:
 
 
 ars:ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51 rdfs:label 'Löwenstein Unterricht des Achill durch Chiron'.
-ars:ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51 <http://purl.org/dc/terms/isReferencedBy> ars:ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51_ref . ars:ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 434-436" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 434-436_ref" . 
 ars:ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51 dc:identifier '56e9cd74-cc9b-4b47-a73e-64e10c223c51'.
 ars:ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5835,7 +5835,7 @@ ars:activity_ir_56e9cd74-cc9b-4b47-a73e-64e10c223c51 prov:wasAssociatedWith ars:
 
 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000010 rdfs:label 'Löwenstein Venus I'.
-ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000010 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000010 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000010 <http://purl.org/dc/terms/isReferencedBy> ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000010_ref . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000010_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000010_ref dcterms:bibliographicCitation "Löwenstein (2015), p.601" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p.601_ref" . 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000010 dc:identifier 'c30c01b2-9c7e-45ec-833b-f734e1000010'.
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000010 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5848,7 +5848,7 @@ ars:activity_ir_c30c01b2-9c7e-45ec-833b-f734e1000010 prov:wasAssociatedWith ars:
 
 
 ars:ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b rdfs:label 'Löwenstein Venus II'.
-ars:ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b <http://purl.org/dc/terms/isReferencedBy> ars:ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b_ref . ars:ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 602" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 602_ref" . 
 ars:ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b dc:identifier '2dea40ce-7675-4a7e-98f8-0027e4b0748b'.
 ars:ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5861,7 +5861,7 @@ ars:activity_ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b prov:wasAssociatedWith ars:
 
 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000011 rdfs:label 'Löwenstein Venus II Var.'.
-ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000011 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000011 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000011 <http://purl.org/dc/terms/isReferencedBy> ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000011_ref . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000011_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000011_ref dcterms:bibliographicCitation "Löwenstein (2015), p.602" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p.602_ref" . 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000011 dc:identifier 'c30c01b2-9c7e-45ec-833b-f734e1000011'.
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000011 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5874,7 +5874,7 @@ ars:activity_ir_c30c01b2-9c7e-45ec-833b-f734e1000011 prov:wasAssociatedWith ars:
 
 
 ars:ir_bcffb458-8a8b-45ed-92fc-c54d094008f4 rdfs:label 'Löwenstein Venus IV'.
-ars:ir_bcffb458-8a8b-45ed-92fc-c54d094008f4 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_bcffb458-8a8b-45ed-92fc-c54d094008f4 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_bcffb458-8a8b-45ed-92fc-c54d094008f4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_bcffb458-8a8b-45ed-92fc-c54d094008f4_ref . ars:ir_bcffb458-8a8b-45ed-92fc-c54d094008f4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_bcffb458-8a8b-45ed-92fc-c54d094008f4_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 603-604" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 603-604_ref" . 
 ars:ir_bcffb458-8a8b-45ed-92fc-c54d094008f4 dc:identifier 'bcffb458-8a8b-45ed-92fc-c54d094008f4'.
 ars:ir_bcffb458-8a8b-45ed-92fc-c54d094008f4 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5887,7 +5887,7 @@ ars:activity_ir_bcffb458-8a8b-45ed-92fc-c54d094008f4 prov:wasAssociatedWith ars:
 
 
 ars:ir_e3010163-1794-4f2f-b09e-24f121aae97a rdfs:label 'Löwenstein Venus Marina I'.
-ars:ir_e3010163-1794-4f2f-b09e-24f121aae97a rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_e3010163-1794-4f2f-b09e-24f121aae97a rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_e3010163-1794-4f2f-b09e-24f121aae97a <http://purl.org/dc/terms/isReferencedBy> ars:ir_e3010163-1794-4f2f-b09e-24f121aae97a_ref . ars:ir_e3010163-1794-4f2f-b09e-24f121aae97a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e3010163-1794-4f2f-b09e-24f121aae97a_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 550-553" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 550-553_ref" . 
 ars:ir_e3010163-1794-4f2f-b09e-24f121aae97a dc:identifier 'e3010163-1794-4f2f-b09e-24f121aae97a'.
 ars:ir_e3010163-1794-4f2f-b09e-24f121aae97a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5900,7 +5900,7 @@ ars:activity_ir_e3010163-1794-4f2f-b09e-24f121aae97a prov:wasAssociatedWith ars:
 
 
 ars:ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba rdfs:label 'Löwenstein Venus im Tempel'.
-ars:ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba <http://purl.org/dc/terms/isReferencedBy> ars:ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba_ref . ars:ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 608" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 608_ref" . 
 ars:ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba dc:identifier '1cc2b8f7-817a-4291-a481-f2f2377bc5ba'.
 ars:ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5913,7 +5913,7 @@ ars:activity_ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba prov:wasAssociatedWith ars:
 
 
 ars:ir_3f4bfb7e-de57-44f5-ace2-aba988406428 rdfs:label 'Löwenstein Victoria I'.
-ars:ir_3f4bfb7e-de57-44f5-ace2-aba988406428 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_3f4bfb7e-de57-44f5-ace2-aba988406428 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_3f4bfb7e-de57-44f5-ace2-aba988406428 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3f4bfb7e-de57-44f5-ace2-aba988406428_ref . ars:ir_3f4bfb7e-de57-44f5-ace2-aba988406428_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3f4bfb7e-de57-44f5-ace2-aba988406428_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 632-633" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 632-633_ref" . 
 ars:ir_3f4bfb7e-de57-44f5-ace2-aba988406428 dc:identifier '3f4bfb7e-de57-44f5-ace2-aba988406428'.
 ars:ir_3f4bfb7e-de57-44f5-ace2-aba988406428 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5926,7 +5926,7 @@ ars:activity_ir_3f4bfb7e-de57-44f5-ace2-aba988406428 prov:wasAssociatedWith ars:
 
 
 ars:ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62 rdfs:label 'Löwenstein Victoria II'.
-ars:ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62 <http://purl.org/dc/terms/isReferencedBy> ars:ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62_ref . ars:ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 633" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 633_ref" . 
 ars:ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62 dc:identifier '9a2802d1-69d6-4c93-85f9-8677f3b19c62'.
 ars:ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5939,7 +5939,7 @@ ars:activity_ir_9a2802d1-69d6-4c93-85f9-8677f3b19c62 prov:wasAssociatedWith ars:
 
 
 ars:ir_9674a0cf-3508-4be8-a570-c512a44109a1 rdfs:label 'Löwenstein Victoria III'.
-ars:ir_9674a0cf-3508-4be8-a570-c512a44109a1 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_9674a0cf-3508-4be8-a570-c512a44109a1 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_9674a0cf-3508-4be8-a570-c512a44109a1 <http://purl.org/dc/terms/isReferencedBy> ars:ir_9674a0cf-3508-4be8-a570-c512a44109a1_ref . ars:ir_9674a0cf-3508-4be8-a570-c512a44109a1_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9674a0cf-3508-4be8-a570-c512a44109a1_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 634" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 634_ref" . 
 ars:ir_9674a0cf-3508-4be8-a570-c512a44109a1 dc:identifier '9674a0cf-3508-4be8-a570-c512a44109a1'.
 ars:ir_9674a0cf-3508-4be8-a570-c512a44109a1 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5952,7 +5952,7 @@ ars:activity_ir_9674a0cf-3508-4be8-a570-c512a44109a1 prov:wasAssociatedWith ars:
 
 
 ars:ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f rdfs:label 'Löwenstein Victoria IV'.
-ars:ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f <http://purl.org/dc/terms/isReferencedBy> ars:ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f_ref . ars:ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 634" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 634_ref" . 
 ars:ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f dc:identifier 'eb7045d4-683b-4f4f-866a-bd8ca85a327f'.
 ars:ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5965,7 +5965,7 @@ ars:activity_ir_eb7045d4-683b-4f4f-866a-bd8ca85a327f prov:wasAssociatedWith ars:
 
 
 ars:ir_73663b91-e306-49ab-b775-3ec6fa3c3493 rdfs:label 'Löwenstein fischende Eroten I'.
-ars:ir_73663b91-e306-49ab-b775-3ec6fa3c3493 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_73663b91-e306-49ab-b775-3ec6fa3c3493 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_73663b91-e306-49ab-b775-3ec6fa3c3493 <http://purl.org/dc/terms/isReferencedBy> ars:ir_73663b91-e306-49ab-b775-3ec6fa3c3493_ref . ars:ir_73663b91-e306-49ab-b775-3ec6fa3c3493_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_73663b91-e306-49ab-b775-3ec6fa3c3493_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 539" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 539_ref" . 
 ars:ir_73663b91-e306-49ab-b775-3ec6fa3c3493 dc:identifier '73663b91-e306-49ab-b775-3ec6fa3c3493'.
 ars:ir_73663b91-e306-49ab-b775-3ec6fa3c3493 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5978,7 +5978,7 @@ ars:activity_ir_73663b91-e306-49ab-b775-3ec6fa3c3493 prov:wasAssociatedWith ars:
 
 
 ars:ir_f1447d83-ce0e-4f67-be00-eed3a18f5110 rdfs:label 'Löwenstein fischende Eroten II'.
-ars:ir_f1447d83-ce0e-4f67-be00-eed3a18f5110 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_f1447d83-ce0e-4f67-be00-eed3a18f5110 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_f1447d83-ce0e-4f67-be00-eed3a18f5110 <http://purl.org/dc/terms/isReferencedBy> ars:ir_f1447d83-ce0e-4f67-be00-eed3a18f5110_ref . ars:ir_f1447d83-ce0e-4f67-be00-eed3a18f5110_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f1447d83-ce0e-4f67-be00-eed3a18f5110_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 539-541" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 539-541_ref" . 
 ars:ir_f1447d83-ce0e-4f67-be00-eed3a18f5110 dc:identifier 'f1447d83-ce0e-4f67-be00-eed3a18f5110'.
 ars:ir_f1447d83-ce0e-4f67-be00-eed3a18f5110 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -5991,7 +5991,7 @@ ars:activity_ir_f1447d83-ce0e-4f67-be00-eed3a18f5110 prov:wasAssociatedWith ars:
 
 
 ars:ir_e58b9d83-859e-43ce-84b6-7754e9b3a313 rdfs:label 'Löwenstein fischende Eroten II Var.'.
-ars:ir_e58b9d83-859e-43ce-84b6-7754e9b3a313 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_e58b9d83-859e-43ce-84b6-7754e9b3a313 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_e58b9d83-859e-43ce-84b6-7754e9b3a313 <http://purl.org/dc/terms/isReferencedBy> ars:ir_e58b9d83-859e-43ce-84b6-7754e9b3a313_ref . ars:ir_e58b9d83-859e-43ce-84b6-7754e9b3a313_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e58b9d83-859e-43ce-84b6-7754e9b3a313_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 541-542" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 541-542_ref" . 
 ars:ir_e58b9d83-859e-43ce-84b6-7754e9b3a313 dc:identifier 'e58b9d83-859e-43ce-84b6-7754e9b3a313'.
 ars:ir_e58b9d83-859e-43ce-84b6-7754e9b3a313 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6004,7 +6004,7 @@ ars:activity_ir_e58b9d83-859e-43ce-84b6-7754e9b3a313 prov:wasAssociatedWith ars:
 
 
 ars:ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e rdfs:label 'Löwenstein fischende Eroten IX'.
-ars:ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e <http://purl.org/dc/terms/isReferencedBy> ars:ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e_ref . ars:ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 544" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 544_ref" . 
 ars:ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e dc:identifier '4b76ce68-cd21-40b5-8562-6a3e1ef7d80e'.
 ars:ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6017,7 +6017,7 @@ ars:activity_ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e prov:wasAssociatedWith ars:
 
 
 ars:ir_e61b4e39-11c4-49d4-ada3-6c15cd363826 rdfs:label 'Löwenstein fischende Eroten V'.
-ars:ir_e61b4e39-11c4-49d4-ada3-6c15cd363826 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_e61b4e39-11c4-49d4-ada3-6c15cd363826 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_e61b4e39-11c4-49d4-ada3-6c15cd363826 <http://purl.org/dc/terms/isReferencedBy> ars:ir_e61b4e39-11c4-49d4-ada3-6c15cd363826_ref . ars:ir_e61b4e39-11c4-49d4-ada3-6c15cd363826_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e61b4e39-11c4-49d4-ada3-6c15cd363826_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 751" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 751_ref" . 
 ars:ir_e61b4e39-11c4-49d4-ada3-6c15cd363826 dc:identifier 'e61b4e39-11c4-49d4-ada3-6c15cd363826'.
 ars:ir_e61b4e39-11c4-49d4-ada3-6c15cd363826 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6030,7 +6030,7 @@ ars:activity_ir_e61b4e39-11c4-49d4-ada3-6c15cd363826 prov:wasAssociatedWith ars:
 
 
 ars:ir_64268e75-a746-4e0b-aabd-09ceaac1752f rdfs:label 'Löwenstein fischende Eroten VIII'.
-ars:ir_64268e75-a746-4e0b-aabd-09ceaac1752f rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_64268e75-a746-4e0b-aabd-09ceaac1752f rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_64268e75-a746-4e0b-aabd-09ceaac1752f <http://purl.org/dc/terms/isReferencedBy> ars:ir_64268e75-a746-4e0b-aabd-09ceaac1752f_ref . ars:ir_64268e75-a746-4e0b-aabd-09ceaac1752f_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_64268e75-a746-4e0b-aabd-09ceaac1752f_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 545" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 545_ref" . 
 ars:ir_64268e75-a746-4e0b-aabd-09ceaac1752f dc:identifier '64268e75-a746-4e0b-aabd-09ceaac1752f'.
 ars:ir_64268e75-a746-4e0b-aabd-09ceaac1752f prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6043,7 +6043,7 @@ ars:activity_ir_64268e75-a746-4e0b-aabd-09ceaac1752f prov:wasAssociatedWith ars:
 
 
 ars:ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25 rdfs:label 'Löwenstein mariner Eros I'.
-ars:ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25 <http://purl.org/dc/terms/isReferencedBy> ars:ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25_ref . ars:ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 536" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 536_ref" . 
 ars:ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25 dc:identifier '05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25'.
 ars:ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6056,7 +6056,7 @@ ars:activity_ir_05b3ea74-a6c4-49b9-b12c-a1d16e7c2d25 prov:wasAssociatedWith ars:
 
 
 ars:ir_bb196511-efea-4177-a45f-fd496f7816c6 rdfs:label 'Löwenstein mariner Eros III'.
-ars:ir_bb196511-efea-4177-a45f-fd496f7816c6 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_bb196511-efea-4177-a45f-fd496f7816c6 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_bb196511-efea-4177-a45f-fd496f7816c6 <http://purl.org/dc/terms/isReferencedBy> ars:ir_bb196511-efea-4177-a45f-fd496f7816c6_ref . ars:ir_bb196511-efea-4177-a45f-fd496f7816c6_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_bb196511-efea-4177-a45f-fd496f7816c6_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 537" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 537_ref" . 
 ars:ir_bb196511-efea-4177-a45f-fd496f7816c6 dc:identifier 'bb196511-efea-4177-a45f-fd496f7816c6'.
 ars:ir_bb196511-efea-4177-a45f-fd496f7816c6 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6069,7 +6069,7 @@ ars:activity_ir_bb196511-efea-4177-a45f-fd496f7816c6 prov:wasAssociatedWith ars:
 
 
 ars:ir_b1520383-5784-4e75-97c4-aecf5ef97362 rdfs:label 'Löwenstein männl. Gewandfigur II a'.
-ars:ir_b1520383-5784-4e75-97c4-aecf5ef97362 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_b1520383-5784-4e75-97c4-aecf5ef97362 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_b1520383-5784-4e75-97c4-aecf5ef97362 <http://purl.org/dc/terms/isReferencedBy> ars:ir_b1520383-5784-4e75-97c4-aecf5ef97362_ref . ars:ir_b1520383-5784-4e75-97c4-aecf5ef97362_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b1520383-5784-4e75-97c4-aecf5ef97362_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 792" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 792_ref" . 
 ars:ir_b1520383-5784-4e75-97c4-aecf5ef97362 dc:identifier 'b1520383-5784-4e75-97c4-aecf5ef97362'.
 ars:ir_b1520383-5784-4e75-97c4-aecf5ef97362 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6082,7 +6082,7 @@ ars:activity_ir_b1520383-5784-4e75-97c4-aecf5ef97362 prov:wasAssociatedWith ars:
 
 
 ars:ir_cb9094aa-6f1d-4d46-88c8-741337cb5062 rdfs:label 'Löwenstein männl. Gewandfigur II b'.
-ars:ir_cb9094aa-6f1d-4d46-88c8-741337cb5062 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_cb9094aa-6f1d-4d46-88c8-741337cb5062 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_cb9094aa-6f1d-4d46-88c8-741337cb5062 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cb9094aa-6f1d-4d46-88c8-741337cb5062_ref . ars:ir_cb9094aa-6f1d-4d46-88c8-741337cb5062_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cb9094aa-6f1d-4d46-88c8-741337cb5062_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 792" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 792_ref" . 
 ars:ir_cb9094aa-6f1d-4d46-88c8-741337cb5062 dc:identifier 'cb9094aa-6f1d-4d46-88c8-741337cb5062'.
 ars:ir_cb9094aa-6f1d-4d46-88c8-741337cb5062 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6095,7 +6095,7 @@ ars:activity_ir_cb9094aa-6f1d-4d46-88c8-741337cb5062 prov:wasAssociatedWith ars:
 
 
 ars:ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8 rdfs:label 'Löwenstein weibl. Gewandfigur I'.
-ars:ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8_ref . ars:ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8_ref dcterms:bibliographicCitation "Löwenstein (2015), p. 790" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), p. 790_ref" . 
 ars:ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8 dc:identifier 'ef5204ee-3444-4e0c-96f9-ce6f5d631ee8'.
 ars:ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6108,7 +6108,7 @@ ars:activity_ir_ef5204ee-3444-4e0c-96f9-ce6f5d631ee8 prov:wasAssociatedWith ars:
 
 
 ars:ir_65aff548-310e-44e4-a4df-5c96c68b9428 rdfs:label 'Löwenstein weibl. Gewandfigur II'.
-ars:ir_65aff548-310e-44e4-a4df-5c96c68b9428 rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_65aff548-310e-44e4-a4df-5c96c68b9428 rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_65aff548-310e-44e4-a4df-5c96c68b9428 <http://purl.org/dc/terms/isReferencedBy> ars:ir_65aff548-310e-44e4-a4df-5c96c68b9428_ref . ars:ir_65aff548-310e-44e4-a4df-5c96c68b9428_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_65aff548-310e-44e4-a4df-5c96c68b9428_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 790-791" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 790-791_ref" . 
 ars:ir_65aff548-310e-44e4-a4df-5c96c68b9428 dc:identifier '65aff548-310e-44e4-a4df-5c96c68b9428'.
 ars:ir_65aff548-310e-44e4-a4df-5c96c68b9428 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
@@ -6121,7 +6121,7 @@ ars:activity_ir_65aff548-310e-44e4-a4df-5c96c68b9428 prov:wasAssociatedWith ars:
 
 
 ars:ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b rdfs:label 'Löwenstein Übergabe Achills an Chiron'.
-ars:ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b rdf:type lado:L . lado:L rdfs:subClassOf lado:IconographyType .wenstein.
+ars:ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b rdf:type lado:Loewenstein . lado:Loewenstein rdfs:subClassOf lado:IconographyType .
 ars:ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b <http://purl.org/dc/terms/isReferencedBy> ars:ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b_ref . ars:ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b_ref dcterms:bibliographicCitation "Löwenstein (2015), pp. 433-434" . ars:_ref <http://purl.org/spar/biro/references> "Löwenstein (2015), pp. 433-434_ref" . 
 ars:ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b dc:identifier 'f203c9a3-d163-42cc-8a9e-47c779b8c15b'.
 ars:ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
