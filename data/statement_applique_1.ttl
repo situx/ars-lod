@@ -25,7 +25,7 @@ PREFIX amt: <http://academic-meta-tool.xyz/vocab#>
 
 ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8 rdfs:label 'Armstrong 1.23'@en .
 ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8 <http://purl.org/dc/terms/isReferencedBy> ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref dcterms:bibliographicCitation "Armstrong (1993), p. 64" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 64_ref" . 
+ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8 <http://purl.org/dc/terms/isReferencedBy> ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref dcterms:bibliographicCitation "Armstrong (1993), p. 64" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "64"^^xsd:string .  
 ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8 dc:identifier '46594f78-0e8f-4dd0-a8b6-59c5050cacb8'.
 ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -38,7 +38,7 @@ ars:activity_ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8 prov:wasAssociatedWith ars:
 
 ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8 rdfs:label 'Armstrong 1.24'@en .
 ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8 <http://purl.org/dc/terms/isReferencedBy> ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8_ref . ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8_ref dcterms:bibliographicCitation "Armstrong (1993), p. 64 " . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 64 _ref" . 
+ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8 <http://purl.org/dc/terms/isReferencedBy> ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8_ref . ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref dcterms:bibliographicCitation "Armstrong (1993), p. 64" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "64"^^xsd:string .  
 ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8 dc:identifier '93d7256c-b9d7-4710-ae55-e16902ffe1c8'.
 ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -51,7 +51,7 @@ ars:activity_ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8 prov:wasAssociatedWith ars:
 
 ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392 rdfs:label 'Armstrong 1.25'@en .
 ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392_ref . ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392_ref dcterms:bibliographicCitation "Armstrong (1993), p. 64" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 64_ref" . 
+ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392_ref . ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392_ref dcterms:bibliographicCitation "Armstrong (1993), p. 64" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "64"^^xsd:string .
 ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392 dc:identifier '7def9868-906b-4ad0-97f1-0b38f0148392'.
 ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_7def9868-906b-4ad0-97f1-0b38f0148392 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -64,7 +64,7 @@ ars:activity_ir_7def9868-906b-4ad0-97f1-0b38f0148392 prov:wasAssociatedWith ars:
 
 ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7 rdfs:label 'Armstrong 1.27'@en .
 ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7 <http://purl.org/dc/terms/isReferencedBy> ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7_ref . ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7_ref dcterms:bibliographicCitation "Armstrong (1993), p. 65" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 65_ref" . 
+ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7 <http://purl.org/dc/terms/isReferencedBy> ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7_ref . ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7_ref dcterms:bibliographicCitation "Armstrong (1993), p. 65" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "65"^^xsd:string . 
 ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7 dc:identifier '495e6910-1831-4947-bdba-c8ac2f0c39e7'.
 ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_495e6910-1831-4947-bdba-c8ac2f0c39e7 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -77,7 +77,7 @@ ars:activity_ir_495e6910-1831-4947-bdba-c8ac2f0c39e7 prov:wasAssociatedWith ars:
 
 ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19 rdfs:label 'Armstrong 1.30'@en .
 ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19 <http://purl.org/dc/terms/isReferencedBy> ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19_ref . ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19_ref dcterms:bibliographicCitation "Armstrong (1993), p. 65" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 65_ref" . 
+ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19 <http://purl.org/dc/terms/isReferencedBy> ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19_ref . ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19_ref dcterms:bibliographicCitation "Armstrong (1993), p. 65" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "65"^^xsd:string .
 ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19 dc:identifier 'fa139ff1-889c-44b3-8627-c7bfb0be1b19'.
 ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -90,7 +90,7 @@ ars:activity_ir_fa139ff1-889c-44b3-8627-c7bfb0be1b19 prov:wasAssociatedWith ars:
 
 ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2 rdfs:label 'Armstrong 1.34'@en .
 ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2_ref . ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2_ref dcterms:bibliographicCitation "Armstrong (1993), p. 66" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 66_ref" . 
+ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2_ref . ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2_ref dcterms:bibliographicCitation "Armstrong (1993), p. 66" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "66"^^xsd:string . 
 ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2 dc:identifier '3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2'.
 ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -103,7 +103,7 @@ ars:activity_ir_3d5d0454-2d0a-4ee1-9a35-4ad62145c2f2 prov:wasAssociatedWith ars:
 
 ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284 rdfs:label 'Armstrong 1.36'@en .
 ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284 <http://purl.org/dc/terms/isReferencedBy> ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284_ref . ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284_ref dcterms:bibliographicCitation "Armstrong (1993), p. 67" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 67_ref" . 
+ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284 <http://purl.org/dc/terms/isReferencedBy> ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284_ref . ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284_ref dcterms:bibliographicCitation "Armstrong (1993), p. 67" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "67"^^xsd:string . 
 ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284 dc:identifier '27c164ec-7e30-4dea-bee5-4dfde7baf284'.
 ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_27c164ec-7e30-4dea-bee5-4dfde7baf284 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -116,7 +116,7 @@ ars:activity_ir_27c164ec-7e30-4dea-bee5-4dfde7baf284 prov:wasAssociatedWith ars:
 
 ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca rdfs:label 'Armstrong 1.44'@en .
 ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca <http://purl.org/dc/terms/isReferencedBy> ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca_ref . ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca_ref dcterms:bibliographicCitation "Armstrong (1993), p. 69" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 69_ref" . 
+ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca <http://purl.org/dc/terms/isReferencedBy> ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca_ref . ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca_ref dcterms:bibliographicCitation "Armstrong (1993), p. 69" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "69"^^xsd:string . 
 ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca dc:identifier '0d8a74ba-2d54-496c-9fe0-d05a66ec0fca'.
 ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -129,7 +129,7 @@ ars:activity_ir_0d8a74ba-2d54-496c-9fe0-d05a66ec0fca prov:wasAssociatedWith ars:
 
 ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463 rdfs:label 'Armstrong 1.45'@en .
 ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463 <http://purl.org/dc/terms/isReferencedBy> ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463_ref . ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463_ref dcterms:bibliographicCitation "Armstrong (1993), p. 69" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 69_ref" . 
+ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463 <http://purl.org/dc/terms/isReferencedBy> ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463_ref . ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463_ref dcterms:bibliographicCitation "Armstrong (1993), p. 69" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "69"^^xsd:string . 
 ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463 dc:identifier '09b04a61-ae82-4954-a6b9-4a3ae84c3463'.
 ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -142,7 +142,7 @@ ars:activity_ir_09b04a61-ae82-4954-a6b9-4a3ae84c3463 prov:wasAssociatedWith ars:
 
 ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49 rdfs:label 'Armstrong 1.47'@en .
 ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49_ref . ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49_ref dcterms:bibliographicCitation "Armstrong (1993), p. 70" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 70_ref" . 
+ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49_ref . ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49_ref dcterms:bibliographicCitation "Armstrong (1993), p. 70" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "70"^^xsd:string . 
 ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49 dc:identifier 'a342b1b4-37ee-4757-b94f-fb5b1ea35b49'.
 ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -155,7 +155,7 @@ ars:activity_ir_a342b1b4-37ee-4757-b94f-fb5b1ea35b49 prov:wasAssociatedWith ars:
 
 ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05 rdfs:label 'Armstrong 1.48'@en .
 ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05 <http://purl.org/dc/terms/isReferencedBy> ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05_ref . ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05_ref dcterms:bibliographicCitation "Armstrong (1993), p. 70" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 70_ref" . 
+ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05 <http://purl.org/dc/terms/isReferencedBy> ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05_ref . ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05_ref dcterms:bibliographicCitation "Armstrong (1993), p. 70" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "70"^^xsd:string . 
 ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05 dc:identifier '79374583-8fde-47f3-a02d-f51eff4b4a05'.
 ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_79374583-8fde-47f3-a02d-f51eff4b4a05 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -168,7 +168,7 @@ ars:activity_ir_79374583-8fde-47f3-a02d-f51eff4b4a05 prov:wasAssociatedWith ars:
 
 ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a rdfs:label 'Armstrong 1.51'@en .
 ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a <http://purl.org/dc/terms/isReferencedBy> ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a_ref . ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 70-71" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 70-71_ref" . 
+ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a <http://purl.org/dc/terms/isReferencedBy> ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a_ref . ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 70-71" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "70-71"^^xsd:string . 
 ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a dc:identifier 'c33a6a86-4e71-4d88-b1ae-653eafdc1a0a'.
 ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -181,7 +181,7 @@ ars:activity_ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a prov:wasAssociatedWith ars:
 
 ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe rdfs:label 'Armstrong 1.52'@en .
 ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe <http://purl.org/dc/terms/isReferencedBy> ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe_ref . ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe_ref dcterms:bibliographicCitation "Armstrong (1993), p. 71" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 71_ref" . 
+ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe <http://purl.org/dc/terms/isReferencedBy> ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe_ref . ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe_ref dcterms:bibliographicCitation "Armstrong (1993), p. 71" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "71"^^xsd:string . 
 ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe dc:identifier '9806170f-75fe-4f46-a10d-9270003ecbbe'.
 ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_9806170f-75fe-4f46-a10d-9270003ecbbe prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -194,7 +194,7 @@ ars:activity_ir_9806170f-75fe-4f46-a10d-9270003ecbbe prov:wasAssociatedWith ars:
 
 ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635 rdfs:label 'Armstrong 1.55'@en .
 ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635 <http://purl.org/dc/terms/isReferencedBy> ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635_ref . ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635_ref dcterms:bibliographicCitation "Armstrong (1993), p. 71" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 71_ref" . 
+ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635 <http://purl.org/dc/terms/isReferencedBy> ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635_ref . ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635_ref dcterms:bibliographicCitation "Armstrong (1993), p. 71" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "71"^^xsd:string .
 ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635 dc:identifier '5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635'.
 ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -207,7 +207,7 @@ ars:activity_ir_5b7e0ad1-a7bd-4ebc-bc8e-b0ea4254d635 prov:wasAssociatedWith ars:
 
 ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810 rdfs:label 'Armstrong 1.56'@en .
 ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810 <http://purl.org/dc/terms/isReferencedBy> ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810_ref . ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 71-72" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 71-72_ref" . 
+ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810 <http://purl.org/dc/terms/isReferencedBy> ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810_ref . ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 71-72" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "71-72"^^xsd:string .
 ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810 dc:identifier '21686e55-0f2d-4d1f-ab62-21783ae88810'.
 ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_21686e55-0f2d-4d1f-ab62-21783ae88810 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -220,7 +220,7 @@ ars:activity_ir_21686e55-0f2d-4d1f-ab62-21783ae88810 prov:wasAssociatedWith ars:
 
 ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0 rdfs:label 'Armstrong 1.72'@en .
 ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0_ref . ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 75" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 75_ref" . 
+ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0_ref . ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 75" .  ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "75"^^xsd:string . 
 ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0 dc:identifier '927c71a5-1caf-496e-8ebc-824c574176a0'.
 ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_927c71a5-1caf-496e-8ebc-824c574176a0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -233,7 +233,7 @@ ars:activity_ir_927c71a5-1caf-496e-8ebc-824c574176a0 prov:wasAssociatedWith ars:
 
 ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960 rdfs:label 'Armstrong 1.73'@en .
 ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960 <http://purl.org/dc/terms/isReferencedBy> ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960_ref . ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 75-76" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 75-76_ref" . 
+ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960 <http://purl.org/dc/terms/isReferencedBy> ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960_ref . ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 75-76" .ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "75-76"^^xsd:string . 
 ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960 dc:identifier '26c7fa75-c266-472e-bf9a-61652c5bf960'.
 ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_26c7fa75-c266-472e-bf9a-61652c5bf960 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -246,7 +246,7 @@ ars:activity_ir_26c7fa75-c266-472e-bf9a-61652c5bf960 prov:wasAssociatedWith ars:
 
 ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020 rdfs:label 'Armstrong 1.74'@en .
 ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020 <http://purl.org/dc/terms/isReferencedBy> ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020_ref . ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020_ref dcterms:bibliographicCitation "Armstrong (1993), p. 76" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 76_ref" . 
+ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020 <http://purl.org/dc/terms/isReferencedBy> ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020_ref . ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020_ref dcterms:bibliographicCitation "Armstrong (1993), p. 76" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "76"^^xsd:string . 
 ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020 dc:identifier '8cf84d41-046e-49ae-920a-96f7baa8c020'.
 ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_8cf84d41-046e-49ae-920a-96f7baa8c020 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -259,7 +259,7 @@ ars:activity_ir_8cf84d41-046e-49ae-920a-96f7baa8c020 prov:wasAssociatedWith ars:
 
 ars:ir_817f9747-1443-4d5a-a245-619b64f609f4 rdfs:label 'Armstrong 1.79'@en .
 ars:ir_817f9747-1443-4d5a-a245-619b64f609f4 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_817f9747-1443-4d5a-a245-619b64f609f4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_817f9747-1443-4d5a-a245-619b64f609f4_ref . ars:ir_817f9747-1443-4d5a-a245-619b64f609f4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_817f9747-1443-4d5a-a245-619b64f609f4_ref dcterms:bibliographicCitation "Armstrong (1993), p. 77" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 77_ref" . 
+ars:ir_817f9747-1443-4d5a-a245-619b64f609f4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_817f9747-1443-4d5a-a245-619b64f609f4_ref . ars:ir_817f9747-1443-4d5a-a245-619b64f609f4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_817f9747-1443-4d5a-a245-619b64f609f4_ref dcterms:bibliographicCitation "Armstrong (1993), p. 77" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "77"^^xsd:string . 
 ars:ir_817f9747-1443-4d5a-a245-619b64f609f4 dc:identifier '817f9747-1443-4d5a-a245-619b64f609f4'.
 ars:ir_817f9747-1443-4d5a-a245-619b64f609f4 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_817f9747-1443-4d5a-a245-619b64f609f4 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -272,7 +272,7 @@ ars:activity_ir_817f9747-1443-4d5a-a245-619b64f609f4 prov:wasAssociatedWith ars:
 
 ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae rdfs:label 'Armstrong 1.81'@en .
 ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae <http://purl.org/dc/terms/isReferencedBy> ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae_ref . ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 77-78" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 77-78_ref" . 
+ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae <http://purl.org/dc/terms/isReferencedBy> ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae_ref . ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 77-78" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "77-78"^^xsd:string . 
 ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae dc:identifier 'b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae'.
 ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -285,7 +285,7 @@ ars:activity_ir_b5a1f4bf-b58e-45c5-bdf9-d438ff1b25ae prov:wasAssociatedWith ars:
 
 ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f rdfs:label 'Armstrong 1.89'@en .
 ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f <http://purl.org/dc/terms/isReferencedBy> ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f_ref . ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f_ref dcterms:bibliographicCitation "Armstrong (1993), p. 79" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 79_ref" . 
+ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f <http://purl.org/dc/terms/isReferencedBy> ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f_ref . ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f_ref dcterms:bibliographicCitation "Armstrong (1993), p. 79" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "79"^^xsd:string .  
 ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f dc:identifier '6d8a3d1b-f6b1-4209-be69-89ecc1d2605f'.
 ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -298,7 +298,7 @@ ars:activity_ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f prov:wasAssociatedWith ars:
 
 ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d rdfs:label 'Armstrong 1.92'@en .
 ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d <http://purl.org/dc/terms/isReferencedBy> ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d_ref . ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d_ref dcterms:bibliographicCitation "Armstrong (1993), p. 80" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 80_ref" . 
+ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d <http://purl.org/dc/terms/isReferencedBy> ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d_ref . ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d_ref dcterms:bibliographicCitation "Armstrong (1993), p. 80" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "80"^^xsd:string . 
 ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d dc:identifier '03fe1f91-7924-4ae9-912c-d2451866aa1d'.
 ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_03fe1f91-7924-4ae9-912c-d2451866aa1d prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -311,7 +311,7 @@ ars:activity_ir_03fe1f91-7924-4ae9-912c-d2451866aa1d prov:wasAssociatedWith ars:
 
 ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7 rdfs:label 'Armstrong 1.92/1.93'.
 ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7 <http://purl.org/dc/terms/isReferencedBy> ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7_ref . ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7_ref dcterms:bibliographicCitation "Armstrong (1993), p. 80" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 80_ref" . 
+ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7 <http://purl.org/dc/terms/isReferencedBy> ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7_ref . ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7_ref dcterms:bibliographicCitation "Armstrong (1993), p. 80" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "80"^^xsd:string . 
 ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7 dc:identifier '02774a07-295b-4185-95e5-454ef21ba4f7'.
 ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_02774a07-295b-4185-95e5-454ef21ba4f7 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -324,7 +324,7 @@ ars:activity_ir_02774a07-295b-4185-95e5-454ef21ba4f7 prov:wasAssociatedWith ars:
 
 ars:ir_a9351fa5-2884-47b6-8861-430efd191666 rdfs:label 'Armstrong 2.28'@en .
 ars:ir_a9351fa5-2884-47b6-8861-430efd191666 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_a9351fa5-2884-47b6-8861-430efd191666 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a9351fa5-2884-47b6-8861-430efd191666_ref . ars:ir_a9351fa5-2884-47b6-8861-430efd191666_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a9351fa5-2884-47b6-8861-430efd191666_ref dcterms:bibliographicCitation "Armstrong (1993), p. 83" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 83_ref" . 
+ars:ir_a9351fa5-2884-47b6-8861-430efd191666 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a9351fa5-2884-47b6-8861-430efd191666_ref . ars:ir_a9351fa5-2884-47b6-8861-430efd191666_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a9351fa5-2884-47b6-8861-430efd191666_ref dcterms:bibliographicCitation "Armstrong (1993), p. 83" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "83"^^xsd:string . 
 ars:ir_a9351fa5-2884-47b6-8861-430efd191666 dc:identifier 'a9351fa5-2884-47b6-8861-430efd191666'.
 ars:ir_a9351fa5-2884-47b6-8861-430efd191666 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_a9351fa5-2884-47b6-8861-430efd191666 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -337,7 +337,7 @@ ars:activity_ir_a9351fa5-2884-47b6-8861-430efd191666 prov:wasAssociatedWith ars:
 
 ars:ir_274838a7-f69f-4dae-a873-c3889918af63 rdfs:label 'Armstrong 2.31'@en .
 ars:ir_274838a7-f69f-4dae-a873-c3889918af63 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_274838a7-f69f-4dae-a873-c3889918af63 <http://purl.org/dc/terms/isReferencedBy> ars:ir_274838a7-f69f-4dae-a873-c3889918af63_ref . ars:ir_274838a7-f69f-4dae-a873-c3889918af63_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_274838a7-f69f-4dae-a873-c3889918af63_ref dcterms:bibliographicCitation "Armstrong (1993), p. 84" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 84_ref" . 
+ars:ir_274838a7-f69f-4dae-a873-c3889918af63 <http://purl.org/dc/terms/isReferencedBy> ars:ir_274838a7-f69f-4dae-a873-c3889918af63_ref . ars:ir_274838a7-f69f-4dae-a873-c3889918af63_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_274838a7-f69f-4dae-a873-c3889918af63_ref dcterms:bibliographicCitation "Armstrong (1993), p. 84" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "84"^^xsd:string . 
 ars:ir_274838a7-f69f-4dae-a873-c3889918af63 dc:identifier '274838a7-f69f-4dae-a873-c3889918af63'.
 ars:ir_274838a7-f69f-4dae-a873-c3889918af63 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_274838a7-f69f-4dae-a873-c3889918af63 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -350,7 +350,7 @@ ars:activity_ir_274838a7-f69f-4dae-a873-c3889918af63 prov:wasAssociatedWith ars:
 
 ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398 rdfs:label 'Armstrong 2.40'@en .
 ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398_ref . ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398_ref dcterms:bibliographicCitation "Armstrong (1993), p. 85" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 85_ref" . 
+ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398_ref . ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398_ref dcterms:bibliographicCitation "Armstrong (1993), p. 85" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "85"^^xsd:string . 
 ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398 dc:identifier 'cc1df05c-290f-4b47-ab27-57d3b1d1b398'.
 ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -363,7 +363,7 @@ ars:activity_ir_cc1df05c-290f-4b47-ab27-57d3b1d1b398 prov:wasAssociatedWith ars:
 
 ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774 rdfs:label 'Armstrong 2.43'@en .
 ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774_ref . ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774_ref dcterms:bibliographicCitation "Armstrong (1993), p. 85" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 85_ref" . 
+ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774_ref . ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774_ref dcterms:bibliographicCitation "Armstrong (1993), p. 85" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "85"^^xsd:string . 
 ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774 dc:identifier '7103939f-9ea3-4af9-a312-4ede000cf774'.
 ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_7103939f-9ea3-4af9-a312-4ede000cf774 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -376,7 +376,7 @@ ars:activity_ir_7103939f-9ea3-4af9-a312-4ede000cf774 prov:wasAssociatedWith ars:
 
 ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae rdfs:label 'Armstrong 2.50'@en .
 ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae <http://purl.org/dc/terms/isReferencedBy> ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae_ref . ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae_ref dcterms:bibliographicCitation "Armstrong (1993), p. 86" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 86_ref" . 
+ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae <http://purl.org/dc/terms/isReferencedBy> ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae_ref . ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae_ref dcterms:bibliographicCitation "Armstrong (1993), p. 86" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "86"^^xsd:string .  
 ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae dc:identifier '11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae'.
 ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -389,7 +389,7 @@ ars:activity_ir_11cf1d2c-ca61-41c7-a1d2-d04d4f0a01ae prov:wasAssociatedWith ars:
 
 ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9 rdfs:label 'Armstrong 2.53'@en .
 ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9_ref . ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 87" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 87_ref" . 
+ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9_ref . ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 87" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "87"^^xsd:string . 
 ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9 dc:identifier '3fd7dcc4-0469-45a5-a562-94deb86c36b9'.
 ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -402,7 +402,7 @@ ars:activity_ir_3fd7dcc4-0469-45a5-a562-94deb86c36b9 prov:wasAssociatedWith ars:
 
 ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e rdfs:label 'Armstrong 2.58'@en .
 ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e <http://purl.org/dc/terms/isReferencedBy> ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e_ref . ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e_ref dcterms:bibliographicCitation "Armstrong (1993), p. 88" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 88_ref" . 
+ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e <http://purl.org/dc/terms/isReferencedBy> ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e_ref . ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e_ref dcterms:bibliographicCitation "Armstrong (1993), p. 88" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "88"^^xsd:string . 
 ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e dc:identifier 'e3cf7848-3e6b-495a-ab36-f71a8cc2a63e'.
 ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -415,7 +415,7 @@ ars:activity_ir_e3cf7848-3e6b-495a-ab36-f71a8cc2a63e prov:wasAssociatedWith ars:
 
 ars:ir_207fab54-6ef5-4011-9112-4864174c36f4 rdfs:label 'Armstrong 3.10'@en .
 ars:ir_207fab54-6ef5-4011-9112-4864174c36f4 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_207fab54-6ef5-4011-9112-4864174c36f4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_207fab54-6ef5-4011-9112-4864174c36f4_ref . ars:ir_207fab54-6ef5-4011-9112-4864174c36f4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_207fab54-6ef5-4011-9112-4864174c36f4_ref dcterms:bibliographicCitation "Armstrong (1993), p. 91" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 91_ref" . 
+ars:ir_207fab54-6ef5-4011-9112-4864174c36f4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_207fab54-6ef5-4011-9112-4864174c36f4_ref . ars:ir_207fab54-6ef5-4011-9112-4864174c36f4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_207fab54-6ef5-4011-9112-4864174c36f4_ref dcterms:bibliographicCitation "Armstrong (1993), p. 91" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "91"^^xsd:string . 
 ars:ir_207fab54-6ef5-4011-9112-4864174c36f4 dc:identifier '207fab54-6ef5-4011-9112-4864174c36f4'.
 ars:ir_207fab54-6ef5-4011-9112-4864174c36f4 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_207fab54-6ef5-4011-9112-4864174c36f4 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -428,7 +428,7 @@ ars:activity_ir_207fab54-6ef5-4011-9112-4864174c36f4 prov:wasAssociatedWith ars:
 
 ars:ir_710b88b9-382b-483c-b919-4ebee69f346e rdfs:label 'Armstrong 3.11'@en .
 ars:ir_710b88b9-382b-483c-b919-4ebee69f346e rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_710b88b9-382b-483c-b919-4ebee69f346e <http://purl.org/dc/terms/isReferencedBy> ars:ir_710b88b9-382b-483c-b919-4ebee69f346e_ref . ars:ir_710b88b9-382b-483c-b919-4ebee69f346e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_710b88b9-382b-483c-b919-4ebee69f346e_ref dcterms:bibliographicCitation "Armstrong (1993), p. 91" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 91_ref" . 
+ars:ir_710b88b9-382b-483c-b919-4ebee69f346e <http://purl.org/dc/terms/isReferencedBy> ars:ir_710b88b9-382b-483c-b919-4ebee69f346e_ref . ars:ir_710b88b9-382b-483c-b919-4ebee69f346e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_710b88b9-382b-483c-b919-4ebee69f346e_ref dcterms:bibliographicCitation "Armstrong (1993), p. 91" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "91"^^xsd:string . 
 ars:ir_710b88b9-382b-483c-b919-4ebee69f346e dc:identifier '710b88b9-382b-483c-b919-4ebee69f346e'.
 ars:ir_710b88b9-382b-483c-b919-4ebee69f346e prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_710b88b9-382b-483c-b919-4ebee69f346e prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -441,7 +441,7 @@ ars:activity_ir_710b88b9-382b-483c-b919-4ebee69f346e prov:wasAssociatedWith ars:
 
 ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba rdfs:label 'Armstrong 3.12'@en .
 ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba <http://purl.org/dc/terms/isReferencedBy> ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba_ref . ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba_ref dcterms:bibliographicCitation "Armstrong (1993), p. 91" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 91_ref" . 
+ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba <http://purl.org/dc/terms/isReferencedBy> ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba_ref . ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba_ref dcterms:bibliographicCitation "Armstrong (1993), p. 91" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "91"^^xsd:string . 
 ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba dc:identifier 'eaaf9f25-9dd8-4a53-8e34-2b668f56dbba'.
 ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -454,7 +454,7 @@ ars:activity_ir_eaaf9f25-9dd8-4a53-8e34-2b668f56dbba prov:wasAssociatedWith ars:
 
 ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264 rdfs:label 'Armstrong 3.14'@en .
 ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264 <http://purl.org/dc/terms/isReferencedBy> ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264_ref . ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 91-92" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 91-92_ref" . 
+ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264 <http://purl.org/dc/terms/isReferencedBy> ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264_ref . ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 91-92" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "91-92"^^xsd:string .  
 ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264 dc:identifier '8915a20f-ab40-484d-88ad-63ba7fabe264'.
 ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_8915a20f-ab40-484d-88ad-63ba7fabe264 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -467,7 +467,7 @@ ars:activity_ir_8915a20f-ab40-484d-88ad-63ba7fabe264 prov:wasAssociatedWith ars:
 
 ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49 rdfs:label 'Armstrong 3.17'@en .
 ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49 <http://purl.org/dc/terms/isReferencedBy> ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49_ref . ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49_ref dcterms:bibliographicCitation "Armstrong (1993), p. 92" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 92_ref" . 
+ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49 <http://purl.org/dc/terms/isReferencedBy> ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49_ref . ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49_ref dcterms:bibliographicCitation "Armstrong (1993), p. 92" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "92"^^xsd:string . 
 ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49 dc:identifier '79fde16f-6bb2-44b9-8d63-5a9cea414f49'.
 ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -480,7 +480,7 @@ ars:activity_ir_79fde16f-6bb2-44b9-8d63-5a9cea414f49 prov:wasAssociatedWith ars:
 
 ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c rdfs:label 'Armstrong 3.18'@en .
 ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c <http://purl.org/dc/terms/isReferencedBy> ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c_ref . ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c_ref dcterms:bibliographicCitation "Armstrong (1993), p. 92" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 92_ref" . 
+ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c <http://purl.org/dc/terms/isReferencedBy> ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c_ref . ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c_ref dcterms:bibliographicCitation "Armstrong (1993), p. 92" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "92"^^xsd:string . 
 ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c dc:identifier 'e5473e08-0b77-4a24-9ab1-4ba57880cf9c'.
 ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -493,7 +493,7 @@ ars:activity_ir_e5473e08-0b77-4a24-9ab1-4ba57880cf9c prov:wasAssociatedWith ars:
 
 ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0 rdfs:label 'Armstrong 3.20'@en .
 ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0_ref . ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 93" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 93_ref" . 
+ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0_ref . ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 93" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "93"^^xsd:string . 
 ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0 dc:identifier 'ac6d25d9-4901-4657-82e7-082a5886e6b0'.
 ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_ac6d25d9-4901-4657-82e7-082a5886e6b0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -506,7 +506,7 @@ ars:activity_ir_ac6d25d9-4901-4657-82e7-082a5886e6b0 prov:wasAssociatedWith ars:
 
 ars:ir_1ab34b36-5118-4e55-95a6-019472e02243 rdfs:label 'Armstrong 3.22'@en .
 ars:ir_1ab34b36-5118-4e55-95a6-019472e02243 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_1ab34b36-5118-4e55-95a6-019472e02243 <http://purl.org/dc/terms/isReferencedBy> ars:ir_1ab34b36-5118-4e55-95a6-019472e02243_ref . ars:ir_1ab34b36-5118-4e55-95a6-019472e02243_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1ab34b36-5118-4e55-95a6-019472e02243_ref dcterms:bibliographicCitation "Armstrong (1993), p. 93" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 93_ref" . 
+ars:ir_1ab34b36-5118-4e55-95a6-019472e02243 <http://purl.org/dc/terms/isReferencedBy> ars:ir_1ab34b36-5118-4e55-95a6-019472e02243_ref . ars:ir_1ab34b36-5118-4e55-95a6-019472e02243_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1ab34b36-5118-4e55-95a6-019472e02243_ref dcterms:bibliographicCitation "Armstrong (1993), p. 93" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "93"^^xsd:string . 
 ars:ir_1ab34b36-5118-4e55-95a6-019472e02243 dc:identifier '1ab34b36-5118-4e55-95a6-019472e02243'.
 ars:ir_1ab34b36-5118-4e55-95a6-019472e02243 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_1ab34b36-5118-4e55-95a6-019472e02243 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -519,7 +519,7 @@ ars:activity_ir_1ab34b36-5118-4e55-95a6-019472e02243 prov:wasAssociatedWith ars:
 
 ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749 rdfs:label 'Armstrong 3.24'@en .
 ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749 <http://purl.org/dc/terms/isReferencedBy> ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749_ref . ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 93-94" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 93-94_ref" . 
+ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749 <http://purl.org/dc/terms/isReferencedBy> ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749_ref . ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 93-94" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "93-94"^^xsd:string . 
 ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749 dc:identifier '83f014e4-3ef8-4a49-80de-48a9ac576749'.
 ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_83f014e4-3ef8-4a49-80de-48a9ac576749 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -532,7 +532,7 @@ ars:activity_ir_83f014e4-3ef8-4a49-80de-48a9ac576749 prov:wasAssociatedWith ars:
 
 ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8 rdfs:label 'Armstrong 3.25'@en .
 ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8 <http://purl.org/dc/terms/isReferencedBy> ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8_ref . ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8_ref dcterms:bibliographicCitation "Armstrong (1993), p. 94" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 94_ref" . 
+ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8 <http://purl.org/dc/terms/isReferencedBy> ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8_ref . ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8_ref dcterms:bibliographicCitation "Armstrong (1993), p. 94" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "94"^^xsd:string . 
 ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8 dc:identifier '507a4838-5e04-44b8-a80a-14f563a91ba8'.
 ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_507a4838-5e04-44b8-a80a-14f563a91ba8 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -545,7 +545,7 @@ ars:activity_ir_507a4838-5e04-44b8-a80a-14f563a91ba8 prov:wasAssociatedWith ars:
 
 ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9 rdfs:label 'Armstrong 3.26'@en .
 ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9_ref . ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 94" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 94_ref" . 
+ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9_ref . ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 94" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "94"^^xsd:string . 
 ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9 dc:identifier 'e4f425da-397a-41d1-b01d-8750968e1ef9'.
 ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_e4f425da-397a-41d1-b01d-8750968e1ef9 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -558,7 +558,7 @@ ars:activity_ir_e4f425da-397a-41d1-b01d-8750968e1ef9 prov:wasAssociatedWith ars:
 
 ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07 rdfs:label 'Armstrong 3.27'@en .
 ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07 <http://purl.org/dc/terms/isReferencedBy> ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07_ref . ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07_ref dcterms:bibliographicCitation "Armstrong (1993), p. 94" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 94_ref" . 
+ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07 <http://purl.org/dc/terms/isReferencedBy> ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07_ref . ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07_ref dcterms:bibliographicCitation "Armstrong (1993), p. 94" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "94"^^xsd:string . 
 ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07 dc:identifier '000168a0-04d1-4ddd-8dea-4611bd8a0a07'.
 ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -571,7 +571,7 @@ ars:activity_ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07 prov:wasAssociatedWith ars:
 
 ars:ir_b20a3b87-3690-4837-a378-a05effaf3137 rdfs:label 'Armstrong 3.30'@en .
 ars:ir_b20a3b87-3690-4837-a378-a05effaf3137 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_b20a3b87-3690-4837-a378-a05effaf3137 <http://purl.org/dc/terms/isReferencedBy> ars:ir_b20a3b87-3690-4837-a378-a05effaf3137_ref . ars:ir_b20a3b87-3690-4837-a378-a05effaf3137_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b20a3b87-3690-4837-a378-a05effaf3137_ref dcterms:bibliographicCitation "Armstrong (1993), p. 95" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 95_ref" . 
+ars:ir_b20a3b87-3690-4837-a378-a05effaf3137 <http://purl.org/dc/terms/isReferencedBy> ars:ir_b20a3b87-3690-4837-a378-a05effaf3137_ref . ars:ir_b20a3b87-3690-4837-a378-a05effaf3137_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b20a3b87-3690-4837-a378-a05effaf3137_ref dcterms:bibliographicCitation "Armstrong (1993), p. 95" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "95"^^xsd:string . 
 ars:ir_b20a3b87-3690-4837-a378-a05effaf3137 dc:identifier 'b20a3b87-3690-4837-a378-a05effaf3137'.
 ars:ir_b20a3b87-3690-4837-a378-a05effaf3137 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_b20a3b87-3690-4837-a378-a05effaf3137 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -584,7 +584,7 @@ ars:activity_ir_b20a3b87-3690-4837-a378-a05effaf3137 prov:wasAssociatedWith ars:
 
 ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4 rdfs:label 'Armstrong 3.35'@en .
 ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4_ref . ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 95-96" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 95-96_ref" . 
+ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4_ref . ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 95-96" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "95-96"^^xsd:string . 
 ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4 dc:identifier 'b0e10f4b-2a9a-4476-8185-a81b30af5fd4'.
 ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -597,7 +597,7 @@ ars:activity_ir_b0e10f4b-2a9a-4476-8185-a81b30af5fd4 prov:wasAssociatedWith ars:
 
 ars:ir_a0178930-744e-42e5-88e7-6b52aba67096 rdfs:label 'Armstrong 3.36'@en .
 ars:ir_a0178930-744e-42e5-88e7-6b52aba67096 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_a0178930-744e-42e5-88e7-6b52aba67096 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a0178930-744e-42e5-88e7-6b52aba67096_ref . ars:ir_a0178930-744e-42e5-88e7-6b52aba67096_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a0178930-744e-42e5-88e7-6b52aba67096_ref dcterms:bibliographicCitation "Armstrong (1993), p. 96" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 96_ref" . 
+ars:ir_a0178930-744e-42e5-88e7-6b52aba67096 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a0178930-744e-42e5-88e7-6b52aba67096_ref . ars:ir_a0178930-744e-42e5-88e7-6b52aba67096_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a0178930-744e-42e5-88e7-6b52aba67096_ref dcterms:bibliographicCitation "Armstrong (1993), p. 96" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "96"^^xsd:string . 
 ars:ir_a0178930-744e-42e5-88e7-6b52aba67096 dc:identifier 'a0178930-744e-42e5-88e7-6b52aba67096'.
 ars:ir_a0178930-744e-42e5-88e7-6b52aba67096 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_a0178930-744e-42e5-88e7-6b52aba67096 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -610,7 +610,7 @@ ars:activity_ir_a0178930-744e-42e5-88e7-6b52aba67096 prov:wasAssociatedWith ars:
 
 ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62 rdfs:label 'Armstrong 3.37'@en .
 ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62 <http://purl.org/dc/terms/isReferencedBy> ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62_ref . ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62_ref dcterms:bibliographicCitation "Armstrong (1993), p. 96" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 96_ref" . 
+ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62 <http://purl.org/dc/terms/isReferencedBy> ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62_ref . ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62_ref dcterms:bibliographicCitation "Armstrong (1993), p. 96" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "96"^^xsd:string . 
 ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62 dc:identifier 'eaa979ad-d8f2-40d4-97a8-4beed3c27d62'.
 ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -623,7 +623,7 @@ ars:activity_ir_eaa979ad-d8f2-40d4-97a8-4beed3c27d62 prov:wasAssociatedWith ars:
 
 ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5 rdfs:label 'Armstrong 3.4'@en .
 ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5_ref . ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5_ref dcterms:bibliographicCitation "Armstrong (1993), p. 89" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 89_ref" . 
+ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5_ref . ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5_ref dcterms:bibliographicCitation "Armstrong (1993), p. 89" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "89"^^xsd:string . 
 ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5 dc:identifier 'cb3cf452-e9fe-403c-8596-b9a2a62756b5'.
 ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -636,7 +636,7 @@ ars:activity_ir_cb3cf452-e9fe-403c-8596-b9a2a62756b5 prov:wasAssociatedWith ars:
 
 ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306 rdfs:label 'Armstrong 3.40'@en .
 ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306 <http://purl.org/dc/terms/isReferencedBy> ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306_ref . ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306_ref dcterms:bibliographicCitation "Armstrong (1993), p. 97" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 97_ref" . 
+ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306 <http://purl.org/dc/terms/isReferencedBy> ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306_ref . ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306_ref dcterms:bibliographicCitation "Armstrong (1993), p. 97" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "97"^^xsd:string . 
 ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306 dc:identifier 'eebb5c69-1433-4c7e-a87c-ef0ce3753306'.
 ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -649,7 +649,7 @@ ars:activity_ir_eebb5c69-1433-4c7e-a87c-ef0ce3753306 prov:wasAssociatedWith ars:
 
 ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34 rdfs:label 'Armstrong 3.41'@en .
 ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34 <http://purl.org/dc/terms/isReferencedBy> ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34_ref . ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34_ref dcterms:bibliographicCitation "Armstrong (1993), p. 97" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 97_ref" . 
+ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34 <http://purl.org/dc/terms/isReferencedBy> ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34_ref . ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34_ref dcterms:bibliographicCitation "Armstrong (1993), p. 97" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "97"^^xsd:string . 
 ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34 dc:identifier '572cdd9e-22ea-4c4c-9f98-6b27e8799c34'.
 ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -662,7 +662,7 @@ ars:activity_ir_572cdd9e-22ea-4c4c-9f98-6b27e8799c34 prov:wasAssociatedWith ars:
 
 ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4 rdfs:label 'Armstrong 3.45'@en .
 ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4_ref . ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 97-98" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 97-98_ref" . 
+ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4_ref . ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 97-98" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "97-98"^^xsd:string . 
 ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4 dc:identifier 'b7ea0b19-b6e4-4966-a494-6fa48e9de9a4'.
 ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -675,7 +675,7 @@ ars:activity_ir_b7ea0b19-b6e4-4966-a494-6fa48e9de9a4 prov:wasAssociatedWith ars:
 
 ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de rdfs:label 'Armstrong 3.5'@en .
 ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de <http://purl.org/dc/terms/isReferencedBy> ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de_ref . ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de_ref dcterms:bibliographicCitation "Armstrong (1993), p. 89" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 89_ref" . 
+ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de <http://purl.org/dc/terms/isReferencedBy> ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de_ref . ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de_ref dcterms:bibliographicCitation "Armstrong (1993), p. 89" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "89"^^xsd:string . 
 ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de dc:identifier '5608ef0c-7bf3-4c92-914f-9872142695de'.
 ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_5608ef0c-7bf3-4c92-914f-9872142695de prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -688,7 +688,7 @@ ars:activity_ir_5608ef0c-7bf3-4c92-914f-9872142695de prov:wasAssociatedWith ars:
 
 ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729 rdfs:label 'Armstrong 3.53'@en .
 ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729_ref . ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729_ref dcterms:bibliographicCitation "Armstrong (1993), p. 98" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 98_ref" . 
+ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729_ref . ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729_ref dcterms:bibliographicCitation "Armstrong (1993), p. 98" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "98"^^xsd:string . 
 ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729 dc:identifier '3f06e01a-e481-4cc0-b650-b30d1d5e8729'.
 ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -701,7 +701,7 @@ ars:activity_ir_3f06e01a-e481-4cc0-b650-b30d1d5e8729 prov:wasAssociatedWith ars:
 
 ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67 rdfs:label 'Armstrong 3.55'@en .
 ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67 <http://purl.org/dc/terms/isReferencedBy> ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67_ref . ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67_ref dcterms:bibliographicCitation "Armstrong (1993), p. 98" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 98_ref" . 
+ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67 <http://purl.org/dc/terms/isReferencedBy> ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67_ref . ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67_ref dcterms:bibliographicCitation "Armstrong (1993), p. 98" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "98"^^xsd:string .  
 ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67 dc:identifier '2384cd3b-e4c2-495f-9e3d-37705f52ae67'.
 ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -714,7 +714,7 @@ ars:activity_ir_2384cd3b-e4c2-495f-9e3d-37705f52ae67 prov:wasAssociatedWith ars:
 
 ars:ir_0413c05a-a16f-4f61-811a-51120070e03b rdfs:label 'Armstrong 3.59'@en .
 ars:ir_0413c05a-a16f-4f61-811a-51120070e03b rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_0413c05a-a16f-4f61-811a-51120070e03b <http://purl.org/dc/terms/isReferencedBy> ars:ir_0413c05a-a16f-4f61-811a-51120070e03b_ref . ars:ir_0413c05a-a16f-4f61-811a-51120070e03b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_0413c05a-a16f-4f61-811a-51120070e03b_ref dcterms:bibliographicCitation "Armstrong (1993), p. 99" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 99_ref" . 
+ars:ir_0413c05a-a16f-4f61-811a-51120070e03b <http://purl.org/dc/terms/isReferencedBy> ars:ir_0413c05a-a16f-4f61-811a-51120070e03b_ref . ars:ir_0413c05a-a16f-4f61-811a-51120070e03b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_0413c05a-a16f-4f61-811a-51120070e03b_ref dcterms:bibliographicCitation "Armstrong (1993), p. 99" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "99"^^xsd:string .  
 ars:ir_0413c05a-a16f-4f61-811a-51120070e03b dc:identifier '0413c05a-a16f-4f61-811a-51120070e03b'.
 ars:ir_0413c05a-a16f-4f61-811a-51120070e03b prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_0413c05a-a16f-4f61-811a-51120070e03b prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -727,7 +727,7 @@ ars:activity_ir_0413c05a-a16f-4f61-811a-51120070e03b prov:wasAssociatedWith ars:
 
 ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa rdfs:label 'Armstrong 3.7'@en .
 ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa <http://purl.org/dc/terms/isReferencedBy> ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa_ref . ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa_ref dcterms:bibliographicCitation "Armstrong (1993), p. 89" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 89_ref" . 
+ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa <http://purl.org/dc/terms/isReferencedBy> ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa_ref . ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa_ref dcterms:bibliographicCitation "Armstrong (1993), p. 89" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "89"^^xsd:string . 
 ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa dc:identifier '525cedce-ee33-425e-81ec-429d5765f3aa'.
 ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_525cedce-ee33-425e-81ec-429d5765f3aa prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -740,7 +740,7 @@ ars:activity_ir_525cedce-ee33-425e-81ec-429d5765f3aa prov:wasAssociatedWith ars:
 
 ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81 rdfs:label 'Armstrong 3.7A'@en .
 ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81 <http://purl.org/dc/terms/isReferencedBy> ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81_ref . ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81_ref dcterms:bibliographicCitation "Armstrong (1993), p. 89" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 89_ref" . 
+ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81 <http://purl.org/dc/terms/isReferencedBy> ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81_ref . ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81_ref dcterms:bibliographicCitation "Armstrong (1993), p. 89" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "89"^^xsd:string . 
 ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81 dc:identifier '6b7dc66e-03e7-44a7-83d5-e97ef4098e81'.
 ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -753,7 +753,7 @@ ars:activity_ir_6b7dc66e-03e7-44a7-83d5-e97ef4098e81 prov:wasAssociatedWith ars:
 
 ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa rdfs:label 'Armstrong 3.8'@en .
 ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa <http://purl.org/dc/terms/isReferencedBy> ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa_ref . ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa_ref dcterms:bibliographicCitation "Armstrong (1993), p. 90" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 90_ref" . 
+ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa <http://purl.org/dc/terms/isReferencedBy> ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa_ref . ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa_ref dcterms:bibliographicCitation "Armstrong (1993), p. 90" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "90"^^xsd:string . 
 ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa dc:identifier '522a11e5-ff73-475a-8dbf-cb5ba6db2faa'.
 ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -766,7 +766,7 @@ ars:activity_ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa prov:wasAssociatedWith ars:
 
 ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f rdfs:label 'Armstrong 3.9'@en .
 ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f <http://purl.org/dc/terms/isReferencedBy> ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f_ref . ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 90-91" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 90-91_ref" . 
+ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f <http://purl.org/dc/terms/isReferencedBy> ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f_ref . ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 90-91" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "90-91"^^xsd:string . 
 ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f dc:identifier 'fe58af42-56d6-433e-af51-4f96797ee95f'.
 ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_fe58af42-56d6-433e-af51-4f96797ee95f prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -779,7 +779,7 @@ ars:activity_ir_fe58af42-56d6-433e-af51-4f96797ee95f prov:wasAssociatedWith ars:
 
 ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594 rdfs:label 'Armstrong 4.3'@en .
 ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594_ref . ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594_ref dcterms:bibliographicCitation "Armstrong (1993), p. 100" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 100_ref" . 
+ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594_ref . ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594_ref dcterms:bibliographicCitation "Armstrong (1993), p. 100" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "100"^^xsd:string . 
 ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594 dc:identifier 'cd702acc-3ab0-44f7-9d14-6e2343610594'.
 ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_cd702acc-3ab0-44f7-9d14-6e2343610594 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -792,7 +792,7 @@ ars:activity_ir_cd702acc-3ab0-44f7-9d14-6e2343610594 prov:wasAssociatedWith ars:
 
 ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157 rdfs:label 'Armstrong 5.1'@en .
 ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157 <http://purl.org/dc/terms/isReferencedBy> ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157_ref . ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 100-101" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 100-101_ref" . 
+ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157 <http://purl.org/dc/terms/isReferencedBy> ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157_ref . ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 100-101" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "100-101"^^xsd:string . 
 ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157 dc:identifier 'f459c44c-4704-4bb9-ab3b-c52540c12157'.
 ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_f459c44c-4704-4bb9-ab3b-c52540c12157 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -805,7 +805,7 @@ ars:activity_ir_f459c44c-4704-4bb9-ab3b-c52540c12157 prov:wasAssociatedWith ars:
 
 ars:ir_9d771279-425d-447f-9277-0c4e71377bd0 rdfs:label 'Armstrong 5.102'@en .
 ars:ir_9d771279-425d-447f-9277-0c4e71377bd0 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_9d771279-425d-447f-9277-0c4e71377bd0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_9d771279-425d-447f-9277-0c4e71377bd0_ref . ars:ir_9d771279-425d-447f-9277-0c4e71377bd0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9d771279-425d-447f-9277-0c4e71377bd0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 122" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 122_ref" . 
+ars:ir_9d771279-425d-447f-9277-0c4e71377bd0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_9d771279-425d-447f-9277-0c4e71377bd0_ref . ars:ir_9d771279-425d-447f-9277-0c4e71377bd0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9d771279-425d-447f-9277-0c4e71377bd0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 122" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "122"^^xsd:string . 
 ars:ir_9d771279-425d-447f-9277-0c4e71377bd0 dc:identifier '9d771279-425d-447f-9277-0c4e71377bd0'.
 ars:ir_9d771279-425d-447f-9277-0c4e71377bd0 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_9d771279-425d-447f-9277-0c4e71377bd0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -818,7 +818,7 @@ ars:activity_ir_9d771279-425d-447f-9277-0c4e71377bd0 prov:wasAssociatedWith ars:
 
 ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9 rdfs:label 'Armstrong 5.104'@en .
 ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9_ref . ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 122" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 122_ref" . 
+ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9_ref . ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 122" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "122"^^xsd:string .  
 ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9 dc:identifier '376580fe-9768-42a8-ba1f-30b32a2644b9'.
 ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_376580fe-9768-42a8-ba1f-30b32a2644b9 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -831,7 +831,7 @@ ars:activity_ir_376580fe-9768-42a8-ba1f-30b32a2644b9 prov:wasAssociatedWith ars:
 
 ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357 rdfs:label 'Armstrong 5.105'@en .
 ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357_ref . ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357_ref dcterms:bibliographicCitation "Armstrong (1993), p. 122" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 122_ref" . 
+ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357 <http://purl.org/dc/terms/isReferencedBy> ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357_ref . ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357_ref dcterms:bibliographicCitation "Armstrong (1993), p. 122" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "122"^^xsd:string . 
 ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357 dc:identifier 'cdcaa862-0302-48c9-af93-ce86f655c357'.
 ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_cdcaa862-0302-48c9-af93-ce86f655c357 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -844,7 +844,7 @@ ars:activity_ir_cdcaa862-0302-48c9-af93-ce86f655c357 prov:wasAssociatedWith ars:
 
 ars:ir_3e83d102-5425-4754-bf26-2385d9510def rdfs:label 'Armstrong 5.106'@en .
 ars:ir_3e83d102-5425-4754-bf26-2385d9510def rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_3e83d102-5425-4754-bf26-2385d9510def <http://purl.org/dc/terms/isReferencedBy> ars:ir_3e83d102-5425-4754-bf26-2385d9510def_ref . ars:ir_3e83d102-5425-4754-bf26-2385d9510def_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3e83d102-5425-4754-bf26-2385d9510def_ref dcterms:bibliographicCitation "Armstrong (1993), p. 123" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 123_ref" . 
+ars:ir_3e83d102-5425-4754-bf26-2385d9510def <http://purl.org/dc/terms/isReferencedBy> ars:ir_3e83d102-5425-4754-bf26-2385d9510def_ref . ars:ir_3e83d102-5425-4754-bf26-2385d9510def_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3e83d102-5425-4754-bf26-2385d9510def_ref dcterms:bibliographicCitation "Armstrong (1993), p. 123" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "123"^^xsd:string . 
 ars:ir_3e83d102-5425-4754-bf26-2385d9510def dc:identifier '3e83d102-5425-4754-bf26-2385d9510def'.
 ars:ir_3e83d102-5425-4754-bf26-2385d9510def prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_3e83d102-5425-4754-bf26-2385d9510def prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -857,7 +857,7 @@ ars:activity_ir_3e83d102-5425-4754-bf26-2385d9510def prov:wasAssociatedWith ars:
 
 ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d rdfs:label 'Armstrong 5.109'@en .
 ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d <http://purl.org/dc/terms/isReferencedBy> ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d_ref . ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d_ref dcterms:bibliographicCitation "Armstrong (1993), p. 123" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 123_ref" . 
+ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d <http://purl.org/dc/terms/isReferencedBy> ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d_ref . ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d_ref dcterms:bibliographicCitation "Armstrong (1993), p. 123" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "123"^^xsd:string . 
 ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d dc:identifier 'be6066e6-d73c-48ae-985d-9ad329cc9a5d'.
 ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -870,7 +870,7 @@ ars:activity_ir_be6066e6-d73c-48ae-985d-9ad329cc9a5d prov:wasAssociatedWith ars:
 
 ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747 rdfs:label 'Armstrong 5.110'@en .
 ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747_ref . ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747_ref dcterms:bibliographicCitation "Armstrong (1993), p. 123" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 123_ref" . 
+ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747_ref . ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747_ref dcterms:bibliographicCitation "Armstrong (1993), p. 123" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "123"^^xsd:string .  
 ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747 dc:identifier 'a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747'.
 ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -883,7 +883,7 @@ ars:activity_ir_a9f4f2b0-38f8-431d-96e1-7f0b5c0c2747 prov:wasAssociatedWith ars:
 
 ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0 rdfs:label 'Armstrong 5.15'@en .
 ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0_ref . ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 104-105" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 104-105_ref" . 
+ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0_ref . ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 104-105" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "104-105"^^xsd:string . 
 ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0 dc:identifier '550da086-c5fd-4037-a8f8-d79c2726eda0'.
 ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_550da086-c5fd-4037-a8f8-d79c2726eda0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -896,7 +896,7 @@ ars:activity_ir_550da086-c5fd-4037-a8f8-d79c2726eda0 prov:wasAssociatedWith ars:
 
 ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3 rdfs:label 'Armstrong 5.16'@en .
 ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3 <http://purl.org/dc/terms/isReferencedBy> ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3_ref . ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3_ref dcterms:bibliographicCitation "Armstrong (1993), p. 105" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 105_ref" . 
+ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3 <http://purl.org/dc/terms/isReferencedBy> ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3_ref . ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3_ref dcterms:bibliographicCitation "Armstrong (1993), p. 105" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "105"^^xsd:string . 
 ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3 dc:identifier '13b9e127-d291-41c7-9bc8-020d6ded1ca3'.
 ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -909,7 +909,7 @@ ars:activity_ir_13b9e127-d291-41c7-9bc8-020d6ded1ca3 prov:wasAssociatedWith ars:
 
 ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05 rdfs:label 'Armstrong 5.17'@en .
 ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05_ref . ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05_ref dcterms:bibliographicCitation "Armstrong (1993), p. 105" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 105_ref" . 
+ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05_ref . ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05_ref dcterms:bibliographicCitation "Armstrong (1993), p. 105" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "105"^^xsd:string . 
 ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05 dc:identifier 'ef75ea51-dd8c-487d-9101-e0098ae63b05'.
 ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_ef75ea51-dd8c-487d-9101-e0098ae63b05 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -922,7 +922,7 @@ ars:activity_ir_ef75ea51-dd8c-487d-9101-e0098ae63b05 prov:wasAssociatedWith ars:
 
 ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0 rdfs:label 'Armstrong 5.18'@en .
 ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0_ref . ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 105" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 105_ref" . 
+ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0_ref . ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 105" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "105"^^xsd:string .  
 ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0 dc:identifier 'a3f56cbe-9e71-41a1-b560-4f5fd492b3d0'.
 ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -935,7 +935,7 @@ ars:activity_ir_a3f56cbe-9e71-41a1-b560-4f5fd492b3d0 prov:wasAssociatedWith ars:
 
 ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724 rdfs:label 'Armstrong 5.22'@en .
 ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724 <http://purl.org/dc/terms/isReferencedBy> ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724_ref . ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724_ref dcterms:bibliographicCitation "Armstrong (1993), p. 106" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 106_ref" . 
+ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724 <http://purl.org/dc/terms/isReferencedBy> ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724_ref . ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724_ref dcterms:bibliographicCitation "Armstrong (1993), p. 106" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "106"^^xsd:string .  
 ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724 dc:identifier '882f9d43-c4da-42e3-ad0c-3724dbefc724'.
 ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_882f9d43-c4da-42e3-ad0c-3724dbefc724 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -948,7 +948,7 @@ ars:activity_ir_882f9d43-c4da-42e3-ad0c-3724dbefc724 prov:wasAssociatedWith ars:
 
 ars:ir_29860971-9809-4c25-9296-51a50a8db5ff rdfs:label 'Armstrong 5.29'@en .
 ars:ir_29860971-9809-4c25-9296-51a50a8db5ff rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_29860971-9809-4c25-9296-51a50a8db5ff <http://purl.org/dc/terms/isReferencedBy> ars:ir_29860971-9809-4c25-9296-51a50a8db5ff_ref . ars:ir_29860971-9809-4c25-9296-51a50a8db5ff_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_29860971-9809-4c25-9296-51a50a8db5ff_ref dcterms:bibliographicCitation "Armstrong (1993), p. 107" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 107_ref" . 
+ars:ir_29860971-9809-4c25-9296-51a50a8db5ff <http://purl.org/dc/terms/isReferencedBy> ars:ir_29860971-9809-4c25-9296-51a50a8db5ff_ref . ars:ir_29860971-9809-4c25-9296-51a50a8db5ff_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_29860971-9809-4c25-9296-51a50a8db5ff_ref dcterms:bibliographicCitation "Armstrong (1993), p. 107" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "107"^^xsd:string .  
 ars:ir_29860971-9809-4c25-9296-51a50a8db5ff dc:identifier '29860971-9809-4c25-9296-51a50a8db5ff'.
 ars:ir_29860971-9809-4c25-9296-51a50a8db5ff prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_29860971-9809-4c25-9296-51a50a8db5ff prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -961,7 +961,7 @@ ars:activity_ir_29860971-9809-4c25-9296-51a50a8db5ff prov:wasAssociatedWith ars:
 
 ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5 rdfs:label 'Armstrong 5.3'@en .
 ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5 <http://purl.org/dc/terms/isReferencedBy> ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5_ref . ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5_ref dcterms:bibliographicCitation "Armstrong (1993), p. 101" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 101_ref" . 
+ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5 <http://purl.org/dc/terms/isReferencedBy> ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5_ref . ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5_ref dcterms:bibliographicCitation "Armstrong (1993), p. 101" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "101"^^xsd:string . 
 ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5 dc:identifier '32c083ed-782c-4bb6-9a98-7c278e9e52a5'.
 ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -974,7 +974,7 @@ ars:activity_ir_32c083ed-782c-4bb6-9a98-7c278e9e52a5 prov:wasAssociatedWith ars:
 
 ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb rdfs:label 'Armstrong 5.32'@en .
 ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb <http://purl.org/dc/terms/isReferencedBy> ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb_ref . ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb_ref dcterms:bibliographicCitation "Armstrong (1993), p. 108" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 108_ref" . 
+ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb <http://purl.org/dc/terms/isReferencedBy> ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb_ref . ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb_ref dcterms:bibliographicCitation "Armstrong (1993), p. 108" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "108"^^xsd:string . 
 ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb dc:identifier 'f78a0949-6b6b-4cc8-b8a3-952d1a797cbb'.
 ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -987,7 +987,7 @@ ars:activity_ir_f78a0949-6b6b-4cc8-b8a3-952d1a797cbb prov:wasAssociatedWith ars:
 
 ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb rdfs:label 'Armstrong 5.33'@en .
 ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb <http://purl.org/dc/terms/isReferencedBy> ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb_ref . ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb_ref dcterms:bibliographicCitation "Armstrong (1993), p. 101" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 101_ref" . 
+ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb <http://purl.org/dc/terms/isReferencedBy> ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb_ref . ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb_ref dcterms:bibliographicCitation "Armstrong (1993), p. 101" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "101"^^xsd:string .  
 ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb dc:identifier '53ecbeaf-5d6e-4aa3-8978-baa18138e7bb'.
 ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1000,7 +1000,7 @@ ars:activity_ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb prov:wasAssociatedWith ars:
 
 ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b rdfs:label 'Armstrong 5.35'@en .
 ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b <http://purl.org/dc/terms/isReferencedBy> ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b_ref . ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b_ref dcterms:bibliographicCitation "Armstrong (1993), p. 109" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 109_ref" . 
+ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b <http://purl.org/dc/terms/isReferencedBy> ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b_ref . ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b_ref dcterms:bibliographicCitation "Armstrong (1993), p. 109" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "109"^^xsd:string . 
 ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b dc:identifier 'eafc3c7b-ee88-40c0-a24d-a8e7e438855b'.
 ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1013,7 +1013,7 @@ ars:activity_ir_eafc3c7b-ee88-40c0-a24d-a8e7e438855b prov:wasAssociatedWith ars:
 
 ars:ir_d38b5110-a907-4544-851b-680730b3c67e rdfs:label 'Armstrong 5.36'@en .
 ars:ir_d38b5110-a907-4544-851b-680730b3c67e rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_d38b5110-a907-4544-851b-680730b3c67e <http://purl.org/dc/terms/isReferencedBy> ars:ir_d38b5110-a907-4544-851b-680730b3c67e_ref . ars:ir_d38b5110-a907-4544-851b-680730b3c67e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_d38b5110-a907-4544-851b-680730b3c67e_ref dcterms:bibliographicCitation "Armstrong (1993), p. 109" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 109_ref" . 
+ars:ir_d38b5110-a907-4544-851b-680730b3c67e <http://purl.org/dc/terms/isReferencedBy> ars:ir_d38b5110-a907-4544-851b-680730b3c67e_ref . ars:ir_d38b5110-a907-4544-851b-680730b3c67e_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_d38b5110-a907-4544-851b-680730b3c67e_ref dcterms:bibliographicCitation "Armstrong (1993), p. 109" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "109"^^xsd:string . 
 ars:ir_d38b5110-a907-4544-851b-680730b3c67e dc:identifier 'd38b5110-a907-4544-851b-680730b3c67e'.
 ars:ir_d38b5110-a907-4544-851b-680730b3c67e prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_d38b5110-a907-4544-851b-680730b3c67e prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1026,7 +1026,7 @@ ars:activity_ir_d38b5110-a907-4544-851b-680730b3c67e prov:wasAssociatedWith ars:
 
 ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc rdfs:label 'Armstrong 5.37'@en .
 ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc <http://purl.org/dc/terms/isReferencedBy> ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc_ref . ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc_ref dcterms:bibliographicCitation "Armstrong (1993), p. 110" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 110_ref" . 
+ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc <http://purl.org/dc/terms/isReferencedBy> ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc_ref . ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc_ref dcterms:bibliographicCitation "Armstrong (1993), p. 110" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "110"^^xsd:string . 
 ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc dc:identifier '1376e450-8bc7-4f82-b32c-ba116d3ebbbc'.
 ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1039,7 +1039,7 @@ ars:activity_ir_1376e450-8bc7-4f82-b32c-ba116d3ebbbc prov:wasAssociatedWith ars:
 
 ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7 rdfs:label 'Armstrong 5.38'@en .
 ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7 <http://purl.org/dc/terms/isReferencedBy> ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7_ref . ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7_ref dcterms:bibliographicCitation "Armstrong (1993), p. 110" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 110_ref" . 
+ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7 <http://purl.org/dc/terms/isReferencedBy> ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7_ref . ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7_ref dcterms:bibliographicCitation "Armstrong (1993), p. 110" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "110"^^xsd:string . 
 ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7 dc:identifier '19fbc952-da28-42fc-8ab3-b8216dfdd5a7'.
 ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1052,7 +1052,7 @@ ars:activity_ir_19fbc952-da28-42fc-8ab3-b8216dfdd5a7 prov:wasAssociatedWith ars:
 
 ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee rdfs:label 'Armstrong 5.4'@en .
 ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee <http://purl.org/dc/terms/isReferencedBy> ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee_ref . ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee_ref dcterms:bibliographicCitation "Armstrong (1993), p. 102" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 102_ref" . 
+ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee <http://purl.org/dc/terms/isReferencedBy> ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee_ref . ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee_ref dcterms:bibliographicCitation "Armstrong (1993), p. 102" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "102"^^xsd:string . 
 ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee dc:identifier 'aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee'.
 ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1065,7 +1065,7 @@ ars:activity_ir_aa1a43c1-7ee7-4c7e-9d26-6fcef8e31cee prov:wasAssociatedWith ars:
 
 ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a rdfs:label 'Armstrong 5.43'@en .
 ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a <http://purl.org/dc/terms/isReferencedBy> ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a_ref . ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a_ref dcterms:bibliographicCitation "Armstrong (1993), p. 111" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 111_ref" . 
+ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a <http://purl.org/dc/terms/isReferencedBy> ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a_ref . ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a_ref dcterms:bibliographicCitation "Armstrong (1993), p. 111" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "111"^^xsd:string . 
 ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a dc:identifier '402e936a-a64a-45da-a9d8-35ef25dc940a'.
 ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_402e936a-a64a-45da-a9d8-35ef25dc940a prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1078,7 +1078,7 @@ ars:activity_ir_402e936a-a64a-45da-a9d8-35ef25dc940a prov:wasAssociatedWith ars:
 
 ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9 rdfs:label 'Armstrong 5.44'@en .
 ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9_ref . ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 111" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 111_ref" . 
+ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9_ref . ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 111" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "111"^^xsd:string . 
 ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9 dc:identifier '3ed5dad0-f030-4a12-bcf3-19bed0cc54c9'.
 ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1091,7 +1091,7 @@ ars:activity_ir_3ed5dad0-f030-4a12-bcf3-19bed0cc54c9 prov:wasAssociatedWith ars:
 
 ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646 rdfs:label 'Armstrong 5.55'@en .
 ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646 <http://purl.org/dc/terms/isReferencedBy> ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646_ref . ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646_ref dcterms:bibliographicCitation "Armstrong (1993), p. 113" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 113_ref" . 
+ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646 <http://purl.org/dc/terms/isReferencedBy> ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646_ref . ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646_ref dcterms:bibliographicCitation "Armstrong (1993), p. 113" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "113"^^xsd:string . 
 ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646 dc:identifier '272e4219-7da9-4a96-8688-e563e8e1c646'.
 ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_272e4219-7da9-4a96-8688-e563e8e1c646 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1104,7 +1104,7 @@ ars:activity_ir_272e4219-7da9-4a96-8688-e563e8e1c646 prov:wasAssociatedWith ars:
 
 ars:ir_fbf48669-4094-4344-a67f-542576574d42 rdfs:label 'Armstrong 5.56'@en .
 ars:ir_fbf48669-4094-4344-a67f-542576574d42 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_fbf48669-4094-4344-a67f-542576574d42 <http://purl.org/dc/terms/isReferencedBy> ars:ir_fbf48669-4094-4344-a67f-542576574d42_ref . ars:ir_fbf48669-4094-4344-a67f-542576574d42_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fbf48669-4094-4344-a67f-542576574d42_ref dcterms:bibliographicCitation "Armstrong (1993), p. 113" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 113_ref" . 
+ars:ir_fbf48669-4094-4344-a67f-542576574d42 <http://purl.org/dc/terms/isReferencedBy> ars:ir_fbf48669-4094-4344-a67f-542576574d42_ref . ars:ir_fbf48669-4094-4344-a67f-542576574d42_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fbf48669-4094-4344-a67f-542576574d42_ref dcterms:bibliographicCitation "Armstrong (1993), p. 113" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "113"^^xsd:string . 
 ars:ir_fbf48669-4094-4344-a67f-542576574d42 dc:identifier 'fbf48669-4094-4344-a67f-542576574d42'.
 ars:ir_fbf48669-4094-4344-a67f-542576574d42 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_fbf48669-4094-4344-a67f-542576574d42 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1117,7 +1117,7 @@ ars:activity_ir_fbf48669-4094-4344-a67f-542576574d42 prov:wasAssociatedWith ars:
 
 ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae rdfs:label 'Armstrong 5.60'@en .
 ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae <http://purl.org/dc/terms/isReferencedBy> ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae_ref . ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae_ref dcterms:bibliographicCitation "Armstrong (1993), p. 114" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 114_ref" . 
+ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae <http://purl.org/dc/terms/isReferencedBy> ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae_ref . ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae_ref dcterms:bibliographicCitation "Armstrong (1993), p. 114" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "114"^^xsd:string . 
 ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae dc:identifier '2482538a-b10b-41a9-925b-9d0c4f3d89ae'.
 ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1130,7 +1130,7 @@ ars:activity_ir_2482538a-b10b-41a9-925b-9d0c4f3d89ae prov:wasAssociatedWith ars:
 
 ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91 rdfs:label 'Armstrong 5.62'@en .
 ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91 <http://purl.org/dc/terms/isReferencedBy> ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91_ref . ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91_ref dcterms:bibliographicCitation "Armstrong (1993), p. 114" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 114_ref" . 
+ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91 <http://purl.org/dc/terms/isReferencedBy> ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91_ref . ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91_ref dcterms:bibliographicCitation "Armstrong (1993), p. 114" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "114"^^xsd:string . 
 ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91 dc:identifier '8c758ef9-1c85-4d9d-a925-b254a62e4a91'.
 ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1143,7 +1143,7 @@ ars:activity_ir_8c758ef9-1c85-4d9d-a925-b254a62e4a91 prov:wasAssociatedWith ars:
 
 ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20 rdfs:label 'Armstrong 5.63'@en .
 ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20 <http://purl.org/dc/terms/isReferencedBy> ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20_ref . ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20_ref dcterms:bibliographicCitation "Armstrong (1993), p. 115" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 115_ref" . 
+ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20 <http://purl.org/dc/terms/isReferencedBy> ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20_ref . ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20_ref dcterms:bibliographicCitation "Armstrong (1993), p. 115" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "115"^^xsd:string . 
 ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20 dc:identifier 'fb423297-beb3-4f53-bb3d-eeebdeea9e20'.
 ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1156,7 +1156,7 @@ ars:activity_ir_fb423297-beb3-4f53-bb3d-eeebdeea9e20 prov:wasAssociatedWith ars:
 
 ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b rdfs:label 'Armstrong 5.64'@en .
 ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b <http://purl.org/dc/terms/isReferencedBy> ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b_ref . ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b_ref dcterms:bibliographicCitation "Armstrong (1993), p. 115" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 115_ref" . 
+ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b <http://purl.org/dc/terms/isReferencedBy> ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b_ref . ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b_ref dcterms:bibliographicCitation "Armstrong (1993), p. 115" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "115"^^xsd:string . 
 ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b dc:identifier '388a2ad3-2c6a-40fc-90d3-0b0556889c7b'.
 ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1169,7 +1169,7 @@ ars:activity_ir_388a2ad3-2c6a-40fc-90d3-0b0556889c7b prov:wasAssociatedWith ars:
 
 ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11 rdfs:label 'Armstrong 5.65'@en .
 ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11 <http://purl.org/dc/terms/isReferencedBy> ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11_ref . ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11_ref dcterms:bibliographicCitation "Armstrong (1993), p. 115" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 115_ref" . 
+ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11 <http://purl.org/dc/terms/isReferencedBy> ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11_ref . ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11_ref dcterms:bibliographicCitation "Armstrong (1993), p. 115" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "115"^^xsd:string . 
 ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11 dc:identifier '2e7eef2f-c56a-455c-877a-724ae7194b11'.
 ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_2e7eef2f-c56a-455c-877a-724ae7194b11 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1182,7 +1182,7 @@ ars:activity_ir_2e7eef2f-c56a-455c-877a-724ae7194b11 prov:wasAssociatedWith ars:
 
 ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0 rdfs:label 'Armstrong 5.66'@en .
 ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0_ref . ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 115" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 115_ref" . 
+ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0_ref . ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 115" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "115"^^xsd:string .  
 ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0 dc:identifier '890150d0-6ac2-41e5-9be8-79955f86e7e0'.
 ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_890150d0-6ac2-41e5-9be8-79955f86e7e0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1195,7 +1195,7 @@ ars:activity_ir_890150d0-6ac2-41e5-9be8-79955f86e7e0 prov:wasAssociatedWith ars:
 
 ars:ir_bca08785-3538-4a77-a4db-3216c317d106 rdfs:label 'Armstrong 5.70'@en .
 ars:ir_bca08785-3538-4a77-a4db-3216c317d106 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_bca08785-3538-4a77-a4db-3216c317d106 <http://purl.org/dc/terms/isReferencedBy> ars:ir_bca08785-3538-4a77-a4db-3216c317d106_ref . ars:ir_bca08785-3538-4a77-a4db-3216c317d106_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_bca08785-3538-4a77-a4db-3216c317d106_ref dcterms:bibliographicCitation "Armstrong (1993), p. 116" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 116_ref" . 
+ars:ir_bca08785-3538-4a77-a4db-3216c317d106 <http://purl.org/dc/terms/isReferencedBy> ars:ir_bca08785-3538-4a77-a4db-3216c317d106_ref . ars:ir_bca08785-3538-4a77-a4db-3216c317d106_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_bca08785-3538-4a77-a4db-3216c317d106_ref dcterms:bibliographicCitation "Armstrong (1993), p. 116" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "116"^^xsd:string . 
 ars:ir_bca08785-3538-4a77-a4db-3216c317d106 dc:identifier 'bca08785-3538-4a77-a4db-3216c317d106'.
 ars:ir_bca08785-3538-4a77-a4db-3216c317d106 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_bca08785-3538-4a77-a4db-3216c317d106 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1208,7 +1208,7 @@ ars:activity_ir_bca08785-3538-4a77-a4db-3216c317d106 prov:wasAssociatedWith ars:
 
 ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730 rdfs:label 'Armstrong 5.87'@en .
 ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730 <http://purl.org/dc/terms/isReferencedBy> ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730_ref . ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730_ref dcterms:bibliographicCitation "Armstrong (1993), p. 119" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 119_ref" . 
+ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730 <http://purl.org/dc/terms/isReferencedBy> ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730_ref . ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730_ref dcterms:bibliographicCitation "Armstrong (1993), p. 119" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "119"^^xsd:string . 
 ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730 dc:identifier '35fa6cf7-d59f-4210-91bb-1c46000d8730'.
 ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_35fa6cf7-d59f-4210-91bb-1c46000d8730 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1221,7 +1221,7 @@ ars:activity_ir_35fa6cf7-d59f-4210-91bb-1c46000d8730 prov:wasAssociatedWith ars:
 
 ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1 rdfs:label 'Armstrong 5.89'@en .
 ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1 <http://purl.org/dc/terms/isReferencedBy> ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1_ref . ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1_ref dcterms:bibliographicCitation "Armstrong (1993), p. 120" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 120_ref" . 
+ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1 <http://purl.org/dc/terms/isReferencedBy> ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1_ref . ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1_ref dcterms:bibliographicCitation "Armstrong (1993), p. 120" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "120"^^xsd:string . 
 ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1 dc:identifier '84ccb394-156b-400a-8bcb-d209ff01bcc1'.
 ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_84ccb394-156b-400a-8bcb-d209ff01bcc1 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1234,7 +1234,7 @@ ars:activity_ir_84ccb394-156b-400a-8bcb-d209ff01bcc1 prov:wasAssociatedWith ars:
 
 ars:ir_7be57fc7-7386-4397-9401-52d5721ee288 rdfs:label 'Armstrong 5.90'@en .
 ars:ir_7be57fc7-7386-4397-9401-52d5721ee288 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_7be57fc7-7386-4397-9401-52d5721ee288 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7be57fc7-7386-4397-9401-52d5721ee288_ref . ars:ir_7be57fc7-7386-4397-9401-52d5721ee288_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7be57fc7-7386-4397-9401-52d5721ee288_ref dcterms:bibliographicCitation "Armstrong (1993), p. 120" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 120_ref" . 
+ars:ir_7be57fc7-7386-4397-9401-52d5721ee288 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7be57fc7-7386-4397-9401-52d5721ee288_ref . ars:ir_7be57fc7-7386-4397-9401-52d5721ee288_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7be57fc7-7386-4397-9401-52d5721ee288_ref dcterms:bibliographicCitation "Armstrong (1993), p. 120" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "120"^^xsd:string . 
 ars:ir_7be57fc7-7386-4397-9401-52d5721ee288 dc:identifier '7be57fc7-7386-4397-9401-52d5721ee288'.
 ars:ir_7be57fc7-7386-4397-9401-52d5721ee288 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_7be57fc7-7386-4397-9401-52d5721ee288 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1247,7 +1247,7 @@ ars:activity_ir_7be57fc7-7386-4397-9401-52d5721ee288 prov:wasAssociatedWith ars:
 
 ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0 rdfs:label 'Armstrong 5.98'@en .
 ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0_ref . ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 121-122" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp. 121-122_ref" . 
+ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0_ref . ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0_ref dcterms:bibliographicCitation "Armstrong (1993), pp. 121-122" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "121-122"^^xsd:string .  
 ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0 dc:identifier '7887420a-1788-4dc5-849a-194c30cbafb0'.
 ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_7887420a-1788-4dc5-849a-194c30cbafb0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1260,7 +1260,7 @@ ars:activity_ir_7887420a-1788-4dc5-849a-194c30cbafb0 prov:wasAssociatedWith ars:
 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003 rdfs:label 'Armstrong 5.98/5.99'.
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003 <http://purl.org/dc/terms/isReferencedBy> ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003_ref . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003_ref dcterms:bibliographicCitation "Armstrong (1993), pp.121-122" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), pp.121-122_ref" . 
+ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003 <http://purl.org/dc/terms/isReferencedBy> ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003_ref . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003_ref dcterms:bibliographicCitation "Armstrong (1993), pp.121-122" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "121-122"^^xsd:string . 
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003 dc:identifier 'c30c01b2-9c7e-45ec-833b-f734e1000003'.
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_c30c01b2-9c7e-45ec-833b-f734e1000003 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1273,7 +1273,7 @@ ars:activity_ir_c30c01b2-9c7e-45ec-833b-f734e1000003 prov:wasAssociatedWith ars:
 
 ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da rdfs:label 'Armstrong 6.1'@en .
 ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da <http://purl.org/dc/terms/isReferencedBy> ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da_ref . ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da_ref dcterms:bibliographicCitation "Armstrong (1993), p. 123" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 123_ref" . 
+ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da <http://purl.org/dc/terms/isReferencedBy> ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da_ref . ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da_ref dcterms:bibliographicCitation "Armstrong (1993), p. 123" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "123"^^xsd:string . 
 ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da dc:identifier '6c9add7e-cf9b-414a-960d-3588a015e2da'.
 ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_6c9add7e-cf9b-414a-960d-3588a015e2da prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1286,7 +1286,7 @@ ars:activity_ir_6c9add7e-cf9b-414a-960d-3588a015e2da prov:wasAssociatedWith ars:
 
 ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c rdfs:label 'Armstrong 6.101'@en .
 ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c <http://purl.org/dc/terms/isReferencedBy> ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c_ref . ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c_ref dcterms:bibliographicCitation "Armstrong (1993), p. 139" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 139_ref" . 
+ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c <http://purl.org/dc/terms/isReferencedBy> ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c_ref . ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c_ref dcterms:bibliographicCitation "Armstrong (1993), p. 139" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "139"^^xsd:string . 
 ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c dc:identifier '82eb6d7b-5e21-492c-96d4-593e33a6b20c'.
 ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1299,7 +1299,7 @@ ars:activity_ir_82eb6d7b-5e21-492c-96d4-593e33a6b20c prov:wasAssociatedWith ars:
 
 ars:ir_3ce6c346-0133-4402-b829-cd2774837db9 rdfs:label 'Armstrong 6.102'@en .
 ars:ir_3ce6c346-0133-4402-b829-cd2774837db9 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_3ce6c346-0133-4402-b829-cd2774837db9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3ce6c346-0133-4402-b829-cd2774837db9_ref . ars:ir_3ce6c346-0133-4402-b829-cd2774837db9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3ce6c346-0133-4402-b829-cd2774837db9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 140" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 140_ref" . 
+ars:ir_3ce6c346-0133-4402-b829-cd2774837db9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_3ce6c346-0133-4402-b829-cd2774837db9_ref . ars:ir_3ce6c346-0133-4402-b829-cd2774837db9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_3ce6c346-0133-4402-b829-cd2774837db9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 140" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "140"^^xsd:string . 
 ars:ir_3ce6c346-0133-4402-b829-cd2774837db9 dc:identifier '3ce6c346-0133-4402-b829-cd2774837db9'.
 ars:ir_3ce6c346-0133-4402-b829-cd2774837db9 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_3ce6c346-0133-4402-b829-cd2774837db9 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1312,7 +1312,7 @@ ars:activity_ir_3ce6c346-0133-4402-b829-cd2774837db9 prov:wasAssociatedWith ars:
 
 ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0 rdfs:label 'Armstrong 6.118'@en .
 ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0_ref . ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 142" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 142_ref" . 
+ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0 <http://purl.org/dc/terms/isReferencedBy> ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0_ref . ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0_ref dcterms:bibliographicCitation "Armstrong (1993), p. 142" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "142"^^xsd:string . 
 ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0 dc:identifier '25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0'.
 ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1325,7 +1325,7 @@ ars:activity_ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0 prov:wasAssociatedWith ars:
 
 ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47 rdfs:label 'Armstrong 6.12'@en .
 ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47 <http://purl.org/dc/terms/isReferencedBy> ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47_ref . ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47_ref dcterms:bibliographicCitation "Armstrong (1993), p. 125" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 125_ref" . 
+ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47 <http://purl.org/dc/terms/isReferencedBy> ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47_ref . ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47_ref dcterms:bibliographicCitation "Armstrong (1993), p. 125" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "125"^^xsd:string . 
 ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47 dc:identifier '6234e07d-7fc0-48c8-ba57-5deea596fe47'.
 ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_6234e07d-7fc0-48c8-ba57-5deea596fe47 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1338,7 +1338,7 @@ ars:activity_ir_6234e07d-7fc0-48c8-ba57-5deea596fe47 prov:wasAssociatedWith ars:
 
 ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9 rdfs:label 'Armstrong 6.142'@en .
 ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9_ref . ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 144" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 144_ref" . 
+ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9_ref . ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9_ref dcterms:bibliographicCitation "Armstrong (1993), p. 144" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "144"^^xsd:string . 
 ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9 dc:identifier 'ef7e40c0-9292-4892-8bfa-3616736a6fc9'.
 ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1351,7 +1351,7 @@ ars:activity_ir_ef7e40c0-9292-4892-8bfa-3616736a6fc9 prov:wasAssociatedWith ars:
 
 ars:ir_bdf952d1-177b-465b-9913-04011f3b8771 rdfs:label 'Armstrong 6.144'@en .
 ars:ir_bdf952d1-177b-465b-9913-04011f3b8771 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_bdf952d1-177b-465b-9913-04011f3b8771 <http://purl.org/dc/terms/isReferencedBy> ars:ir_bdf952d1-177b-465b-9913-04011f3b8771_ref . ars:ir_bdf952d1-177b-465b-9913-04011f3b8771_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_bdf952d1-177b-465b-9913-04011f3b8771_ref dcterms:bibliographicCitation "Armstrong (1993), p. 145" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 145_ref" . 
+ars:ir_bdf952d1-177b-465b-9913-04011f3b8771 <http://purl.org/dc/terms/isReferencedBy> ars:ir_bdf952d1-177b-465b-9913-04011f3b8771_ref . ars:ir_bdf952d1-177b-465b-9913-04011f3b8771_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_bdf952d1-177b-465b-9913-04011f3b8771_ref dcterms:bibliographicCitation "Armstrong (1993), p. 145" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "145"^^xsd:string . 
 ars:ir_bdf952d1-177b-465b-9913-04011f3b8771 dc:identifier 'bdf952d1-177b-465b-9913-04011f3b8771'.
 ars:ir_bdf952d1-177b-465b-9913-04011f3b8771 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_bdf952d1-177b-465b-9913-04011f3b8771 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1364,7 +1364,7 @@ ars:activity_ir_bdf952d1-177b-465b-9913-04011f3b8771 prov:wasAssociatedWith ars:
 
 ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4 rdfs:label 'Armstrong 6.149'@en .
 ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4_ref . ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4_ref dcterms:bibliographicCitation "Armstrong (1993), p. 145" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 145_ref" . 
+ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4 <http://purl.org/dc/terms/isReferencedBy> ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4_ref . ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4_ref dcterms:bibliographicCitation "Armstrong (1993), p. 145" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "145"^^xsd:string . 
 ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4 dc:identifier 'f484edc8-a677-4d9c-a4aa-5752bdd6eca4'.
 ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1377,7 +1377,7 @@ ars:activity_ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4 prov:wasAssociatedWith ars:
 
 ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba rdfs:label 'Armstrong 6.150'@en .
 ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba <http://purl.org/dc/terms/isReferencedBy> ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba_ref . ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba_ref dcterms:bibliographicCitation "Armstrong (1993), p. 145" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 145_ref" . 
+ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba <http://purl.org/dc/terms/isReferencedBy> ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba_ref . ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba_ref dcterms:bibliographicCitation "Armstrong (1993), p. 145" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "145"^^xsd:string . 
 ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba dc:identifier '5f8e0785-0a27-456b-ba91-b1dbda6239ba'.
 ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1390,7 +1390,7 @@ ars:activity_ir_5f8e0785-0a27-456b-ba91-b1dbda6239ba prov:wasAssociatedWith ars:
 
 ars:ir_9ed915e6-7245-40c0-9e11-36772d704077 rdfs:label 'Armstrong 6.154'@en .
 ars:ir_9ed915e6-7245-40c0-9e11-36772d704077 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_9ed915e6-7245-40c0-9e11-36772d704077 <http://purl.org/dc/terms/isReferencedBy> ars:ir_9ed915e6-7245-40c0-9e11-36772d704077_ref . ars:ir_9ed915e6-7245-40c0-9e11-36772d704077_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9ed915e6-7245-40c0-9e11-36772d704077_ref dcterms:bibliographicCitation "Armstrong (1993), p. 146" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 146_ref" . 
+ars:ir_9ed915e6-7245-40c0-9e11-36772d704077 <http://purl.org/dc/terms/isReferencedBy> ars:ir_9ed915e6-7245-40c0-9e11-36772d704077_ref . ars:ir_9ed915e6-7245-40c0-9e11-36772d704077_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9ed915e6-7245-40c0-9e11-36772d704077_ref dcterms:bibliographicCitation "Armstrong (1993), p. 146" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "146"^^xsd:string . 
 ars:ir_9ed915e6-7245-40c0-9e11-36772d704077 dc:identifier '9ed915e6-7245-40c0-9e11-36772d704077'.
 ars:ir_9ed915e6-7245-40c0-9e11-36772d704077 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_9ed915e6-7245-40c0-9e11-36772d704077 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1403,7 +1403,7 @@ ars:activity_ir_9ed915e6-7245-40c0-9e11-36772d704077 prov:wasAssociatedWith ars:
 
 ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550 rdfs:label 'Armstrong 6.156'@en .
 ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550_ref . ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550_ref dcterms:bibliographicCitation "Armstrong (1993), p. 147" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 147_ref" . 
+ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550 <http://purl.org/dc/terms/isReferencedBy> ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550_ref . ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550_ref dcterms:bibliographicCitation "Armstrong (1993), p. 147" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "147"^^xsd:string . 
 ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550 dc:identifier 'ef589cc4-d968-4692-a3ee-6d4b66605550'.
 ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_ef589cc4-d968-4692-a3ee-6d4b66605550 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1416,7 +1416,7 @@ ars:activity_ir_ef589cc4-d968-4692-a3ee-6d4b66605550 prov:wasAssociatedWith ars:
 
 ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b rdfs:label 'Armstrong 6.157'@en .
 ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b <http://purl.org/dc/terms/isReferencedBy> ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b_ref . ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b_ref dcterms:bibliographicCitation "Armstrong (1993), p. 147" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 147_ref" . 
+ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b <http://purl.org/dc/terms/isReferencedBy> ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b_ref . ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b_ref dcterms:bibliographicCitation "Armstrong (1993), p. 147" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "147"^^xsd:string . 
 ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b dc:identifier '9b8df1c1-3c60-43bd-ab03-160e436f3b8b'.
 ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1429,7 +1429,7 @@ ars:activity_ir_9b8df1c1-3c60-43bd-ab03-160e436f3b8b prov:wasAssociatedWith ars:
 
 ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38 rdfs:label 'Armstrong 6.16'@en .
 ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38 rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38 <http://purl.org/dc/terms/isReferencedBy> ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38_ref . ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38_ref dcterms:bibliographicCitation "Armstrong (1993), p. 126" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 126_ref" . 
+ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38 <http://purl.org/dc/terms/isReferencedBy> ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38_ref . ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38_ref dcterms:bibliographicCitation "Armstrong (1993), p. 126" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "126"^^xsd:string . 
 ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38 dc:identifier 'b0869cb0-238a-4876-8c8e-241e68997d38'.
 ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38 prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_b0869cb0-238a-4876-8c8e-241e68997d38 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
@@ -1442,7 +1442,7 @@ ars:activity_ir_b0869cb0-238a-4876-8c8e-241e68997d38 prov:wasAssociatedWith ars:
 
 ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc rdfs:label 'Armstrong 6.161/6.162'.
 ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc rdf:type lado:Armstrong . lado:Armstrong rdfs:subClassOf lado:IconographyType .
-ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc <http://purl.org/dc/terms/isReferencedBy> ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc_ref . ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc_ref dcterms:bibliographicCitation "Armstrong (1993), p. 147" . ars:_ref <http://purl.org/spar/biro/references> "Armstrong (1993), p. 147_ref" . 
+ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc <http://purl.org/dc/terms/isReferencedBy> ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc_ref . ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc_ref rdf:type <http://purl.org/spar/biro/BibliographicReference> . ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc_ref dcterms:bibliographicCitation "Armstrong (1993), p. 147" . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref <http://purl.org/spar/biro/references> ars:armstrong1993thesaurus . ars:ir_46594f78-0e8f-4dd0-a8b6-59c5050cacb8_ref bibo:pages "147"^^xsd:string . 
 ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc dc:identifier '5cc95d56-248a-4b1b-8069-8b947c6b66dc'.
 ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc prov:wasAttributedTo ars:ImportPythonScript_ARS3D .
 ars:ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc prov:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> .
