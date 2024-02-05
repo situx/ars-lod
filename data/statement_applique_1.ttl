@@ -16,6 +16,7 @@ PREFIX wd: <http://www.wikidata.org/entity/>
  PREFIX pelagios: <http://pelagios.github.io/vocab/terms#> 
 PREFIX oa: <http://www.w3.org/ns/oa#> 
 PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX bibo: <http://purl.org/ontology/bibo/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/> 
 PREFIX relations: <http://pelagios.github.io/vocab/relations#> 
 PREFIX cnt: <http://www.w3.org/2011/content#> 
