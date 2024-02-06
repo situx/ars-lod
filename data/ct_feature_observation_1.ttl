@@ -13,7 +13,8 @@ PREFIX lado: <http://archaeology.link/ontology#>
 PREFIX ars: <http://data.archaeology.link/data/ars/> 
 PREFIX wd: <http://www.wikidata.org/entity/> 
  PREFIX pelagios: <http://pelagios.github.io/vocab/terms#> 
-PREFIX oa: <http://www.w3.org/ns/oa#> 
+PREFIX oa: <http://www.w3.org/ns/oa#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
 PREFIX dcterms: <http://purl.org/dc/terms/> 
 PREFIX foaf: <http://xmlns.com/foaf/0.1/> 
 PREFIX relations: <http://pelagios.github.io/vocab/relations#> 
