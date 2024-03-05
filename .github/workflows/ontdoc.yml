@@ -9,7 +9,7 @@ jobs:
     name: Ontdoc I      
     with: 
           rdffilepath: merged.ttl
-          version: v017dev
+          version: v017
           docpath: docs/
           prefixns: http://data.archaeology.link/data/ars/
           prefixnsshort: ars
