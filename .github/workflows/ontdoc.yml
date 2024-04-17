@@ -13,7 +13,7 @@ jobs:
           docpath: docs/
           prefixns: http://data.archaeology.link/data/ars/
           prefixnsshort: ars
-          indexpages: true
+          indexpages: true 
           metadatatable: true
           createcollections: true
           iiif: true
