@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
     
-  ontdocI:
+  ontdocI: 
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     name: Ontdoc I      
     with: 
