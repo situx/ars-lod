@@ -14,7 +14,7 @@ There is also a documentation website which can be accessed by <https://rgzm.git
 -   Louise Rokohl (RGZM)        
     
 ## Accessibility    
-  
+   
 This dataset can be accessed in the following ways:
 * As HTML using the [Github page](https://RGZM.github.io/ars-lod/) of this repository
 * Using the static IIIF Presentation API provided by this repository, e.g., in the provided [IIIF Viewer in JavaScript](https://RGZM.github.io/ars-lod/iiif/)
