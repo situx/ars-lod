@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_bdf3acde-c96f-4048-819b-efdf2f1d8f95> a ns2:Atlante,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Atlante 13"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/01314332-4213-4d75-ab7c-c978f5c23044.png>,
+        <https://zenodo.org/record/5645237/files/32e2e24d-93a2-49ab-9d2f-f718d2a5b3f6.png> ;
+    dc:identifier "bdf3acde-c96f-4048-819b-efdf2f1d8f95" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_bdf3acde-c96f-4048-819b-efdf2f1d8f95_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_bdf3acde-c96f-4048-819b-efdf2f1d8f95> .
+

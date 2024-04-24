@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86> a ns2:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Orpheus I" ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/5622310d-4eaa-4cf1-a524-9bef74ff124c.png>,
+        <https://zenodo.org/record/5645237/files/9b504e9a-39c3-4e6f-9fd6-7e2eabcc4e26.png> ;
+    dc:identifier "f35e711e-a68d-44ac-a2f5-3db52fde1a86" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_f35e711e-a68d-44ac-a2f5-3db52fde1a86> .
+

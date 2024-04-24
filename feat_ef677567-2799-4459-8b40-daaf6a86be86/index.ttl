@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/oa#> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_ef677567-2799-4459-8b40-daaf6a86be86> a ns2:AppliqueNegative,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "medallion 18"@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/fishes>,
+        <http://data.archaeology.link/data/ars/medallion> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/stamped_decorated> ;
+    dc:identifier "ef677567-2799-4459-8b40-daaf6a86be86" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:hasTarget <http://data.archaeology.link/data/ars/feat_ef677567-2799-4459-8b40-daaf6a86be86_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_ef677567-2799-4459-8b40-daaf6a86be86> ;
+    foaf:image <https://zenodo.org/record/5645237/files/ef677567-2799-4459-8b40-daaf6a86be86.png> .
+

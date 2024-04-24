@@ -1,0 +1,39 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_48ea1d18-6f68-4722-911c-39b91f7a4dc8> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "lamp with Christ"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_48ea1d18-6f68-4722-911c-39b91f7a4dc8_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031153> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_11a0bd30-41f3-430e-8566-6903dc8a4945>,
+        <http://data.archaeology.link/data/ars/feat_3a9e48ac-7411-41db-8cbb-76708ad402ee>,
+        <http://data.archaeology.link/data/ars/feat_5961a45c-73f6-4621-8f80-e039f31e63a8>,
+        <http://data.archaeology.link/data/ars/feat_5a6d066b-d355-4295-a079-071c2ac2a24f>,
+        <http://data.archaeology.link/data/ars/feat_969bccba-b282-40e2-b924-718766b29c69>,
+        <http://data.archaeology.link/data/ars/feat_a4e99b53-8315-4c0b-a7a3-4ca181c68bf1>,
+        <http://data.archaeology.link/data/ars/feat_eb73897a-b2df-4100-ad56-cb8843ba2534>,
+        <http://data.archaeology.link/data/ars/feat_f1cd8a34-3efb-48d6-9dba-674027f5eda1> ;
+    ns1:inventoryNumber "O.39603 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06> ;
+    dc:identifier "48ea1d18-6f68-4722-911c-39b91f7a4dc8" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/lamp> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/completeCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_330_370_to_early_5_century_AD_time> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_48ea1d18-6f68-4722-911c-39b91f7a4dc8> ;
+    foaf:image <https://zenodo.org/record/5645180/files/48ea1d18-6f68-4722-911c-39b91f7a4dc8.jpg> .
+

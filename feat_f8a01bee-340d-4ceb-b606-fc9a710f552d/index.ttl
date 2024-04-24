@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_f8a01bee-340d-4ceb-b606-fc9a710f552d> a ns1:Applique_Part,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "fish"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/fish> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_550da086-c5fd-4037-a8f8-d79c2726eda0> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "f8a01bee-340d-4ceb-b606-fc9a710f552d" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_f8a01bee-340d-4ceb-b606-fc9a710f552d_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_f8a01bee-340d-4ceb-b606-fc9a710f552d> ;
+    foaf:image <https://zenodo.org/record/5645237/files/f8a01bee-340d-4ceb-b606-fc9a710f552d.png> .
+

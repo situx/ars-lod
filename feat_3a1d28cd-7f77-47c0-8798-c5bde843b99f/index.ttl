@@ -1,0 +1,26 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_3a1d28cd-7f77-47c0-8798-c5bde843b99f> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "man"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/Achilles>,
+        <http://data.archaeology.link/data/ars/man> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5>,
+        <http://data.archaeology.link/data/ars/ir_d88d0b2a-7a69-4e0b-9326-5d7744cb58fd>,
+        <http://data.archaeology.link/data/ars/ir_e0936d7a-e0c7-4769-9cd3-48c1ebb1bd44> ;
+    dc:identifier "3a1d28cd-7f77-47c0-8798-c5bde843b99f" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_3a1d28cd-7f77-47c0-8798-c5bde843b99f_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_3a1d28cd-7f77-47c0-8798-c5bde843b99f> ;
+    foaf:image <https://zenodo.org/record/5645237/files/3a1d28cd-7f77-47c0-8798-c5bde843b99f.png> .
+

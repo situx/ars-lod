@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_ae778786-4fca-443d-951c-a4c001754d7d> a ns2:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Hercules II" ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/1fb35385-02b6-4535-a1a3-a03c06689847.png>,
+        <https://zenodo.org/record/5645237/files/54155b59-0371-475b-9da3-9adec7475e33.png> ;
+    dc:identifier "ae778786-4fca-443d-951c-a4c001754d7d" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_ae778786-4fca-443d-951c-a4c001754d7d_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_ae778786-4fca-443d-951c-a4c001754d7d> .
+

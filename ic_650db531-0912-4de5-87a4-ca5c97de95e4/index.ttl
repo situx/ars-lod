@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_650db531-0912-4de5-87a4-ca5c97de95e4> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "rectangular dish fragment"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_650db531-0912-4de5-87a4-ca5c97de95e4_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031623> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_4f7371a0-5515-40db-be03-dd2366d1ab63> ;
+    ns1:inventoryNumber "O.41410 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns1:number 1 ;
+    dc:identifier "650db531-0912-4de5-87a4-ca5c97de95e4" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/rectangularDish> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_650db531-0912-4de5-87a4-ca5c97de95e4> ;
+    foaf:image <https://zenodo.org/record/5645180/files/650db531-0912-4de5-87a4-ca5c97de95e4.jpg> .
+

@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_c2f5bec0-1bee-49a1-b68f-d805d9c4b3b5> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "dish with animal hunt"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_c2f5bec0-1bee-49a1-b68f-d805d9c4b3b5_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031263> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_c9125292-7c62-4088-bfa9-2070a50b7a87> ;
+    ns1:inventoryNumber "O.40824 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000018> ;
+    dc:identifier "c2f5bec0-1bee-49a1-b68f-d805d9c4b3b5" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/dish> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_mid_late_4_century_AD_time> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_c2f5bec0-1bee-49a1-b68f-d805d9c4b3b5> ;
+    foaf:image <https://zenodo.org/record/5645180/files/c2f5bec0-1bee-49a1-b68f-d805d9c4b3b5.jpg> .
+
