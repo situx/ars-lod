@@ -1,0 +1,14 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_8f020e4a-deb9-4ed5-a51f-a88ffa43033e_geom> a <http://www.opengis.net/ont/sf#Polygon>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <http://www.w3.org/ns/oa#WKTSelector>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "3D Annotation target selector of Annotation of feat_8f020e4a-deb9-4ed5-a51f-a88ffa43033e"@en ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    geo:inSRS <http://data.archaeology.link/data/ars/cartesian_ax3_mm> ;
+    rdf:value "<http://archaeology.link/ontology#Local3DCoordinateSystem> POLYGON Z ((-10.002959617152284 62.399752299167375 -25.584849779588012, -5.392344756272831 65.94637911522848 -25.78585488196927, 1.3462461942432897 65.59171643362237 -25.905127421326824, 3.474222283879956 62.63619408690478 -25.677395422333802, 5.720419267385331 56.48870760573217 -25.687458875707307, 3.7106640716173676 51.75987185098403 -25.640811241160236, -1.018171683130788 49.75011665521606 -25.60467476548115, -5.392344756272831 51.40520916937791 -25.615720755576376, -6.692774588828575 51.99631363872143 -25.616271114161236, -8.347867102990426 52.82385989580236 -25.65864958783527, -9.411855147808767 54.47895240996422 -25.74931210708428, -9.884738723283583 57.43447475668181 -25.74464441068403,-10.002959617152284 62.399752299167375 -25.584849779588012))"^^<http://www.w3.org/ns/oa#wktLiteral> .
+

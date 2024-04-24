@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_b5ba7f55-f5c0-4619-97b9-1f4a8afeba74> a ns2:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould men and charioteer"@en ;
+    ns2:3dmodel <http://data.archaeology.link/data/ars/ic_b5ba7f55-f5c0-4619-97b9-1f4a8afeba74_3dmodel> ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031731> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_6589e476-ccef-4871-a8c1-ca97206bf331>,
+        <http://data.archaeology.link/data/ars/feat_b5128119-c09e-4089-add7-81c89644db15>,
+        <http://data.archaeology.link/data/ars/feat_bd9d205b-2750-4a2b-8f41-523663cbe99a>,
+        <http://data.archaeology.link/data/ars/feat_d443e21e-e7f7-4148-b20c-7f9b20b64297> ;
+    ns2:inventoryNumber "O.41823 (RGZM)" ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns2:number 1 ;
+    dc:identifier "b5ba7f55-f5c0-4619-97b9-1f4a8afeba74" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/mould> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/unknownCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/plaster> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_b5ba7f55-f5c0-4619-97b9-1f4a8afeba74> ;
+    foaf:image <https://zenodo.org/record/5645180/files/b5ba7f55-f5c0-4619-97b9-1f4a8afeba74.jpg> .
+

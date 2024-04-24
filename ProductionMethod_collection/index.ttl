@@ -1,0 +1,17 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ProductionMethod_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "ProductionMethod Instances Collection"@en ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    rdfs:member <http://data.archaeology.link/data/ars/applied_decorated>,
+        <http://data.archaeology.link/data/ars/incised_decorated>,
+        <http://data.archaeology.link/data/ars/mould-made_relief_decorated>,
+        <http://data.archaeology.link/data/ars/mould_made>,
+        <http://data.archaeology.link/data/ars/nan>,
+        <http://data.archaeology.link/data/ars/potter_wheel>,
+        <http://data.archaeology.link/data/ars/stamped_decorated> .
+

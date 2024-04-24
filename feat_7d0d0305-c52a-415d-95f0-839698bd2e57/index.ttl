@@ -1,0 +1,26 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_7d0d0305-c52a-415d-95f0-839698bd2e57> a ns1:Applique_Part,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "soldier with infant"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/infant>,
+        <http://data.archaeology.link/data/ars/short_tunic>,
+        <http://data.archaeology.link/data/ars/soldier>,
+        <http://data.archaeology.link/data/ars/tunic> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_07d1bb6a-1e85-48ab-a1b4-bc5401e0cdae> ;
+    dc:identifier "7d0d0305-c52a-415d-95f0-839698bd2e57" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_7d0d0305-c52a-415d-95f0-839698bd2e57_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_7d0d0305-c52a-415d-95f0-839698bd2e57> ;
+    foaf:image <https://zenodo.org/record/5645237/files/7d0d0305-c52a-415d-95f0-839698bd2e57.png> .
+

@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_1fa4014c-4e32-478c-8aa1-6632253f6fff> a ns3:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with boat and octopus"@en ;
+    ns3:3dmodel <http://data.archaeology.link/data/ars/ic_1fa4014c-4e32-478c-8aa1-6632253f6fff_3dmodel> ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031615> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_2bdd9d2a-8105-4678-acf3-ffbce7ade29c>,
+        <http://data.archaeology.link/data/ars/feat_7d97ca49-d4ab-431d-8254-61807c35eafb>,
+        <http://data.archaeology.link/data/ars/feat_a5db8da3-df61-4c02-afe8-0ab2401fd2c3>,
+        <http://data.archaeology.link/data/ars/feat_e9cfe712-7067-46ca-adba-c74d59d85574> ;
+    ns3:inventoryNumber "O.40522 (RGZM)" ;
+    ns3:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns3:number 1 ;
+    ns3:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000017> ;
+    dc:identifier "1fa4014c-4e32-478c-8aa1-6632253f6fff" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:P41_classified <http://data.archaeology.link/data/ars/bowl> ;
+    ns1:P44_has_condition <http://data.archaeology.link/data/ars/reconstructedCondition> ;
+    ns1:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_1fa4014c-4e32-478c-8aa1-6632253f6fff> ;
+    foaf:image <https://zenodo.org/record/5645180/files/1fa4014c-4e32-478c-8aa1-6632253f6fff.jpg> .
+

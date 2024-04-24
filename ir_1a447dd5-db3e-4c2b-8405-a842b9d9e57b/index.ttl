@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b> a ns2:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Bacchus II" ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/0117a207-e0cf-4ab0-a23f-7c134b4a1bec.png> ;
+    dc:identifier "1a447dd5-db3e-4c2b-8405-a842b9d9e57b" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_1a447dd5-db3e-4c2b-8405-a842b9d9e57b> .
+

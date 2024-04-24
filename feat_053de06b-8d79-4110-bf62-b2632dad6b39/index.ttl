@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_053de06b-8d79-4110-bf62-b2632dad6b39> a ns3:Mould_Part,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "wreath"@en ;
+    ns3:depicts <http://data.archaeology.link/data/ars/wreath> ;
+    ns3:depictsReference <http://data.archaeology.link/data/ars/ir_817f9747-1443-4d5a-a245-619b64f609f4> ;
+    dc:identifier "053de06b-8d79-4110-bf62-b2632dad6b39" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_053de06b-8d79-4110-bf62-b2632dad6b39_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_053de06b-8d79-4110-bf62-b2632dad6b39> ;
+    foaf:image <https://zenodo.org/record/5645237/files/053de06b-8d79-4110-bf62-b2632dad6b39.png> .
+

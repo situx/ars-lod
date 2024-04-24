@@ -1,0 +1,42 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_bf0c2b78-5f24-48f5-91a2-d2221259e097> a ns1:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould charioteer"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_bf0c2b78-5f24-48f5-91a2-d2221259e097_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031663> ;
+    ns1:arachneModelID <http://arachne.dainst.org/entity/7031664> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_103f2599-059d-43b0-8676-548ede4ab13d>,
+        <http://data.archaeology.link/data/ars/feat_12d9cdbd-0a85-46a5-94e2-c25ebc4fdfbb>,
+        <http://data.archaeology.link/data/ars/feat_260fdca4-8447-4d37-8e66-4e98ec9cc72b>,
+        <http://data.archaeology.link/data/ars/feat_472b590e-4f2b-4adb-b3b6-1b9327a6462c>,
+        <http://data.archaeology.link/data/ars/feat_71eebd3d-3880-4972-aedd-3c3936f127c7>,
+        <http://data.archaeology.link/data/ars/feat_758c5e97-82f5-44cf-b57b-db35f15ee40f>,
+        <http://data.archaeology.link/data/ars/feat_81eab972-4a8b-48eb-95a6-ab1755a2fd8e>,
+        <http://data.archaeology.link/data/ars/feat_8b626554-030f-46b2-a326-74fb00c7354a>,
+        <http://data.archaeology.link/data/ars/feat_9dac75c4-012a-4741-969f-081452bf0111>,
+        <http://data.archaeology.link/data/ars/feat_a123c40a-bcc6-4aba-bb11-09b6a7b09c4c>,
+        <http://data.archaeology.link/data/ars/feat_a2a0691b-1927-4248-bb28-b0695226b9cb>,
+        <http://data.archaeology.link/data/ars/feat_de746841-8890-4e4f-afc8-e9fd771dcded>,
+        <http://data.archaeology.link/data/ars/feat_e34a3c39-a839-4d1d-9f09-59f9a22399d5> ;
+    ns1:inventoryNumber "O.39783 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns1:number 1 ;
+    dc:identifier "bf0c2b78-5f24-48f5-91a2-d2221259e097" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/mould> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/completeCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/plaster> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_bf0c2b78-5f24-48f5-91a2-d2221259e097> ;
+    foaf:image <https://zenodo.org/record/5645180/files/bf0c2b78-5f24-48f5-91a2-d2221259e097.jpg> .
+

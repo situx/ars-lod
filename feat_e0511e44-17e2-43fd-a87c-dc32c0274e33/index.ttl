@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_e0511e44-17e2-43fd-a87c-dc32c0274e33> a ns2:Applique_Part,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "ram"@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/ram>,
+        <http://data.archaeology.link/data/ars/sea_animal> ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_753a4403-735b-408c-ab27-7fc8a5d6d55c> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "e0511e44-17e2-43fd-a87c-dc32c0274e33" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_e0511e44-17e2-43fd-a87c-dc32c0274e33_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_e0511e44-17e2-43fd-a87c-dc32c0274e33> ;
+    foaf:image <https://zenodo.org/record/5645237/files/e0511e44-17e2-43fd-a87c-dc32c0274e33.png> .
+

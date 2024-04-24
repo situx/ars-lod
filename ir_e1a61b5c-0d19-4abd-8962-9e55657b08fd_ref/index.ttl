@@ -1,0 +1,11 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_e1a61b5c-0d19-4abd-8962-9e55657b08fd_ref> a <http://purl.org/spar/biro/BibliographicReference>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein (2015), pp. 478-480" ;
+    dcterms:bibliographicCitation "Löwenstein (2015), pp. 478-480" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> .
+

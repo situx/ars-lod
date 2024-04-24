@@ -1,0 +1,27 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/Interval_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Interval Instances Collection"@en ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    rdfs:member <http://data.archaeology.link/data/ars/Late_antiquity_early_5_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquit_mid_late_5_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_260_320_or_mid_late_4_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_280_300_to_late_4_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_290_300_375_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_310_320_430_450_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_330_370_to_early_5_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_350_355_450_475_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_350_430_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_420_450_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_430_500_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_4_5_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_4_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_5_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_early_6_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_late_4_or_early_5_century_AD_time>,
+        <http://data.archaeology.link/data/ars/late_antiquity_mid_late_4_century_AD_time> .
+

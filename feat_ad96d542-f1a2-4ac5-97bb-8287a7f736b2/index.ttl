@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_ad96d542-f1a2-4ac5-97bb-8287a7f736b2> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Hercules"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/Hercules>,
+        <http://data.archaeology.link/data/ars/bow>,
+        <http://data.archaeology.link/data/ars/club>,
+        <http://data.archaeology.link/data/ars/man>,
+        <http://data.archaeology.link/data/ars/quiver> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_5b031e22-f2d7-4ca2-94bc-f08b4cf4ef38>,
+        <http://data.archaeology.link/data/ars/ir_86d93d6c-e50d-4a96-ad23-b4931fe7d886> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "ad96d542-f1a2-4ac5-97bb-8287a7f736b2" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_ad96d542-f1a2-4ac5-97bb-8287a7f736b2_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_ad96d542-f1a2-4ac5-97bb-8287a7f736b2> ;
+    foaf:image <https://zenodo.org/record/5645237/files/ad96d542-f1a2-4ac5-97bb-8287a7f736b2.png> .
+

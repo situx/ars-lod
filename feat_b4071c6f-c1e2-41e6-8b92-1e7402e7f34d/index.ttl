@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_b4071c6f-c1e2-41e6-8b92-1e7402e7f34d> a ns1:Mould,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "venator"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/venator> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_354ad698-1d48-446d-ab94-3d3b0ffc4eed> ;
+    dc:identifier "b4071c6f-c1e2-41e6-8b92-1e7402e7f34d" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_b4071c6f-c1e2-41e6-8b92-1e7402e7f34d_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_b4071c6f-c1e2-41e6-8b92-1e7402e7f34d> ;
+    foaf:image <https://zenodo.org/record/5645237/files/b4071c6f-c1e2-41e6-8b92-1e7402e7f34d.png> .
+
