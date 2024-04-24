@@ -1,0 +1,36 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_25b40190-bc1f-4848-b1dc-6117f52beb19> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "lamp with tree house"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_25b40190-bc1f-4848-b1dc-6117f52beb19_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031173> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_4c423176-cc85-4472-b2bb-504c22bccb5f>,
+        <http://data.archaeology.link/data/ars/feat_5b342103-e37c-45ea-ad19-a0c2a1a81093>,
+        <http://data.archaeology.link/data/ars/feat_79febc62-ab48-4f63-af8b-8fade3ca1cb2>,
+        <http://data.archaeology.link/data/ars/feat_866d5b0f-4a01-4457-aea3-b8f0f28eefdf>,
+        <http://data.archaeology.link/data/ars/feat_acb42705-23f0-43b3-9763-139475735d7a> ;
+    ns1:inventoryNumber "O.41638 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06> ;
+    dc:identifier "25b40190-bc1f-4848-b1dc-6117f52beb19" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/lamp> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/completeCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_330_370_to_early_5_century_AD_time> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_25b40190-bc1f-4848-b1dc-6117f52beb19> ;
+    foaf:image <https://zenodo.org/record/5645180/files/25b40190-bc1f-4848-b1dc-6117f52beb19.jpg> .
+

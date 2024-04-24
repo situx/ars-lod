@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_5feac1b7-0170-4e9c-8bee-4e6656dfe5e1> a ns2:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "lion"@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/lion> ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_63385135-ddf0-48f4-8dbd-0127a9aa1e34> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "5feac1b7-0170-4e9c-8bee-4e6656dfe5e1" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_5feac1b7-0170-4e9c-8bee-4e6656dfe5e1_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_5feac1b7-0170-4e9c-8bee-4e6656dfe5e1> ;
+    foaf:image <https://zenodo.org/record/5645237/files/5feac1b7-0170-4e9c-8bee-4e6656dfe5e1.png> .
+

@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af> a ns1:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Hercules im Kampf mit der Amazone Hippolyte" ;
+    ns1:hasImage <https://zenodo.org/record/5645237/files/de66412a-4d67-4596-a7bd-6071922415e2.png> ;
+    dc:identifier "8d07860d-3a50-4f7a-94f4-0dd1f65780af" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af> .
+

@@ -1,0 +1,26 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_579337b5-62e0-4715-abea-3f13e2f54766> a ns2:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "leaf (front)" ;
+    ns2:depicts <http://data.archaeology.link/data/ars/leaf>,
+        <http://data.archaeology.link/data/ars/oak> ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_6db5456e-ed8b-4cfc-911f-863f057dfb57>,
+        <http://data.archaeology.link/data/ars/ir_ac6d25d9-4901-4657-82e7-082a5886e6b0> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "579337b5-62e0-4715-abea-3f13e2f54766" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_579337b5-62e0-4715-abea-3f13e2f54766_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_579337b5-62e0-4715-abea-3f13e2f54766> ;
+    foaf:image <https://zenodo.org/record/5645237/files/579337b5-62e0-4715-abea-3f13e2f54766.png> .
+

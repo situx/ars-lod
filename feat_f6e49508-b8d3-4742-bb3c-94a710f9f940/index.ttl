@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_f6e49508-b8d3-4742-bb3c-94a710f9f940> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "boat"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/erots>,
+        <http://data.archaeology.link/data/ars/ship> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_e61b4e39-11c4-49d4-ada3-6c15cd363826> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "f6e49508-b8d3-4742-bb3c-94a710f9f940" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_f6e49508-b8d3-4742-bb3c-94a710f9f940_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_f6e49508-b8d3-4742-bb3c-94a710f9f940> ;
+    foaf:image <https://zenodo.org/record/5645237/files/f6e49508-b8d3-4742-bb3c-94a710f9f940.png> .
+

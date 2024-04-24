@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_decd267a-eece-49b2-8458-02edc1f61eae> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "hunter"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/hunter>,
+        <http://data.archaeology.link/data/ars/long-sleeved_short_belted_tunic>,
+        <http://data.archaeology.link/data/ars/tunic> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_41982ed6-8ddb-4701-bd2f-e2474b708cab> ;
+    dc:identifier "decd267a-eece-49b2-8458-02edc1f61eae" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_decd267a-eece-49b2-8458-02edc1f61eae_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_decd267a-eece-49b2-8458-02edc1f61eae> ;
+    foaf:image <https://zenodo.org/record/5645237/files/decd267a-eece-49b2-8458-02edc1f61eae.png> .
+

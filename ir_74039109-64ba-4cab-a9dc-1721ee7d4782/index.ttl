@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_74039109-64ba-4cab-a9dc-1721ee7d4782> a ns2:Hayes,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Hayes 24 (C´ Ware)" ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/82b25169-2301-42ec-a2d8-61f779b6c9cc.png>,
+        <https://zenodo.org/record/5645237/files/968599cd-389c-4289-b675-3928f20a39b7.png>,
+        <https://zenodo.org/record/5645237/files/d1b067cb-3c50-4bcb-8490-8b4afab95681.png>,
+        <https://zenodo.org/record/5645237/files/dad89bed-929a-4968-8a14-9d66719be323.png>,
+        <https://zenodo.org/record/5645237/files/eda04b76-38e1-4156-aa33-39042efa01ef.png> ;
+    dc:identifier "74039109-64ba-4cab-a9dc-1721ee7d4782" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_74039109-64ba-4cab-a9dc-1721ee7d4782_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_74039109-64ba-4cab-a9dc-1721ee7d4782> .
+

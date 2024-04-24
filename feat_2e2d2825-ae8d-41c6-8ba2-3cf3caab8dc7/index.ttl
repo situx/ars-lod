@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_2e2d2825-ae8d-41c6-8ba2-3cf3caab8dc7> a ns2:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "person 2"@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/man>,
+        <http://data.archaeology.link/data/ars/woman> ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_74a3e848-7552-498c-bf65-8cf230598054>,
+        <http://data.archaeology.link/data/ars/ir_d88d0b2a-7a69-4e0b-9326-5d7744cb58fd> ;
+    dc:identifier "2e2d2825-ae8d-41c6-8ba2-3cf3caab8dc7" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_2e2d2825-ae8d-41c6-8ba2-3cf3caab8dc7_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_2e2d2825-ae8d-41c6-8ba2-3cf3caab8dc7> ;
+    foaf:image <https://zenodo.org/record/5645237/files/2e2d2825-ae8d-41c6-8ba2-3cf3caab8dc7.png> .
+

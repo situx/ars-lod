@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_8c1f9a92-ed49-4d30-913e-1e8dbe786235> a ns2:Applique_Part,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "boy"@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/boy> ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_576c9db2-4395-4377-9921-dc363831d8f5>,
+        <http://data.archaeology.link/data/ars/ir_c30c01b2-9c7e-45ec-833b-f734e1000002> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/mould-made_relief_decorated> ;
+    dc:identifier "8c1f9a92-ed49-4d30-913e-1e8dbe786235" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_8c1f9a92-ed49-4d30-913e-1e8dbe786235_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_8c1f9a92-ed49-4d30-913e-1e8dbe786235> ;
+    foaf:image <https://zenodo.org/record/5645237/files/8c1f9a92-ed49-4d30-913e-1e8dbe786235.png> .
+

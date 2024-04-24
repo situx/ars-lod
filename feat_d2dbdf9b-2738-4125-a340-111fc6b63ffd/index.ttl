@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_d2dbdf9b-2738-4125-a340-111fc6b63ffd> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "man and woman"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/Christ>,
+        <http://data.archaeology.link/data/ars/man>,
+        <http://data.archaeology.link/data/ars/mantle>,
+        <http://data.archaeology.link/data/ars/woman>,
+        <http://data.archaeology.link/data/ars/woman_with_the_issue_of_blood> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_27a000d5-cee3-412d-9810-396bc7852a47>,
+        <http://data.archaeology.link/data/ars/ir_f5d7071e-00ff-4674-9dae-b8f93b15d371> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "d2dbdf9b-2738-4125-a340-111fc6b63ffd" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_d2dbdf9b-2738-4125-a340-111fc6b63ffd_target> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_d2dbdf9b-2738-4125-a340-111fc6b63ffd> ;
+    foaf:image <https://zenodo.org/record/5645237/files/d2dbdf9b-2738-4125-a340-111fc6b63ffd.png> .
+

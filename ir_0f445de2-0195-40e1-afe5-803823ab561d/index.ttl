@@ -1,0 +1,12 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_0f445de2-0195-40e1-afe5-803823ab561d> a <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    ns1:hasImage <https://zenodo.org/record/5645237/files/1539d6be-54e8-4ba3-a984-bcc51512723c.png>,
+        <https://zenodo.org/record/5645237/files/17cc59b9-00ee-4fac-a446-21d7264bc12e.png>,
+        <https://zenodo.org/record/5645237/files/a797717c-4926-4877-b7ae-999a295ec115.png>,
+        <https://zenodo.org/record/5645237/files/e8525731-d290-4983-86ca-2848b2999209.png>,
+        <https://zenodo.org/record/5645237/files/fb0a1a5d-6d39-4229-8e34-aaf58c0909d9.png> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> .
+

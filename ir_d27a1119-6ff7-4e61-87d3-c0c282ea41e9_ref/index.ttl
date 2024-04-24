@@ -1,0 +1,11 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_d27a1119-6ff7-4e61-87d3-c0c282ea41e9_ref> a <http://purl.org/spar/biro/BibliographicReference>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Hayes (1972), p. 248" ;
+    dcterms:bibliographicCitation "Hayes (1972), p. 248" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> .
+
