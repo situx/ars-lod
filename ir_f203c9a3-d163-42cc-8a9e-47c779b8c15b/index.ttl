@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b> a ns2:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Übergabe Achills an Chiron" ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/0d8e450d-acb6-4037-9594-c5bc925f1895.png>,
+        <https://zenodo.org/record/5645237/files/805d9fd1-eca8-48a0-9152-25f7b249badb.png>,
+        <https://zenodo.org/record/5645237/files/8d7ba213-4c61-4102-8632-b0cad31a3b8b.png>,
+        <https://zenodo.org/record/5645237/files/976d4dbf-50b5-4084-b634-b17e1a63eeee.png>,
+        <https://zenodo.org/record/5645237/files/d4d94744-239b-4920-979f-a17c5632fec3.png>,
+        <https://zenodo.org/record/5645237/files/d6e9a107-8fd3-484b-84a5-8cc07704d3b8.png>,
+        <https://zenodo.org/record/5645237/files/f07de970-4586-4578-bdc1-8e531092f8a4.png> ;
+    dc:identifier "f203c9a3-d163-42cc-8a9e-47c779b8c15b" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b> .
+

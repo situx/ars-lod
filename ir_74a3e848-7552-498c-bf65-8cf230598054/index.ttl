@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_74a3e848-7552-498c-bf65-8cf230598054> a ns2:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Hochzeit der Thetis" ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/200eb3e0-8a1f-4a58-a95c-9f25e8b45d0d.png>,
+        <https://zenodo.org/record/5645237/files/23e5ef64-c77f-4667-a018-d5bbb10a0a6e.png>,
+        <https://zenodo.org/record/5645237/files/271076c4-f947-45ad-992d-9cfa4ae4ba39.png>,
+        <https://zenodo.org/record/5645237/files/28ceb163-d349-417a-8ad7-6110fc9e523f.png>,
+        <https://zenodo.org/record/5645237/files/2e2d2825-ae8d-41c6-8ba2-3cf3caab8dc7.png>,
+        <https://zenodo.org/record/5645237/files/3f756838-f5cd-4089-8e79-3eb5817b715e.png>,
+        <https://zenodo.org/record/5645237/files/4b0d407c-909c-4764-88fe-96ac37418e9b.png>,
+        <https://zenodo.org/record/5645237/files/865b8fa3-bbe8-4af2-86c8-b784d9929298.png>,
+        <https://zenodo.org/record/5645237/files/88e10f7e-9e6a-4885-916b-95d12530ffbb.png>,
+        <https://zenodo.org/record/5645237/files/c1c3d162-1c3d-4c8c-8e24-c13eee88378d.png>,
+        <https://zenodo.org/record/5645237/files/e8ad1766-4f2b-4499-b43d-a1cff1fa7314.png> ;
+    dc:identifier "74a3e848-7552-498c-bf65-8cf230598054" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_74a3e848-7552-498c-bf65-8cf230598054_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_74a3e848-7552-498c-bf65-8cf230598054> .
+

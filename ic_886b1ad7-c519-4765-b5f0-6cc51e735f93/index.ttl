@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_886b1ad7-c519-4765-b5f0-6cc51e735f93> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with man and rod"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_886b1ad7-c519-4765-b5f0-6cc51e735f93_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031331> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_81be8203-3b76-486d-b0ec-657237ef4bcc>,
+        <http://data.archaeology.link/data/ars/feat_b4ce05d7-29d1-4953-964a-09d7f2590f82> ;
+    ns1:inventoryNumber "O.40788 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    dc:identifier "886b1ad7-c519-4765-b5f0-6cc51e735f93" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/bowl> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_310_320_430_450_AD_time> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_886b1ad7-c519-4765-b5f0-6cc51e735f93> ;
+    foaf:image <https://zenodo.org/record/5645180/files/886b1ad7-c519-4765-b5f0-6cc51e735f93.jpg> .
+

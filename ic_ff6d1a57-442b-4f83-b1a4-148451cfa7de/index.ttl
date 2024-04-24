@@ -1,0 +1,34 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_ff6d1a57-442b-4f83-b1a4-148451cfa7de> a ns2:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "rectangular dish with man and sceptre"@en ;
+    ns2:3dmodel <http://data.archaeology.link/data/ars/ic_ff6d1a57-442b-4f83-b1a4-148451cfa7de_3dmodel> ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031515> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_3730bf30-ad94-48b1-a0f6-ac3c247e01c9>,
+        <http://data.archaeology.link/data/ars/feat_af66cd50-a178-449f-8f9f-bb2bbb495140>,
+        <http://data.archaeology.link/data/ars/feat_d8ca2367-3360-4e23-8172-81024d18027d> ;
+    ns2:inventoryNumber "O.40849 (RGZM)" ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000019> ;
+    dc:identifier "ff6d1a57-442b-4f83-b1a4-148451cfa7de" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/rectangularDish> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_350_355_450_475_AD_time> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_ff6d1a57-442b-4f83-b1a4-148451cfa7de> ;
+    foaf:image <https://zenodo.org/record/5645180/files/ff6d1a57-442b-4f83-b1a4-148451cfa7de.jpg> .
+

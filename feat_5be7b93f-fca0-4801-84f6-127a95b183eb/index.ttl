@@ -1,0 +1,28 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_5be7b93f-fca0-4801-84f6-127a95b183eb> a ns2:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Mithras killing bull "@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/Mithras>,
+        <http://data.archaeology.link/data/ars/bull>,
+        <http://data.archaeology.link/data/ars/dog>,
+        <http://data.archaeology.link/data/ars/man> ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_b6ac3963-49c0-40b4-b03d-5520096e71aa>,
+        <http://data.archaeology.link/data/ars/ir_c5957502-6661-4ac2-be60-9deac9145a3e> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "5be7b93f-fca0-4801-84f6-127a95b183eb" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_5be7b93f-fca0-4801-84f6-127a95b183eb_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_5be7b93f-fca0-4801-84f6-127a95b183eb> ;
+    foaf:image <https://zenodo.org/record/5645237/files/5be7b93f-fca0-4801-84f6-127a95b183eb.png> .
+

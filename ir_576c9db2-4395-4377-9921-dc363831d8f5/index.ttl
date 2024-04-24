@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_576c9db2-4395-4377-9921-dc363831d8f5> a ns1:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Toilette des Pegasus" ;
+    ns1:hasImage <https://zenodo.org/record/5645237/files/144e588a-9e3f-4379-b766-b47d35934487.png>,
+        <https://zenodo.org/record/5645237/files/8c1f9a92-ed49-4d30-913e-1e8dbe786235.png>,
+        <https://zenodo.org/record/5645237/files/94488bcb-f568-4616-86d0-01c94007afb3.png> ;
+    dc:identifier "576c9db2-4395-4377-9921-dc363831d8f5" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_576c9db2-4395-4377-9921-dc363831d8f5_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_576c9db2-4395-4377-9921-dc363831d8f5> .
+

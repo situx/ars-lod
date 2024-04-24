@@ -1,0 +1,30 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_99dd7862-a76a-4a51-905e-8f1aa566b3dc> a ns2:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "man with lyre"@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/Orpheus>,
+        <http://data.archaeology.link/data/ars/lyre>,
+        <http://data.archaeology.link/data/ars/man>,
+        <http://data.archaeology.link/data/ars/mantle>,
+        <http://data.archaeology.link/data/ars/phrygian_cap> ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_2be77faa-280d-4a9f-b93f-54efe607b9c5>,
+        <http://data.archaeology.link/data/ars/ir_5839a023-3397-4a94-9927-9cc30a8c1bbb>,
+        <http://data.archaeology.link/data/ars/ir_cb25391d-e2b9-4e4a-83fb-6c5bb912dfbe> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "99dd7862-a76a-4a51-905e-8f1aa566b3dc" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_99dd7862-a76a-4a51-905e-8f1aa566b3dc_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_99dd7862-a76a-4a51-905e-8f1aa566b3dc> ;
+    foaf:image <https://zenodo.org/record/5645237/files/99dd7862-a76a-4a51-905e-8f1aa566b3dc.png> .
+

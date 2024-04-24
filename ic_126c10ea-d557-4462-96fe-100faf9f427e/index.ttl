@@ -1,0 +1,39 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_126c10ea-d557-4462-96fe-100faf9f427e> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "dish with orant and lions"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_126c10ea-d557-4462-96fe-100faf9f427e_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031233> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_1b71ca33-7166-46d1-8cc4-28a93ef24045>,
+        <http://data.archaeology.link/data/ars/feat_43443102-a88c-41da-9694-0007a5c6f5c7>,
+        <http://data.archaeology.link/data/ars/feat_4ffeeb2e-b7af-44dc-8024-164e6812c79e>,
+        <http://data.archaeology.link/data/ars/feat_5ad7b843-8ff6-4720-99a2-f4faaab11031>,
+        <http://data.archaeology.link/data/ars/feat_66e11f81-c609-4c16-8267-9ee3285fe12e>,
+        <http://data.archaeology.link/data/ars/feat_9c24a9c9-aec1-4a09-bd61-9cfe66681c0b>,
+        <http://data.archaeology.link/data/ars/feat_c351c973-b659-4f0f-ba91-ca41bd95bc34>,
+        <http://data.archaeology.link/data/ars/feat_eebb5f54-cc3b-4273-a83f-96832e189c25> ;
+    ns1:inventoryNumber "O.41398 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7> ;
+    dc:identifier "126c10ea-d557-4462-96fe-100faf9f427e" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/dish> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_mid_late_4_century_AD_time> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_126c10ea-d557-4462-96fe-100faf9f427e> ;
+    foaf:image <https://zenodo.org/record/5645180/files/126c10ea-d557-4462-96fe-100faf9f427e.jpg> .
+

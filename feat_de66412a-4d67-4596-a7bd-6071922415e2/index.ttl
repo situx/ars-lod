@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_de66412a-4d67-4596-a7bd-6071922415e2> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Hercules and woman"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/Hercules>,
+        <http://data.archaeology.link/data/ars/amazon>,
+        <http://data.archaeology.link/data/ars/ax>,
+        <http://data.archaeology.link/data/ars/club>,
+        <http://data.archaeology.link/data/ars/horse>,
+        <http://data.archaeology.link/data/ars/man>,
+        <http://data.archaeology.link/data/ars/short_belted_tunic>,
+        <http://data.archaeology.link/data/ars/tunic>,
+        <http://data.archaeology.link/data/ars/woman> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_8d07860d-3a50-4f7a-94f4-0dd1f65780af>,
+        <http://data.archaeology.link/data/ars/ir_f63ca3ef-8c41-4563-b974-fb9b4da4b72e> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "de66412a-4d67-4596-a7bd-6071922415e2" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_de66412a-4d67-4596-a7bd-6071922415e2_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_de66412a-4d67-4596-a7bd-6071922415e2> ;
+    foaf:image <https://zenodo.org/record/5645237/files/de66412a-4d67-4596-a7bd-6071922415e2.png> .
+

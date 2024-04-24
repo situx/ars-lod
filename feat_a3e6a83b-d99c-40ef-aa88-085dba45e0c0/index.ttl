@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_a3e6a83b-d99c-40ef-aa88-085dba45e0c0> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Cantharus"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/Cantharus> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_c33a6a86-4e71-4d88-b1ae-653eafdc1a0a> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "a3e6a83b-d99c-40ef-aa88-085dba45e0c0" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_a3e6a83b-d99c-40ef-aa88-085dba45e0c0_target> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_a3e6a83b-d99c-40ef-aa88-085dba45e0c0> ;
+    foaf:image <https://zenodo.org/record/5645237/files/a3e6a83b-d99c-40ef-aa88-085dba45e0c0.png> .
+

@@ -1,0 +1,16 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix ns2: <http://purl.org/spar/biro/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ir_25920a83-a3bf-44df-a7b7-b0b2cfc8b7e8_ref> a ns2:BibliographicReference,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Armstrong (1993), p. 164" ;
+    dcterms:bibliographicCitation "Armstrong (1993), p. 164" ;
+    ns1:pages "164"^^xsd:string ;
+    ns2:references <http://data.archaeology.link/data/ars/armstrong1993thesaurus> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> .
+

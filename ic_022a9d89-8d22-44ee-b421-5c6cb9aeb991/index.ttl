@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_022a9d89-8d22-44ee-b421-5c6cb9aeb991> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "lamp fragment with medallions"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_022a9d89-8d22-44ee-b421-5c6cb9aeb991_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031609> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_d1b067cb-3c50-4bcb-8490-8b4afab95681> ;
+    ns1:inventoryNumber "O.42134 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns1:number 1 ;
+    dc:identifier "022a9d89-8d22-44ee-b421-5c6cb9aeb991" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/lamp> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_022a9d89-8d22-44ee-b421-5c6cb9aeb991> ;
+    foaf:image <https://zenodo.org/record/5645180/files/022a9d89-8d22-44ee-b421-5c6cb9aeb991.jpg> .
+

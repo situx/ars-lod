@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_35bb789f-45e8-4167-849a-63c1224bdaad> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with medallions"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_35bb789f-45e8-4167-849a-63c1224bdaad_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031597> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_5260033d-51e6-46de-be9b-ee9832ba02de>,
+        <http://data.archaeology.link/data/ars/feat_57101698-3c74-4fd6-b2b9-3e73e2e47a77>,
+        <http://data.archaeology.link/data/ars/feat_ebbee6ea-a292-47ff-9660-9a2bbc38920e> ;
+    ns1:inventoryNumber "O.40851 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns1:number 1 ;
+    dc:identifier "35bb789f-45e8-4167-849a-63c1224bdaad" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/bowl> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_35bb789f-45e8-4167-849a-63c1224bdaad> ;
+    foaf:image <https://zenodo.org/record/5645180/files/35bb789f-45e8-4167-849a-63c1224bdaad.jpg> .
+

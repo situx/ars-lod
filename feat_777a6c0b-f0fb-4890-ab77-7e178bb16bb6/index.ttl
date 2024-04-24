@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_777a6c0b-f0fb-4890-ab77-7e178bb16bb6> a ns3:Mould,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Oceanus mask 4"@en ;
+    ns3:depicts <http://data.archaeology.link/data/ars/Oceanus>,
+        <http://data.archaeology.link/data/ars/mask> ;
+    dc:identifier "777a6c0b-f0fb-4890-ab77-7e178bb16bb6" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_777a6c0b-f0fb-4890-ab77-7e178bb16bb6_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_777a6c0b-f0fb-4890-ab77-7e178bb16bb6> ;
+    foaf:image <https://zenodo.org/record/5645237/files/777a6c0b-f0fb-4890-ab77-7e178bb16bb6.png> .
+

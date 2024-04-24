@@ -1,0 +1,13 @@
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/activity_pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8> a <http://www.w3.org/ns/ldp#Resource>,
+        prov:Activity,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:endedAtTime "2021-11-12T13:04:44.984482+00:00"^^xsd:dateTime ;
+    ns1:startedAtTime "2021-11-12T13:04:44.973508+00:00"^^xsd:dateTime ;
+    ns1:wasAssociatedWith <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> .
+

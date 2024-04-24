@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_51870859-ea16-46f9-95b3-84792f01d568> a ns3:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "rectangular dish with animal"@en ;
+    ns3:3dmodel <http://data.archaeology.link/data/ars/ic_51870859-ea16-46f9-95b3-84792f01d568_3dmodel> ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031509> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_cfcc9c4e-1122-4626-8240-46fad8fe1d12> ;
+    ns3:inventoryNumber "O.41409 (RGZM)" ;
+    ns3:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns3:number 1 ;
+    ns3:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000019> ;
+    dc:identifier "51870859-ea16-46f9-95b3-84792f01d568" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/rectangularDish> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_350_355_450_475_AD_time> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_51870859-ea16-46f9-95b3-84792f01d568> ;
+    foaf:image <https://zenodo.org/record/5645180/files/51870859-ea16-46f9-95b3-84792f01d568.jpg> .
+

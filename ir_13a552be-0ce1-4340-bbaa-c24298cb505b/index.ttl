@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_13a552be-0ce1-4340-bbaa-c24298cb505b> a ns2:Armstrong,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Armstrong 8.13"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/36db1054-4017-4130-bd97-79bfaf5532cf.png>,
+        <https://zenodo.org/record/5645237/files/3764b3b3-f863-4bb3-916f-4c14d664173f.png>,
+        <https://zenodo.org/record/5645237/files/f48d70d5-4679-428c-8ec3-6507d03c8478.png> ;
+    dc:identifier "13a552be-0ce1-4340-bbaa-c24298cb505b" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_13a552be-0ce1-4340-bbaa-c24298cb505b_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_13a552be-0ce1-4340-bbaa-c24298cb505b> .
+

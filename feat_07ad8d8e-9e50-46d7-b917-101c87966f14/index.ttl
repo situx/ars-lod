@@ -1,0 +1,30 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_07ad8d8e-9e50-46d7-b917-101c87966f14> a ns2:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Hercules"@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/Hercules>,
+        <http://data.archaeology.link/data/ars/bow>,
+        <http://data.archaeology.link/data/ars/club>,
+        <http://data.archaeology.link/data/ars/lionsskin>,
+        <http://data.archaeology.link/data/ars/man> ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_4cdddb03-91b5-4064-bc2b-417fb46a9372>,
+        <http://data.archaeology.link/data/ars/ir_a742bf14-dcfe-42eb-9480-190c5731d1ce>,
+        <http://data.archaeology.link/data/ars/ir_dbddc626-1729-43c5-9b17-92c1f9dd26eb> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/mould-made_relief_decorated> ;
+    dc:identifier "07ad8d8e-9e50-46d7-b917-101c87966f14" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_07ad8d8e-9e50-46d7-b917-101c87966f14_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_07ad8d8e-9e50-46d7-b917-101c87966f14> ;
+    foaf:image <https://zenodo.org/record/5645237/files/07ad8d8e-9e50-46d7-b917-101c87966f14.png> .
+

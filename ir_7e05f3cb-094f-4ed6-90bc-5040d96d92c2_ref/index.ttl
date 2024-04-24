@@ -1,0 +1,11 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_7e05f3cb-094f-4ed6-90bc-5040d96d92c2_ref> a <http://purl.org/spar/biro/BibliographicReference>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Armstrong (1993), pp. 176-177" ;
+    dcterms:bibliographicCitation "Armstrong (1993), pp. 176-177" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> .
+
