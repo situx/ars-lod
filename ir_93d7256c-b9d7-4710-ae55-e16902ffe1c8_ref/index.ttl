@@ -1,7 +1,0 @@
-@prefix void: <http://rdfs.org/ns/void#> .
-
-<http://data.archaeology.link/data/ars/ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8_ref> a <http://purl.org/spar/biro/BibliographicReference>,
-        <http://www.w3.org/ns/ldp#Resource>,
-        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> .
-
