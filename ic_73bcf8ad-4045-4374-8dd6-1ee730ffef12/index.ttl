@@ -1,0 +1,30 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_73bcf8ad-4045-4374-8dd6-1ee730ffef12> a ns2:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "pottery tool"@en ;
+    ns2:3dmodel <http://data.archaeology.link/data/ars/ic_73bcf8ad-4045-4374-8dd6-1ee730ffef12_3dmodel> ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031770> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_4926efe5-c20f-4a4b-98a6-31dd29712a3c>,
+        <http://data.archaeology.link/data/ars/feat_fc33b8c7-b583-48a1-a5f9-ed9567dead00> ;
+    ns2:inventoryNumber "O.41385 (RGZM)" ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns2:number 1 ;
+    dc:identifier "73bcf8ad-4045-4374-8dd6-1ee730ffef12" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:P41_classified <http://data.archaeology.link/data/ars/unknownRepresentation> ;
+    ns1:P44_has_condition <http://data.archaeology.link/data/ars/unknownCondition> ;
+    ns1:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_73bcf8ad-4045-4374-8dd6-1ee730ffef12> ;
+    foaf:image <https://zenodo.org/record/5645180/files/73bcf8ad-4045-4374-8dd6-1ee730ffef12.jpg> .
+

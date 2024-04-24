@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_0e3ee98b-5c30-432a-9fbb-fd922e967628> a ns3:AppliqueNegative,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "medallion 19"@en ;
+    ns3:depicts <http://data.archaeology.link/data/ars/lion>,
+        <http://data.archaeology.link/data/ars/medallion> ;
+    ns3:madeBy <http://data.archaeology.link/data/ars/stamped_decorated> ;
+    dc:identifier "0e3ee98b-5c30-432a-9fbb-fd922e967628" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_0e3ee98b-5c30-432a-9fbb-fd922e967628_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_0e3ee98b-5c30-432a-9fbb-fd922e967628> ;
+    foaf:image <https://zenodo.org/record/5645237/files/0e3ee98b-5c30-432a-9fbb-fd922e967628.png> .
+

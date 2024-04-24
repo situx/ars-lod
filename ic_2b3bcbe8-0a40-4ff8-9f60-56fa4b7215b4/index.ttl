@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_2b3bcbe8-0a40-4ff8-9f60-56fa4b7215b4> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "rectangular dish with animals"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_2b3bcbe8-0a40-4ff8-9f60-56fa4b7215b4_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031625> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_273310fa-96c1-4b7a-9a71-d270e77402e1>,
+        <http://data.archaeology.link/data/ars/feat_302e7952-16ef-484d-b6b5-025d5ab264ee>,
+        <http://data.archaeology.link/data/ars/feat_349f29b1-31b5-48a7-a6bc-346bf66eadd0>,
+        <http://data.archaeology.link/data/ars/feat_3df414fb-6536-4a10-a733-25e182adf0a1> ;
+    ns1:inventoryNumber "O.40847 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns1:number 1 ;
+    dc:identifier "2b3bcbe8-0a40-4ff8-9f60-56fa4b7215b4" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/rectangularDish> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_2b3bcbe8-0a40-4ff8-9f60-56fa4b7215b4> ;
+    foaf:image <https://zenodo.org/record/5645180/files/2b3bcbe8-0a40-4ff8-9f60-56fa4b7215b4.jpg> .
+

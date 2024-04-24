@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_605c9e73-0a35-4f22-b164-539fe1a611d7> a ns2:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with woman"@en ;
+    ns2:3dmodel <http://data.archaeology.link/data/ars/ic_605c9e73-0a35-4f22-b164-539fe1a611d7_3dmodel> ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031313> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_777aa1e1-8501-43a9-8398-fc752e3ed98d> ;
+    ns2:inventoryNumber "O.40858 (RGZM)" ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    dc:identifier "605c9e73-0a35-4f22-b164-539fe1a611d7" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/bowl> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_310_320_430_450_AD_time> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_605c9e73-0a35-4f22-b164-539fe1a611d7> ;
+    foaf:image <https://zenodo.org/record/5645180/files/605c9e73-0a35-4f22-b164-539fe1a611d7.jpg> .
+

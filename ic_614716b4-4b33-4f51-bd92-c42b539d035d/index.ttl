@@ -1,0 +1,30 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_614716b4-4b33-4f51-bd92-c42b539d035d> a ns2:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould bear"@en ;
+    ns2:3dmodel <http://data.archaeology.link/data/ars/ic_614716b4-4b33-4f51-bd92-c42b539d035d_3dmodel> ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031695> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_097e2036-9135-432a-8e35-6b63f795bd08>,
+        <http://data.archaeology.link/data/ars/feat_5fd718eb-07ad-4a02-b479-185056347577> ;
+    ns2:inventoryNumber "O.41416 (RGZM)" ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns2:number 1 ;
+    dc:identifier "614716b4-4b33-4f51-bd92-c42b539d035d" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:P41_classified <http://data.archaeology.link/data/ars/mould> ;
+    ns1:P44_has_condition <http://data.archaeology.link/data/ars/unknownCondition> ;
+    ns1:P45_consists_of <http://data.archaeology.link/data/ars/plaster> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_614716b4-4b33-4f51-bd92-c42b539d035d> ;
+    foaf:image <https://zenodo.org/record/5645180/files/614716b4-4b33-4f51-bd92-c42b539d035d.jpg> .
+

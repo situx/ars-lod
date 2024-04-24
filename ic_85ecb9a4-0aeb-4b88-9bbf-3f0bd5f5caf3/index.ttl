@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with satyr and maenad"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031333> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_17194c99-b888-4d2d-ab87-d21d080b05b2> ;
+    ns1:inventoryNumber "O.40792 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    dc:identifier "85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/bowl> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_310_320_430_450_AD_time> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3> ;
+    foaf:image <https://zenodo.org/record/5645180/files/85ecb9a4-0aeb-4b88-9bbf-3f0bd5f5caf3.jpg> .
+

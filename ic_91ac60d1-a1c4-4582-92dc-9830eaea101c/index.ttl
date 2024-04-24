@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_91ac60d1-a1c4-4582-92dc-9830eaea101c> a ns1:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould Achilles"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_91ac60d1-a1c4-4582-92dc-9830eaea101c_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031719> ;
+    ns1:arachneModelID <http://arachne.dainst.org/entity/7031720> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_9b467a95-c195-4644-a3d6-b8ba7693c0ea>,
+        <http://data.archaeology.link/data/ars/feat_b20c67fa-9b82-495c-aa3e-09a68ce6a167>,
+        <http://data.archaeology.link/data/ars/feat_b852e3bb-15a9-4e82-b43b-49193095c54c>,
+        <http://data.archaeology.link/data/ars/feat_da18ee34-0a65-4218-b068-55d3239dec9e> ;
+    ns1:inventoryNumber "O.39781 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns1:number 1 ;
+    dc:identifier "91ac60d1-a1c4-4582-92dc-9830eaea101c" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/mould> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/unknownCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/plaster> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_91ac60d1-a1c4-4582-92dc-9830eaea101c> ;
+    foaf:image <https://zenodo.org/record/5645180/files/91ac60d1-a1c4-4582-92dc-9830eaea101c.jpg> .
+

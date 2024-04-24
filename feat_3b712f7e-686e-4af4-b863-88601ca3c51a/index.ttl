@@ -1,0 +1,27 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_3b712f7e-686e-4af4-b863-88601ca3c51a> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Mithras"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/Mithras>,
+        <http://data.archaeology.link/data/ars/bull>,
+        <http://data.archaeology.link/data/ars/man> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_4686da6a-9a43-4816-8e93-91cb2fb2c239>,
+        <http://data.archaeology.link/data/ars/ir_f07d6257-43f6-44a8-bad1-971ee029140b> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "3b712f7e-686e-4af4-b863-88601ca3c51a" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_3b712f7e-686e-4af4-b863-88601ca3c51a_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_3b712f7e-686e-4af4-b863-88601ca3c51a> ;
+    foaf:image <https://zenodo.org/record/5645237/files/3b712f7e-686e-4af4-b863-88601ca3c51a.png> .
+
