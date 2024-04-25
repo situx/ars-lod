@@ -1,0 +1,37 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_5c83ce00-b820-4908-81b2-821f75c07f76> a ns2:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould blossoms"@en ;
+    ns2:3dmodel <http://data.archaeology.link/data/ars/ic_5c83ce00-b820-4908-81b2-821f75c07f76_3dmodel> ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031759> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_3554631a-0573-46a5-8bcb-9bcb086d3a6d>,
+        <http://data.archaeology.link/data/ars/feat_3dd57e44-e8ab-41ce-a939-b10e63448060>,
+        <http://data.archaeology.link/data/ars/feat_4d886736-634c-4ee0-8280-0e3ad031cea1>,
+        <http://data.archaeology.link/data/ars/feat_6956e502-97c4-48b0-90a2-8be73b9afd23>,
+        <http://data.archaeology.link/data/ars/feat_728c83ea-d429-487f-9762-a38d56f464d8>,
+        <http://data.archaeology.link/data/ars/feat_8a20a277-078d-4cec-ab95-dc5e95229a34>,
+        <http://data.archaeology.link/data/ars/feat_9f1afda4-4bdc-405d-8d21-f2aaee225c75>,
+        <http://data.archaeology.link/data/ars/feat_abe7bda1-af91-4aa8-93a9-6e348d3cd1f2>,
+        <http://data.archaeology.link/data/ars/feat_f1920d54-c4ac-4da5-b9ce-e9abf1b0ee4d> ;
+    ns2:inventoryNumber "O.41386 (RGZM)" ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns2:number 1 ;
+    dc:identifier "5c83ce00-b820-4908-81b2-821f75c07f76" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:P41_classified <http://data.archaeology.link/data/ars/mould> ;
+    ns1:P44_has_condition <http://data.archaeology.link/data/ars/unknownCondition> ;
+    ns1:P45_consists_of <http://data.archaeology.link/data/ars/plaster> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_5c83ce00-b820-4908-81b2-821f75c07f76> ;
+    foaf:image <https://zenodo.org/record/5645180/files/5c83ce00-b820-4908-81b2-821f75c07f76.jpg> .
+

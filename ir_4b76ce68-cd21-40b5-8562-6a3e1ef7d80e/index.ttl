@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e> a ns1:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein fischende Eroten IX" ;
+    ns1:hasImage <https://zenodo.org/record/5645237/files/2a72c1f2-faf3-432d-956c-2d7d0fe56521.png>,
+        <https://zenodo.org/record/5645237/files/b0d98a1f-8152-4620-b804-27a0d3a0a918.png> ;
+    dc:identifier "4b76ce68-cd21-40b5-8562-6a3e1ef7d80e" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e> .
+

@@ -1,0 +1,28 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_676c294d-3118-4a3b-9906-6d6b2cf8140b> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Minerva"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/Minerva>,
+        <http://data.archaeology.link/data/ars/breast-band>,
+        <http://data.archaeology.link/data/ars/peplos>,
+        <http://data.archaeology.link/data/ars/woman> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_d8cfa2e1-0a51-461d-adfa-a2ab0c3134c9>,
+        <http://data.archaeology.link/data/ars/ir_e49781d7-8332-475a-99a7-dfbc74b84b33> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "676c294d-3118-4a3b-9906-6d6b2cf8140b" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_676c294d-3118-4a3b-9906-6d6b2cf8140b_target> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_676c294d-3118-4a3b-9906-6d6b2cf8140b> ;
+    foaf:image <https://zenodo.org/record/5645237/files/676c294d-3118-4a3b-9906-6d6b2cf8140b.png> .
+

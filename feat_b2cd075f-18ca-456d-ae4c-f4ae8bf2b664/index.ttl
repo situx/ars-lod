@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/oa#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_b2cd075f-18ca-456d-ae4c-f4ae8bf2b664> a ns3:Mould,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "man under aedicula"@en ;
+    ns3:depicts <http://data.archaeology.link/data/ars/aedicula>,
+        <http://data.archaeology.link/data/ars/man>,
+        <http://data.archaeology.link/data/ars/pallium> ;
+    dc:identifier "b2cd075f-18ca-456d-ae4c-f4ae8bf2b664" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:hasTarget <http://data.archaeology.link/data/ars/feat_b2cd075f-18ca-456d-ae4c-f4ae8bf2b664_target> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_b2cd075f-18ca-456d-ae4c-f4ae8bf2b664> ;
+    foaf:image <https://zenodo.org/record/5645237/files/b2cd075f-18ca-456d-ae4c-f4ae8bf2b664.png> .
+

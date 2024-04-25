@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba> a <http://archaeology.link/ontology#Loewenstein>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Venus im Tempel" ;
+    dc:identifier "1cc2b8f7-817a-4291-a481-f2f2377bc5ba" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_1cc2b8f7-817a-4291-a481-f2f2377bc5ba> .
+

@@ -1,0 +1,44 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_e6843124-6884-4227-85b3-2343a9aeabbd> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "rectangular dish with Achilles cycle"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_e6843124-6884-4227-85b3-2343a9aeabbd_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031553> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_1aa2ac87-0f09-4e55-9d8d-00b9c6cfd7f4>,
+        <http://data.archaeology.link/data/ars/feat_491b40ac-77f9-4bb2-af6c-a1d3d68b7f2c>,
+        <http://data.archaeology.link/data/ars/feat_6207de3a-cc00-48ae-bc59-f46ce4763055>,
+        <http://data.archaeology.link/data/ars/feat_6f887f98-24c1-481f-bb3f-5f0dfcdf5024>,
+        <http://data.archaeology.link/data/ars/feat_81e1267d-4813-4fca-92d3-1bca4967019f>,
+        <http://data.archaeology.link/data/ars/feat_88995830-a308-454d-9926-ecb00a9e603a>,
+        <http://data.archaeology.link/data/ars/feat_8a4d4ed5-9745-4275-9e3a-f0ec3b193b3e>,
+        <http://data.archaeology.link/data/ars/feat_9bf140cb-98c7-4d61-adf0-ce050c455b94>,
+        <http://data.archaeology.link/data/ars/feat_a427c90c-9e26-425f-bf60-00f49d6fbf8c>,
+        <http://data.archaeology.link/data/ars/feat_bc8fb6b3-176e-42d6-91df-31f5106ad95a>,
+        <http://data.archaeology.link/data/ars/feat_c0fc1dd7-ce83-40d8-b5ad-5f197015bc17>,
+        <http://data.archaeology.link/data/ars/feat_d890e628-802e-401f-b347-38f36c91ac14>,
+        <http://data.archaeology.link/data/ars/feat_fbc50d41-4fd4-4c5e-8870-90e069e191c5> ;
+    ns1:inventoryNumber "O.40836 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000019> ;
+    dc:identifier "e6843124-6884-4227-85b3-2343a9aeabbd" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/rectangularDish> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_350_355_450_475_AD_time> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_e6843124-6884-4227-85b3-2343a9aeabbd> ;
+    foaf:image <https://zenodo.org/record/5645180/files/e6843124-6884-4227-85b3-2343a9aeabbd.jpg> .
+

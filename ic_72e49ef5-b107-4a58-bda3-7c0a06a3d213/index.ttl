@@ -1,0 +1,37 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_72e49ef5-b107-4a58-bda3-7c0a06a3d213> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "rectangular dish with medallions"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_72e49ef5-b107-4a58-bda3-7c0a06a3d213_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031563> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_2ccdf8ed-ed43-4594-9b1a-7e45f31b1d16>,
+        <http://data.archaeology.link/data/ars/feat_35dd48f8-b11f-4e5e-bb5b-462c2931437b>,
+        <http://data.archaeology.link/data/ars/feat_5f456fa0-266d-45f9-ae06-5cbb9c80a716>,
+        <http://data.archaeology.link/data/ars/feat_9ca78cc5-cb76-4a25-b1f1-272ca70556d6>,
+        <http://data.archaeology.link/data/ars/feat_a472e2ad-e579-413a-9765-11a6cf55373d>,
+        <http://data.archaeology.link/data/ars/feat_bcf92d64-e85b-4af2-b8e8-b18186518788> ;
+    ns1:inventoryNumber "O.40766 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000019> ;
+    dc:identifier "72e49ef5-b107-4a58-bda3-7c0a06a3d213" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/rectangularDish> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_350_355_450_475_AD_time> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_72e49ef5-b107-4a58-bda3-7c0a06a3d213> ;
+    foaf:image <https://zenodo.org/record/5645180/files/72e49ef5-b107-4a58-bda3-7c0a06a3d213.jpg> .
+

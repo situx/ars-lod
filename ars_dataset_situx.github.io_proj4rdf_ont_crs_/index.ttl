@@ -1,0 +1,13 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ars_dataset_situx.github.io_proj4rdf_ont_crs_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: ars_dataset - geopesg:"@en ;
+    void:linkPredicate <http://situx.github.io/proj4rdf/ont/crs/axisDirection> ;
+    void:objectsTarget <http://situx.github.io/proj4rdf/ont/crs/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ars/ars_dataset> ;
+    void:triples 3 .
+

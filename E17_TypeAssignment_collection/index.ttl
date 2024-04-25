@@ -1,0 +1,20 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/E17_TypeAssignment_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "E17_TypeAssignment Instances Collection"@en ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    rdfs:member <http://data.archaeology.link/data/ars/bowl>,
+        <http://data.archaeology.link/data/ars/dish>,
+        <http://data.archaeology.link/data/ars/jug>,
+        <http://data.archaeology.link/data/ars/lamp>,
+        <http://data.archaeology.link/data/ars/mould>,
+        <http://data.archaeology.link/data/ars/plate>,
+        <http://data.archaeology.link/data/ars/rectangulardish>,
+        <http://data.archaeology.link/data/ars/stamp>,
+        <http://data.archaeology.link/data/ars/unclassifiedRepresentation>,
+        <http://data.archaeology.link/data/ars/unknownRepresentation> .
+

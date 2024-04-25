@@ -1,0 +1,40 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_6a881b21-9361-4adb-aac1-5a35f3d31e50> a ns2:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with Hercules"@en ;
+    ns2:3dmodel <http://data.archaeology.link/data/ars/ic_6a881b21-9361-4adb-aac1-5a35f3d31e50_3dmodel> ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031411> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031412> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_1f2d5f21-d4d3-4d96-88fc-3dfefaf311f2>,
+        <http://data.archaeology.link/data/ars/feat_2dc4690c-25d6-47bd-8d85-79dd297103c4>,
+        <http://data.archaeology.link/data/ars/feat_5aefe30e-5788-4f3e-ad1b-16690fa90a8a>,
+        <http://data.archaeology.link/data/ars/feat_88acb055-8d34-4d66-9a19-e6f1d1bd7438>,
+        <http://data.archaeology.link/data/ars/feat_8dee7d4f-86b3-4479-b8f5-26fbe360649a>,
+        <http://data.archaeology.link/data/ars/feat_b54609f1-0f14-46c1-b0ac-b31046ad3c40>,
+        <http://data.archaeology.link/data/ars/feat_c29da33d-bc62-4c08-8ffb-b098e1315cd5>,
+        <http://data.archaeology.link/data/ars/feat_d85ed954-309e-44ca-ae90-23d871fc6143> ;
+    ns2:inventoryNumber "O.39770 (RGZM)" ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    dc:identifier "6a881b21-9361-4adb-aac1-5a35f3d31e50" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/bowl> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/reconstructedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_310_320_430_450_AD_time> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_6a881b21-9361-4adb-aac1-5a35f3d31e50> ;
+    foaf:image <https://zenodo.org/record/5645180/files/6a881b21-9361-4adb-aac1-5a35f3d31e50.jpg> .
+
