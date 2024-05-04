@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/GenericPotform_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "GenericPotform Instances Collection"@en ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    rdfs:member <http://data.archaeology.link/data/ars/gf_acd64083-d3ab-4e1d-91d8-f2b043000000>,
+        <http://data.archaeology.link/data/ars/gf_acd64083-d3ab-4e1d-91d8-f2b043000001>,
+        <http://data.archaeology.link/data/ars/gf_acd64083-d3ab-4e1d-91d8-f2b043000002>,
+        <http://data.archaeology.link/data/ars/gf_acd64083-d3ab-4e1d-91d8-f2b043000003>,
+        <http://data.archaeology.link/data/ars/gf_acd64083-d3ab-4e1d-91d8-f2b043000004>,
+        <http://data.archaeology.link/data/ars/gf_acd64083-d3ab-4e1d-91d8-f2b043000012> .
+

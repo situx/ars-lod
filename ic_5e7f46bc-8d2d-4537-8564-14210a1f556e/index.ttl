@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_5e7f46bc-8d2d-4537-8564-14210a1f556e> a ns3:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould circus"@en ;
+    ns3:3dmodel <http://data.archaeology.link/data/ars/ic_5e7f46bc-8d2d-4537-8564-14210a1f556e_3dmodel> ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031667> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_56e7bc75-9d5d-4c83-83eb-01701b91d738>,
+        <http://data.archaeology.link/data/ars/feat_e4ee383f-712b-42e9-ba0a-953db32f5bed>,
+        <http://data.archaeology.link/data/ars/feat_f8b6446d-2386-41af-adfe-b472558d4615> ;
+    ns3:inventoryNumber "O.39817 (RGZM)" ;
+    ns3:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns3:number 1 ;
+    dc:identifier "5e7f46bc-8d2d-4537-8564-14210a1f556e" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/mould> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/completeCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/plaster> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_5e7f46bc-8d2d-4537-8564-14210a1f556e> ;
+    foaf:image <https://zenodo.org/record/5645180/files/5e7f46bc-8d2d-4537-8564-14210a1f556e.jpg> .
+

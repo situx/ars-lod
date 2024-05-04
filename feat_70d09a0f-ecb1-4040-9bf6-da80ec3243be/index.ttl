@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_70d09a0f-ecb1-4040-9bf6-da80ec3243be> a ns3:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "leaf"@en ;
+    ns3:depicts <http://data.archaeology.link/data/ars/palm_branch> ;
+    ns3:depictsReference <http://data.archaeology.link/data/ars/ir_9db8aeba-e99c-4f7d-9145-011ef086c5e3> ;
+    ns3:madeBy <http://data.archaeology.link/data/ars/mould-made_relief_decorated> ;
+    dc:identifier "70d09a0f-ecb1-4040-9bf6-da80ec3243be" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_70d09a0f-ecb1-4040-9bf6-da80ec3243be_target> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_70d09a0f-ecb1-4040-9bf6-da80ec3243be> ;
+    foaf:image <https://zenodo.org/record/5645237/files/70d09a0f-ecb1-4040-9bf6-da80ec3243be.png> .
+

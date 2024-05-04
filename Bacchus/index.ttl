@@ -1,0 +1,13 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/Bacchus> a <http://archaeology.link/ontology#Depiction>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Bacchus"@en ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    owl:sameAs <https://www.wikidata.org/wiki/Q645312> ;
+    skos:definition "ancient Roman deity of wine"@en .
+

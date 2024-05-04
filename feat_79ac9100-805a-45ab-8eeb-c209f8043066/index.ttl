@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_79ac9100-805a-45ab-8eeb-c209f8043066> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "ram 1"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/ram> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_f484edc8-a677-4d9c-a4aa-5752bdd6eca4> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "79ac9100-805a-45ab-8eeb-c209f8043066" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_79ac9100-805a-45ab-8eeb-c209f8043066_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_79ac9100-805a-45ab-8eeb-c209f8043066> ;
+    foaf:image <https://zenodo.org/record/5645237/files/79ac9100-805a-45ab-8eeb-c209f8043066.png> .
+

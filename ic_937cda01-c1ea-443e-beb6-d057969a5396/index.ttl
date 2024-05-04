@@ -1,0 +1,35 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_937cda01-c1ea-443e-beb6-d057969a5396> a ns1:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "stamp ornaments"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_937cda01-c1ea-443e-beb6-d057969a5396_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031671> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_526cd37c-e33b-4397-bbc3-73f23d7582a8>,
+        <http://data.archaeology.link/data/ars/feat_88e8802e-b97e-4146-a56a-5b6bab34c7f9>,
+        <http://data.archaeology.link/data/ars/feat_972de0b9-1ed1-4695-8967-0a74fca9c12f>,
+        <http://data.archaeology.link/data/ars/feat_b44ce574-e75c-452f-83e1-084f0d812e70>,
+        <http://data.archaeology.link/data/ars/feat_e4d790a4-ff48-4d74-9a32-ec3ab46d741e>,
+        <http://data.archaeology.link/data/ars/feat_edb9b810-e52b-4690-aa81-8accf9ef0168>,
+        <http://data.archaeology.link/data/ars/feat_f74e65ad-9164-4165-be46-2d941a3d3433> ;
+    ns1:inventoryNumber "O.41391 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns1:number 1 ;
+    dc:identifier "937cda01-c1ea-443e-beb6-d057969a5396" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/stamp> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_937cda01-c1ea-443e-beb6-d057969a5396> ;
+    foaf:image <https://zenodo.org/record/5645180/files/937cda01-c1ea-443e-beb6-d057969a5396.jpg> .
+

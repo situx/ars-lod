@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/oa#> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_9d877722-eace-4474-9cd0-4dcff08f4664> a ns2:AppliqueNegative_Part,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "frame"@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/strokes> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/incised_decorated> ;
+    dc:identifier "9d877722-eace-4474-9cd0-4dcff08f4664" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:hasTarget <http://data.archaeology.link/data/ars/feat_9d877722-eace-4474-9cd0-4dcff08f4664_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_9d877722-eace-4474-9cd0-4dcff08f4664> ;
+    foaf:image <https://zenodo.org/record/5645237/files/9d877722-eace-4474-9cd0-4dcff08f4664.png> .
+

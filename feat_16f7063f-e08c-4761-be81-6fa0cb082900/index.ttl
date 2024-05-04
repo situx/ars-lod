@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/oa#> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_16f7063f-e08c-4761-be81-6fa0cb082900> a ns2:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "leopard"@en ;
+    ns2:depicts <http://data.archaeology.link/data/ars/leopard> ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_595d1915-c5ab-46f9-b6b1-c037438638cf> ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "16f7063f-e08c-4761-be81-6fa0cb082900" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:hasTarget <http://data.archaeology.link/data/ars/feat_16f7063f-e08c-4761-be81-6fa0cb082900_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_16f7063f-e08c-4761-be81-6fa0cb082900> ;
+    foaf:image <https://zenodo.org/record/5645237/files/16f7063f-e08c-4761-be81-6fa0cb082900.png> .
+

@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_21f4439b-2f9d-41bd-b703-f87e0ca5b50a> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "fragment with ornament"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_21f4439b-2f9d-41bd-b703-f87e0ca5b50a_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031689> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_1438a834-c574-4491-b15a-751b56e2e09d>,
+        <http://data.archaeology.link/data/ars/feat_4788b4b6-cc9c-4c88-a69f-6a6352063fb6>,
+        <http://data.archaeology.link/data/ars/feat_50881862-51ba-48b8-97fe-31ed2af7567a> ;
+    ns1:inventoryNumber "O.41378a (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns1:number 1 ;
+    dc:identifier "21f4439b-2f9d-41bd-b703-f87e0ca5b50a" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/unknownRepresentation> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_21f4439b-2f9d-41bd-b703-f87e0ca5b50a> ;
+    foaf:image <https://zenodo.org/record/5645180/files/21f4439b-2f9d-41bd-b703-f87e0ca5b50a.jpg> .
+

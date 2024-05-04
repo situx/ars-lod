@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_6c9f5e16-284e-4c19-a650-c2ffa31114b5> a ns1:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould aedicula"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_6c9f5e16-284e-4c19-a650-c2ffa31114b5_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031715> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_25b3931f-eea6-4407-bb0b-eb284bf03327>,
+        <http://data.archaeology.link/data/ars/feat_bf8917ce-8943-4516-ae99-fd88ea3aec78>,
+        <http://data.archaeology.link/data/ars/feat_f9886e97-05d2-4dbf-87cd-c979371c74e0> ;
+    ns1:inventoryNumber "O.41822 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns1:number 1 ;
+    dc:identifier "6c9f5e16-284e-4c19-a650-c2ffa31114b5" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/mould> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/unknownCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/plaster> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_6c9f5e16-284e-4c19-a650-c2ffa31114b5> ;
+    foaf:image <https://zenodo.org/record/5645180/files/6c9f5e16-284e-4c19-a650-c2ffa31114b5.jpg> .
+

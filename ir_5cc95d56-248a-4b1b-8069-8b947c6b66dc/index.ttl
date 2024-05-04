@@ -1,0 +1,27 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc> a ns2:Armstrong,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Armstrong 6.161/6.162" ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/460d305b-f761-432b-a551-9ff73ee2bb56.png>,
+        <https://zenodo.org/record/5645237/files/79febc62-ab48-4f63-af8b-8fade3ca1cb2.png>,
+        <https://zenodo.org/record/5645237/files/8fd98468-7535-41b6-aa1d-96495c7652c3.png>,
+        <https://zenodo.org/record/5645237/files/95da1930-a9aa-48e7-aca6-b6dc0c1819de.png>,
+        <https://zenodo.org/record/5645237/files/b45336ca-ef8b-4eef-af0d-e97d2d513e64.png>,
+        <https://zenodo.org/record/5645237/files/b4e14992-991d-4ffe-9e0b-dbee27fc46a4.png>,
+        <https://zenodo.org/record/5645237/files/cbdd3cf0-c622-440a-9369-79775d179544.png>,
+        <https://zenodo.org/record/5645237/files/d6eb05bc-6e9f-41c7-bb1c-b0bd399b8028.png>,
+        <https://zenodo.org/record/5645237/files/eff8938a-8007-47e6-99aa-b649b8f64ea8.png> ;
+    dc:identifier "5cc95d56-248a-4b1b-8069-8b947c6b66dc" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc> .
+
