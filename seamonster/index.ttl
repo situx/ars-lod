@@ -1,0 +1,10 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/seamonster> a <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    owl:sameAs <https://www.wikidata.org/wiki/Q920028> ;
+    skos:definition "mythical or legendary creature, believed to dwell in the sea and often imagined to be of immense size"@en .
+

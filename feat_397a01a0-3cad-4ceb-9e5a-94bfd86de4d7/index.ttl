@@ -1,0 +1,28 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_397a01a0-3cad-4ceb-9e5a-94bfd86de4d7> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns3:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "man 3"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/Cantharus>,
+        <http://data.archaeology.link/data/ars/Thyrsos>,
+        <http://data.archaeology.link/data/ars/man>,
+        <http://data.archaeology.link/data/ars/satyr> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_3cc0392e-84d6-4d29-95f7-8d30d914bb6d>,
+        <http://data.archaeology.link/data/ars/ir_fa1b5075-c17f-4349-87c7-1f4d5f5cda87> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "397a01a0-3cad-4ceb-9e5a-94bfd86de4d7" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:hasTarget <http://data.archaeology.link/data/ars/feat_397a01a0-3cad-4ceb-9e5a-94bfd86de4d7_target> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_397a01a0-3cad-4ceb-9e5a-94bfd86de4d7> ;
+    foaf:image <https://zenodo.org/record/5645237/files/397a01a0-3cad-4ceb-9e5a-94bfd86de4d7.png> .
+

@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_2faab18d-22f9-4192-baf4-0f3fd86b4c1c> a ns1:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "fragment with man"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_2faab18d-22f9-4192-baf4-0f3fd86b4c1c_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031683> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_163759d7-7ba5-4567-9a4f-3f891f2d2de3>,
+        <http://data.archaeology.link/data/ars/feat_31707ed6-bf36-4d74-aa48-f36970dfc700>,
+        <http://data.archaeology.link/data/ars/feat_3530c173-be81-4995-8063-cd3e02bbc9d7>,
+        <http://data.archaeology.link/data/ars/feat_ed7c55fb-1212-4a78-b7d0-8e22b78e8232> ;
+    ns1:inventoryNumber "O.41374 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns1:number 1 ;
+    dc:identifier "2faab18d-22f9-4192-baf4-0f3fd86b4c1c" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/unclassifiedRepresentation> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/plaster> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_2faab18d-22f9-4192-baf4-0f3fd86b4c1c> ;
+    foaf:image <https://zenodo.org/record/5645180/files/2faab18d-22f9-4192-baf4-0f3fd86b4c1c.jpg> .
+

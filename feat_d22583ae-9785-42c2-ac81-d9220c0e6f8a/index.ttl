@@ -1,0 +1,30 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/oa#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_d22583ae-9785-42c2-ac81-d9220c0e6f8a> a ns3:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Victoria"@en ;
+    ns3:depicts <http://data.archaeology.link/data/ars/Victoria>,
+        <http://data.archaeology.link/data/ars/breast-band>,
+        <http://data.archaeology.link/data/ars/helmet>,
+        <http://data.archaeology.link/data/ars/palm_branch>,
+        <http://data.archaeology.link/data/ars/peplos>,
+        <http://data.archaeology.link/data/ars/woman> ;
+    ns3:depictsReference <http://data.archaeology.link/data/ars/ir_3f4bfb7e-de57-44f5-ace2-aba988406428>,
+        <http://data.archaeology.link/data/ars/ir_90632a7f-020e-4c1d-afc0-e035f1913b03> ;
+    ns3:madeBy <http://data.archaeology.link/data/ars/applied_decorated> ;
+    dc:identifier "d22583ae-9785-42c2-ac81-d9220c0e6f8a" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:hasTarget <http://data.archaeology.link/data/ars/feat_d22583ae-9785-42c2-ac81-d9220c0e6f8a_target> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_d22583ae-9785-42c2-ac81-d9220c0e6f8a> ;
+    foaf:image <https://zenodo.org/record/5645237/files/d22583ae-9785-42c2-ac81-d9220c0e6f8a.png> .
+

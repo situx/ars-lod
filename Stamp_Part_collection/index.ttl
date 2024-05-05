@@ -1,0 +1,12 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/Stamp_Part_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Stamp_Part Instances Collection"@en ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    rdfs:member <http://data.archaeology.link/data/ars/feat_3479cd72-448d-445a-8225-d28ba1cf430b>,
+        <http://data.archaeology.link/data/ars/feat_d6db094c-dec9-446f-99f5-4b95096ecb5d> .
+

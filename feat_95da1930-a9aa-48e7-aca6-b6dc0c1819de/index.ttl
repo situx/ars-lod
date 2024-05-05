@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_95da1930-a9aa-48e7-aca6-b6dc0c1819de> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "animals 1"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/hare>,
+        <http://data.archaeology.link/data/ars/hound> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_5cc95d56-248a-4b1b-8069-8b947c6b66dc> ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/mould-made_relief_decorated> ;
+    dc:identifier "95da1930-a9aa-48e7-aca6-b6dc0c1819de" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_95da1930-a9aa-48e7-aca6-b6dc0c1819de_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_95da1930-a9aa-48e7-aca6-b6dc0c1819de> ;
+    foaf:image <https://zenodo.org/record/5645237/files/95da1930-a9aa-48e7-aca6-b6dc0c1819de.png> .
+

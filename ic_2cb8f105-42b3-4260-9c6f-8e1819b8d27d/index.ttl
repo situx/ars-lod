@@ -1,0 +1,50 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_2cb8f105-42b3-4260-9c6f-8e1819b8d27d> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "dish with biblical scenes"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_2cb8f105-42b3-4260-9c6f-8e1819b8d27d_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031321> ;
+    ns1:arachneModelID <http://arachne.dainst.org/entity/7031322> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_0d26c1ca-c360-488e-be08-c0eb74ddede9>,
+        <http://data.archaeology.link/data/ars/feat_1b548649-eb3e-4a87-ad7f-b12207855cec>,
+        <http://data.archaeology.link/data/ars/feat_26580838-1109-47e9-96b4-5fe32de48a9e>,
+        <http://data.archaeology.link/data/ars/feat_27e73ae9-265d-4799-b871-a4566b6ba598>,
+        <http://data.archaeology.link/data/ars/feat_355a353c-8be1-4a62-ba6e-1791a9030308>,
+        <http://data.archaeology.link/data/ars/feat_4e16f061-06f6-4313-80c1-35a384cbb179>,
+        <http://data.archaeology.link/data/ars/feat_5688ebd6-7b1c-4844-80be-1125d80932a0>,
+        <http://data.archaeology.link/data/ars/feat_7a16cea8-c1b5-4d08-aa8f-b41b8d0e6328>,
+        <http://data.archaeology.link/data/ars/feat_7d0d0305-c52a-415d-95f0-839698bd2e57>,
+        <http://data.archaeology.link/data/ars/feat_8b6041e1-4bfa-440f-b106-3e7c42f319d6>,
+        <http://data.archaeology.link/data/ars/feat_8f9b9ad6-0b9d-4768-be8f-bfad32665506>,
+        <http://data.archaeology.link/data/ars/feat_ac43b3b7-0dd0-4cf4-b618-d628a2d76531>,
+        <http://data.archaeology.link/data/ars/feat_bb6f9c4e-ea84-4366-b399-0217d2b28962>,
+        <http://data.archaeology.link/data/ars/feat_bc1fcdb2-15bc-4cd8-9602-35eae1c353af>,
+        <http://data.archaeology.link/data/ars/feat_bee73818-dcc8-4dbf-a83f-c4c7f8d638e8>,
+        <http://data.archaeology.link/data/ars/feat_c3547465-8655-473c-975d-3060448f8f84>,
+        <http://data.archaeology.link/data/ars/feat_dab5702b-5ed6-4d43-b418-66f9af2badf3>,
+        <http://data.archaeology.link/data/ars/feat_f2271f57-63ee-4111-b348-42e82132053f> ;
+    ns1:inventoryNumber "O.40835 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14> ;
+    dc:identifier "2cb8f105-42b3-4260-9c6f-8e1819b8d27d" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/dish> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_290_300_375_time> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_2cb8f105-42b3-4260-9c6f-8e1819b8d27d> ;
+    foaf:image <https://zenodo.org/record/5645180/files/2cb8f105-42b3-4260-9c6f-8e1819b8d27d.jpg> .
+
