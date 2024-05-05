@@ -1,0 +1,36 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_9851bb13-303e-452b-ae1d-afa27fc5f7a0> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with paralytic"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_9851bb13-303e-452b-ae1d-afa27fc5f7a0_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031381> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_361a9ebe-08f7-4deb-9468-95d9cd6abb80>,
+        <http://data.archaeology.link/data/ars/feat_692e51a4-2ce5-487b-b997-576bc6f00085>,
+        <http://data.archaeology.link/data/ars/feat_7a842070-1dbf-4ca4-b0d1-bcad8e5687e7>,
+        <http://data.archaeology.link/data/ars/feat_9079c0db-3880-42c0-aa87-5c8f5d82927a>,
+        <http://data.archaeology.link/data/ars/feat_9cb7aadc-4b8e-4bba-935e-2672f3849afb> ;
+    ns1:inventoryNumber "O.39448 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    dc:identifier "9851bb13-303e-452b-ae1d-afa27fc5f7a0" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/bowl> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/reconstructedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_310_320_430_450_AD_time> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_9851bb13-303e-452b-ae1d-afa27fc5f7a0> ;
+    foaf:image <https://zenodo.org/record/5645180/files/9851bb13-303e-452b-ae1d-afa27fc5f7a0.jpg> .
+

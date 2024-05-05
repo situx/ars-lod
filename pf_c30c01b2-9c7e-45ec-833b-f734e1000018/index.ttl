@@ -1,0 +1,27 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000018> a <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Hayes 54"@en ;
+    ns2:createdBy <http://www.wikidata.org/entity/Q1702051> ;
+    ns2:derivedFrom <http://www.wikidata.org/entity/Q50262763> ;
+    ns2:exactMatch <http://www.wikidata.org/entity/Q109547587> ;
+    ns2:generalisedAs <http://data.archaeology.link/data/ars/gf_acd64083-d3ab-4e1d-91d8-f2b043000003> ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/2392ba20-fc5a-4921-8f5d-040c50ecea03.jpg>,
+        <https://zenodo.org/record/5645180/files/a635d20a-d1a4-4e5d-a2b2-524f5a6d416e.jpg>,
+        <https://zenodo.org/record/5645180/files/abbbd296-018b-4094-9131-aaf25280825b.jpg>,
+        <https://zenodo.org/record/5645180/files/c2f5bec0-1bee-49a1-b68f-d805d9c4b3b5.jpg>,
+        <https://zenodo.org/record/5645180/files/d8e7a541-90ae-4161-9b9e-f944e53bb67e.jpg> ;
+    dc:identifier "c30c01b2-9c7e-45ec-833b-f734e1000018" ;
+    dcterms:bibliographicCitation "Hayes (1972), p.82-83" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    rdfs:subClassOf ns2:AfricanRedSlipWare ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_pf_c30c01b2-9c7e-45ec-833b-f734e1000018> .
+

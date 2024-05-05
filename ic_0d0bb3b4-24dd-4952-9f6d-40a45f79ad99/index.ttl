@@ -1,0 +1,34 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_0d0bb3b4-24dd-4952-9f6d-40a45f79ad99> a ns1:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "lamp with human"@en ;
+    ns1:3dmodel <http://data.archaeology.link/data/ars/ic_0d0bb3b4-24dd-4952-9f6d-40a45f79ad99_3dmodel> ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031145> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_5dbc1bea-a444-48b5-92a1-8d5c73805044>,
+        <http://data.archaeology.link/data/ars/feat_669ba84f-d58a-4b6a-af65-e321576690d2>,
+        <http://data.archaeology.link/data/ars/feat_ea9a3d02-122e-418e-b2fc-0bfa96a54746> ;
+    ns1:inventoryNumber "O.41264 (RGZM)" ;
+    ns1:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns1:number 1 ;
+    ns1:representedBy <http://data.archaeology.link/data/ars/pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06> ;
+    dc:identifier "0d0bb3b4-24dd-4952-9f6d-40a45f79ad99" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/lamp> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/completeCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_330_370_to_early_5_century_AD_time> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_0d0bb3b4-24dd-4952-9f6d-40a45f79ad99> ;
+    foaf:image <https://zenodo.org/record/5645180/files/0d0bb3b4-24dd-4952-9f6d-40a45f79ad99.jpg> .
+

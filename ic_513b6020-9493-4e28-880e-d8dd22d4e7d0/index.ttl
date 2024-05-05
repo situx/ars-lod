@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_513b6020-9493-4e28-880e-d8dd22d4e7d0> a ns2:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "stamp ornaments"@en ;
+    ns2:3dmodel <http://data.archaeology.link/data/ars/ic_513b6020-9493-4e28-880e-d8dd22d4e7d0_3dmodel> ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031681> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_64114576-6242-4640-a351-6b73c92ee108>,
+        <http://data.archaeology.link/data/ars/feat_7fe7ba42-a5d4-4675-af73-abf4129d5f3b>,
+        <http://data.archaeology.link/data/ars/feat_b129930d-55f6-4db8-aaf8-9d9f316a9610>,
+        <http://data.archaeology.link/data/ars/feat_b96f4af5-5c97-4f41-b20d-c4011929f7e2>,
+        <http://data.archaeology.link/data/ars/feat_e4379221-e3e7-42df-a9e5-9a773d39590a> ;
+    ns2:inventoryNumber "O.41390 (RGZM)" ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns2:number 1 ;
+    dc:identifier "513b6020-9493-4e28-880e-d8dd22d4e7d0" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/stamp> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/fragmentedCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_513b6020-9493-4e28-880e-d8dd22d4e7d0> ;
+    foaf:image <https://zenodo.org/record/5645180/files/513b6020-9493-4e28-880e-d8dd22d4e7d0.jpg> .
+

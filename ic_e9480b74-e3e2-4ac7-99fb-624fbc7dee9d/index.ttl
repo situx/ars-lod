@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_e9480b74-e3e2-4ac7-99fb-624fbc7dee9d> a ns2:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "lamp with fish"@en ;
+    ns2:3dmodel <http://data.archaeology.link/data/ars/ic_e9480b74-e3e2-4ac7-99fb-624fbc7dee9d_3dmodel> ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031587> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_b2d6dab9-6a28-469d-96ac-f9a89d3a57e9>,
+        <http://data.archaeology.link/data/ars/feat_d4f99832-f4ef-4f9b-b3f8-ac5a2af17468>,
+        <http://data.archaeology.link/data/ars/feat_f997c281-00ba-4919-8b3b-0e059d69d89a> ;
+    ns2:inventoryNumber "O.34573 (RGZM)" ;
+    ns2:madeBy <http://data.archaeology.link/data/ars/mould_made> ;
+    ns2:number 1 ;
+    dc:identifier "e9480b74-e3e2-4ac7-99fb-624fbc7dee9d" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:P41_classified <http://data.archaeology.link/data/ars/lamp> ;
+    ns3:P44_has_condition <http://data.archaeology.link/data/ars/completeCondition> ;
+    ns3:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_e9480b74-e3e2-4ac7-99fb-624fbc7dee9d> ;
+    foaf:image <https://zenodo.org/record/5645180/files/e9480b74-e3e2-4ac7-99fb-624fbc7dee9d.jpg> .
+

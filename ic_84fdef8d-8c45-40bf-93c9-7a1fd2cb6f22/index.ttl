@@ -1,0 +1,35 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_84fdef8d-8c45-40bf-93c9-7a1fd2cb6f22> a ns3:ARS_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with woman and lions"@en ;
+    ns3:3dmodel <http://data.archaeology.link/data/ars/ic_84fdef8d-8c45-40bf-93c9-7a1fd2cb6f22_3dmodel> ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031467> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_2f6b9de5-7346-41b7-8a2c-aba95381e6a9>,
+        <http://data.archaeology.link/data/ars/feat_4c9a5be4-4b04-491d-8328-18d67f11b595>,
+        <http://data.archaeology.link/data/ars/feat_816ee6a7-8ed1-4b64-90ef-3f07fed93c07>,
+        <http://data.archaeology.link/data/ars/feat_9a23e059-18d5-469a-9e31-bfb0439943b9> ;
+    ns3:inventoryNumber "O.39679 (RGZM)" ;
+    ns3:madeBy <http://data.archaeology.link/data/ars/potter_wheel> ;
+    ns3:number 1 ;
+    ns3:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    dc:identifier "84fdef8d-8c45-40bf-93c9-7a1fd2cb6f22" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:P41_classified <http://data.archaeology.link/data/ars/bowl> ;
+    ns2:P44_has_condition <http://data.archaeology.link/data/ars/reconstructedCondition> ;
+    ns2:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    time:hasTime <http://data.archaeology.link/data/ars/late_antiquity_310_320_430_450_AD_time> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_84fdef8d-8c45-40bf-93c9-7a1fd2cb6f22> ;
+    foaf:image <https://zenodo.org/record/5645180/files/84fdef8d-8c45-40bf-93c9-7a1fd2cb6f22.jpg> .
+

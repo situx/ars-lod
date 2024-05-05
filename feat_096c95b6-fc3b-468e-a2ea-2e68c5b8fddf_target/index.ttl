@@ -1,0 +1,10 @@
+@prefix ns1: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_096c95b6-fc3b-468e-a2ea-2e68c5b8fddf_target> a <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "3D Annotation target Annotation of feat_096c95b6-fc3b-468e-a2ea-2e68c5b8fddf"@en ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:hasSelector <http://data.archaeology.link/data/ars/feat_096c95b6-fc3b-468e-a2ea-2e68c5b8fddf_geom> .
+

@@ -1,0 +1,11 @@
+@prefix ns1: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_cfcc9c4e-1122-4626-8240-46fad8fe1d12_target> a <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "3D Annotation target Annotation of feat_cfcc9c4e-1122-4626-8240-46fad8fe1d12"@en ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:hasSelector <http://data.archaeology.link/data/ars/feat_cfcc9c4e-1122-4626-8240-46fad8fe1d12_geom> ;
+    ns1:hasSource <https://arachne.dainst.org/data/model/317.nxz> .
+

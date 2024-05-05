@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_39123bcd-4331-4911-859a-3b3c3f775da7> a ns1:Atlante,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Atlante 155"@en ;
+    ns1:hasImage <https://zenodo.org/record/5645237/files/7cdd9eee-926b-4985-a9e4-2ed7a687aced.png> ;
+    dc:identifier "39123bcd-4331-4911-859a-3b3c3f775da7" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_39123bcd-4331-4911-859a-3b3c3f775da7_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_39123bcd-4331-4911-859a-3b3c3f775da7> .
+

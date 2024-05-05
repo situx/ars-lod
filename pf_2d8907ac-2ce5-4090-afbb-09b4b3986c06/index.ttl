@@ -1,0 +1,37 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06> a <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Atlante X A1a"@en ;
+    ns1:createdBy <http://www.wikidata.org/entity/Q3803714> ;
+    ns1:derivedFrom <http://www.wikidata.org/entity/Q109525400> ;
+    ns1:exactMatch <http://www.wikidata.org/entity/Q109547553> ;
+    ns1:generalisedAs <http://data.archaeology.link/data/ars/gf_acd64083-d3ab-4e1d-91d8-f2b043000012> ;
+    ns1:hasImage <https://zenodo.org/record/5645180/files/0adaf0b2-b332-48e6-bc24-4869b97cddd2.jpg>,
+        <https://zenodo.org/record/5645180/files/0d0bb3b4-24dd-4952-9f6d-40a45f79ad99.jpg>,
+        <https://zenodo.org/record/5645180/files/25b40190-bc1f-4848-b1dc-6117f52beb19.jpg>,
+        <https://zenodo.org/record/5645180/files/48ea1d18-6f68-4722-911c-39b91f7a4dc8.jpg>,
+        <https://zenodo.org/record/5645180/files/628d4a12-c65f-4a1d-b750-0721fe17d8a6.jpg>,
+        <https://zenodo.org/record/5645180/files/6a010361-1564-4b97-98df-249e5ab8bc26.jpg>,
+        <https://zenodo.org/record/5645180/files/79ae1a7a-5fcc-4a8b-a1d7-1337e2d89783.jpg>,
+        <https://zenodo.org/record/5645180/files/88e6c61b-637c-4d9d-91a6-8c55f08b02dd.jpg>,
+        <https://zenodo.org/record/5645180/files/8eaf5eb2-dca6-4937-a1a7-d8aaf108e0a5.jpg>,
+        <https://zenodo.org/record/5645180/files/ae4dbf14-8923-4b78-9596-d36db460dcba.jpg>,
+        <https://zenodo.org/record/5645180/files/c078b794-e522-4d7c-8195-b9ceca44943a.jpg>,
+        <https://zenodo.org/record/5645180/files/cfdc258d-f2c8-4869-adeb-7e247c0207fa.jpg>,
+        <https://zenodo.org/record/5645180/files/eb4c5d03-04d5-401d-b9dc-79e615dea6a4.jpg>,
+        <https://zenodo.org/record/5645180/files/f36c6669-a657-4094-b89a-c6f435fad703.jpg>,
+        <https://zenodo.org/record/5645180/files/fa8a6032-f9a6-4b5a-bbb8-02c6427b08b5.jpg> ;
+    dc:identifier "2d8907ac-2ce5-4090-afbb-09b4b3986c06" ;
+    dcterms:bibliographicCitation "Atlante (1981), p. 200" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    rdfs:subClassOf ns1:AfricanRedSlipWare ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06> .
+

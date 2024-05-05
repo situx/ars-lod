@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_6c2297fc-3b16-412f-b58c-d83f4d703711> a ns1:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Hercules XV" ;
+    ns1:hasImage <https://zenodo.org/record/5645237/files/a16d2e40-6e5f-4392-a10e-bfe82f0523c3.png> ;
+    dc:identifier "6c2297fc-3b16-412f-b58c-d83f4d703711" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_6c2297fc-3b16-412f-b58c-d83f4d703711_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_6c2297fc-3b16-412f-b58c-d83f4d703711> .
+

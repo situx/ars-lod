@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_6bfd1c89-10f1-4404-a80a-85943170e99b> a ns3:Manufacturing_Object,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "stamp ornaments"@en ;
+    ns3:3dmodel <http://data.archaeology.link/data/ars/ic_6bfd1c89-10f1-4404-a80a-85943170e99b_3dmodel> ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031751> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_f7bdaf3f-ce54-49ba-8898-5f9dd4f49604> ;
+    ns3:inventoryNumber "O.41393 (RGZM)" ;
+    ns3:madeBy <http://data.archaeology.link/data/ars/nan> ;
+    ns3:number 1 ;
+    dc:identifier "6bfd1c89-10f1-4404-a80a-85943170e99b" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:P41_classified <http://data.archaeology.link/data/ars/stamp> ;
+    ns1:P44_has_condition <http://data.archaeology.link/data/ars/unknownCondition> ;
+    ns1:P45_consists_of <http://data.archaeology.link/data/ars/clay> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_6bfd1c89-10f1-4404-a80a-85943170e99b> ;
+    foaf:image <https://zenodo.org/record/5645180/files/6bfd1c89-10f1-4404-a80a-85943170e99b.jpg> .
+

@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_e0936d7a-e0c7-4769-9cd3-48c1ebb1bd44> a ns2:Hayes,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Hayes Achilles cycle"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/3a1d28cd-7f77-47c0-8798-c5bde843b99f.png>,
+        <https://zenodo.org/record/5645237/files/5c03100e-be27-41b0-bf8a-a16b22811d22.png> ;
+    dc:identifier "e0936d7a-e0c7-4769-9cd3-48c1ebb1bd44" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_e0936d7a-e0c7-4769-9cd3-48c1ebb1bd44_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_e0936d7a-e0c7-4769-9cd3-48c1ebb1bd44> .
+

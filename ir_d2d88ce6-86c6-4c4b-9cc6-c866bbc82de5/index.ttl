@@ -1,0 +1,28 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5> a ns1:Loewenstein,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Löwenstein Entdeckung Achills auf Skyros" ;
+    ns1:hasImage <https://zenodo.org/record/5645237/files/0febf4bf-70be-4c07-a70c-8bbf84951527.png>,
+        <https://zenodo.org/record/5645237/files/10254841-7ed0-4965-8cbb-f52cdd25b922.png>,
+        <https://zenodo.org/record/5645237/files/159b5d08-6df9-4d7c-92b0-f6c34209ae10.png>,
+        <https://zenodo.org/record/5645237/files/3a1d28cd-7f77-47c0-8798-c5bde843b99f.png>,
+        <https://zenodo.org/record/5645237/files/57b927d0-3092-4fc5-9e5f-c31fa31f324d.png>,
+        <https://zenodo.org/record/5645237/files/5b1c192a-af3c-4a63-b87a-a5f2b4dbd1fb.png>,
+        <https://zenodo.org/record/5645237/files/5c03100e-be27-41b0-bf8a-a16b22811d22.png>,
+        <https://zenodo.org/record/5645237/files/67dd3b27-86b9-4e94-bf6c-23164ebbf23a.png>,
+        <https://zenodo.org/record/5645237/files/c33da71a-070b-4b90-a6f8-95d8fdf12ddf.png>,
+        <https://zenodo.org/record/5645237/files/f698a74c-03d4-465e-ad6f-5c42701e5817.png> ;
+    dc:identifier "d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5" ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ars/ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5_ref> ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5> .
+

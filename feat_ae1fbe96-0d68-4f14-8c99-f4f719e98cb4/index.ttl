@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/oa#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_ae1fbe96-0d68-4f14-8c99-f4f719e98cb4> a ns1:Applique,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns2:Annotation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "hare"@en ;
+    ns1:depicts <http://data.archaeology.link/data/ars/hare> ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_70bbf36f-ccd4-4bf7-9aed-94003400967f> ;
+    dc:identifier "ae1fbe96-0d68-4f14-8c99-f4f719e98cb4" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns2:hasTarget <http://data.archaeology.link/data/ars/feat_ae1fbe96-0d68-4f14-8c99-f4f719e98cb4_target> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_ae1fbe96-0d68-4f14-8c99-f4f719e98cb4> ;
+    foaf:image <https://zenodo.org/record/5645237/files/ae1fbe96-0d68-4f14-8c99-f4f719e98cb4.png> .
+
